@@ -8,15 +8,15 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : Karl Broman
+title : wxie2017
 author :
-  name : Karl Broman
-  email : kbroman@gmail.com
-  github : kbroman
-  twitter : kwbroman
+  name : wxie2017
+  email : xiewensheng@hotmail.com
+  github : wxie2017
+  twitter : wxie2016
   feedburner : nil
 
-production_url : https://kbroman.github.io
+production_url : https://wxie2017.github.io
 
 # Tell Github to use the kramdown markdown interpreter
 # (see https://help.github.com/articles/migrating-your-pages-site-from-maruku)
