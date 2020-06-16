@@ -1,23 +1,9 @@
-# -**- mode:org; coding: utf-8 -**-
+---
+layout: page
+title: 关于 SpaceX 使用的硬件和软件
+description: something about SpaceX's hardware and software
+---
 
-#+TITLE:     关于 SpaceX 使用的硬件和软件
-#+AUTHOR:    Wensheng Xie
-#+EMAIL:     wxie@member.fsf.org
-#+LANGUAGE:  zh
-#+OPTIONS: H:2 num:nil toc:nil \n:nil @:t ::t |:t ^:{} _:{} *:t TeX:t LaTeX:t
-#+STYLE: <link rel="stylesheet" type="text/css" href="org.css" />
-#+LATEX_CLASS: myclass
-#+LATEX_CLASS_OPTIONS: [a4paper]
-#+ATTR_LATEX: width=0.38\textwidth wrap placement={r}{0.4\textwidth}
-#+ATTR_LATEX: :float multicolumn
-#+REVEAL_TRANS: None
-#+REVEAL_THEME: Black
-#+TAGS: @work(w) @home(h) @road(r) laptop(l) pc(p) { @read : @read_book @read_ebook }
-#+ATTR_ORG: :width 30
-#+ATTR_HTML: width="100px"
-#+EXPORT_SELECT_TAGS: export
-#+EXPORT_EXCLUDE_TAGS: noexport
-#+STARTUP: fold
 
 上周末，两名 NASA 宇航员，Bob Behnken 和 Doug Hurley，搭乘商业公司 SpaceX 的载人
 飞船成功进入国际空间站。这一壮举不但恢复了 NASA 中断近十年的载人发射，也点燃了世
