@@ -17,4 +17,4 @@ description: wxie's speeches
 
 #### 2020
 
-- [My Toastmaster joining speech]（speech/my_toastmaster_ioining_speech.html）
+- [My Toastmaster joining speech](speech/my_toastmaster_ioining_speech.html)
