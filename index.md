@@ -11,6 +11,7 @@ keywords: wxie, free software, freelancer, CTT
           <li><a href="{{ BASE_PATH }}/assets/cv.pdf">cv</a></li>
           <li><a href="https://github.com/wxie2017">github</a></li>
           <li><a href="https://savannah.gnu.org/projects/www-zh-cn/">GNU/CTT</a></li>
+          <li><a href="https://community.mozilla.org/groups/mozilla-china-l10n/">Mozilla China L10N</a></li>
       </ul>
   </div>
 </div>
