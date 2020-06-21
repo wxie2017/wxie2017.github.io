@@ -17,6 +17,7 @@ wxie2017 is a free software believer who is trying to be a freelancer working on
         <div class="span5">
             wxie2017<br/>
             <a href="https://savannah.gnu.org/projects/www-zh-cn/">GNU CTT</a><br/>
+            <a href="https://community.mozilla.org/groups/mozilla-china-l10n/">Mozilla China L10N</a><br/>
             <br/><br/>
 
             <div id="hide_email">
@@ -28,9 +29,9 @@ wxie2017 is a free software believer who is trying to be a freelancer working on
         </div>
 
         <div class="span2">
-        <a href="../assets/pics/karl_2014-03-30.jpg">
-            <img src="../assets/pics/karl_2014-03-30_small.jpg"
-                  title="Karl Broman" alt="Karl Broman"/></a>
+        <a href="../assets/pics/Spring19-I-support.png">
+            <img src="../assets/pics/Spring19-I-support.png"
+                  title="Support FSF" alt="Support FSF"/></a>
         </div>
     </div>
 </div>
