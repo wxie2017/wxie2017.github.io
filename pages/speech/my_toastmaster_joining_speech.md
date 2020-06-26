@@ -11,11 +11,10 @@ Distinguished guests,
 I am excited to be here to give you my joining speech.
 
 First of all, I sincerely thank Annabel and Justus for helping me go through all the
-registration process. Finnally, I have got my member ID - 007788331. How exciting to
+registration process. Finnally, I have got my member ID - 07788331. How exciting to
 be part of the team!
 
-Following our tradition, I will introduce myself and then talk about why I join Toast-
-master.
+Following our tradition, I will introduce myself and then talk about why I join Toastmaster.
 
 I am an experienced engineer and manager, and now I am running my own software company.
 When you have any software requirement, you can come to me. I am glad to help.
@@ -37,11 +36,20 @@ For years I have been learning from a lot of great minds, and I have come across
 great ideas. Some of the ideas are so inspiring and so important that I cannot help
 myself to share the ideas with others, with a lot of people.
 
-The best way to share ideas, for me, is to become a public speaker. Toastmaster is a
-leading orgnization to develop public speech skills. So I am joining Toastmaster, and
-I believe Yu-Life club is the best club for me to grow, so I am joining Yu-life.
+The best way to share ideas, for me, is to become a public speaker.
 
-Together, we spread great ideas. Togehter, we make our planet a better place for our
-children.
+Toastmasters International is a non-profit educational organization that teaches public
+speaking and leadership skills through a worldwide network of clubs. The organization's
+membership exceeds 358,000 in more than 16,800 clubs in 143 countries. Since 1924,
+Toastmasters International has helped people from diverse backgrounds become more
+confident speakers, communicators, and leaders. So I am joining Toastmaster.
+
+Yu-life club is wonderful club to join because of her cozy environment we all feel,
+and because of the kind, warm-hearted members like each and everyone of you. So I am
+joining Yu-life.
+
+Dear President, dear fellow members, please vote for me.
+
+Together, we spread great ideas. Togehter, we make our planet a better place.
 
 Thank you.
