@@ -15,7 +15,6 @@ wxie2017 is a free software believer who is trying to be a freelancer working on
 
     <div class="row-fluid">
         <div class="span5">
-            wxie2017<br/>
             <a href="https://savannah.gnu.org/projects/www-zh-cn/">GNU CTT</a><br/>
             <a href="https://community.mozilla.org/groups/mozilla-china-l10n/">Mozilla China L10N</a><br/>
             <br/><br/>
