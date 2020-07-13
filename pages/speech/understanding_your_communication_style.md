@@ -27,11 +27,11 @@ There are basically four kinds of communication style:
 
 Direct communicators prefer when you get to the point quickly and in a succinct manner. When dealing
 with these communicators, be specific and avoid over-explaining or repeating yourself. Focus on
-solutions and only provide details when asked. While a person with the direct communication style
-is results-oriented, focused, and competitive. Motivated to get things accomplished, you are
-quick and decisive. Because you are independent and confident, you prefer a busy, efficient and
-structured environment. Others may sometimes perceive you as impatient and demanding. Allowing
-others to share feelings and explain details can encourage dialogue.
+solutions and only provide details when asked. While people with the direct communication style
+is results-oriented, focused, and competitive, they are motivated to get things accomplished, they are
+quick and decisive. Because they are independent and confident, they prefer a busy, efficient and
+structured environment. Others may sometimes perceive them as impatient and demanding. So allowing
+others to share feelings and explain details can encourage dialogue for direct communicators.
 
 Initiating communicators value interacting with others and sharing stories. Allow time for socializing
 at the beginning of meetings and create a friendly, non-threatening environment. Provide time for them
@@ -49,8 +49,9 @@ may mediate if necessary.
 Analytical communicators like facts and figures. Present information to them in an organized manner and
 be prepared to answer questions. Be patient while they think through and process new information.
 
-Each communication style has value and there is no best overall style. You may be comfortable using one
-style in many situations, but is not necessarily what you choose in all communication.
+While there are tools that can help you identify your communication styles. Each communication style
+has value and there is no best overall style. You may be comfortable using one style in many situations,
+but is not necessarily what you choose in all communication.
 
 It is important to recognize how effective communication can impact your interactions with others.
 It can lead to higher efficiency and good morale in the workplace, increased innovation and creative
@@ -62,5 +63,8 @@ behavior and adopt new styles to fit a situation, team, or person.
 
 There is much research and many theories about communication styles and their impacts. To develop a deeper
 understanding, you may choose to do your own research.
+
+I hope all of us can enjoy understanding ourselves' and other's communication style, so we can better
+exchange ideas and thoughts during outing or in the club.
 
 Thank you.
