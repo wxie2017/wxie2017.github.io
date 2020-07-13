@@ -18,3 +18,4 @@ description: wxie's speeches
 #### 2020
 
 - [My Toastmaster joining speech](speech/my_toastmaster_joining_speech.html)
+- [Understanding your communication style](speech/understanding_your_communication_style.html)
