@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Understanding Your Communication Style
-description: On 2020-07-19 I gave this speech when joining Yulife club of Toastmaster.
+description: On 2020-07-19 I gave this speech as the first P1-level-1 speech in Yulife club of Toastmaster.
 ---
 
 
