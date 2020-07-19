@@ -42,16 +42,8 @@ is sharing knowledge. It is ethical to share software.
 Freedom 2, you would understan Freedom 3 - it makes software evolve and better.
 
 In brief, Free software means user can run, copy, distribute, study, change and improve the software. Dear friends, next
-time before you run a program, please ask you self:
+time before you run a program, please ask yourself:
 - Is the software a free software? Does it give me the 4 essential freedoms?
-
-Thank you.
-
-
-
-
-
-
-
+This is the most important thing to ask.
 
 Thank you.
