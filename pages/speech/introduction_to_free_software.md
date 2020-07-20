@@ -36,13 +36,14 @@ Officially, Free Software is defined as a software that gives you 4 essential fr
 you run the software.
 - Freedom 1: you are free to study how the software works and make changes as you wish. This means you must have access to
 the source code to study the software. How many software do you have source code?
-- Freedom 2: you are free to distribute the original software. Sharing knowledge makes human kind survive. Sharing software
-is sharing knowledge. It is ethical to share software.
+- Freedom 2: you are free to distribute the original software. Sharing knowledge makes human kind survive and thrive. Sharing
+software is sharing knowledge. It is ethical to share software.
 - Freedom 3: you are free to distribute you modified version of software as you have done with freedom 1. If you understand
 Freedom 2, you would understan Freedom 3 - it makes software evolve and better.
 
-In brief, Free software means user can run, copy, distribute, study, change and improve the software. Dear friends, next
-time before you run a program, please ask yourself:
+In brief, Free software means user can run, copy, distribute, study, change and improve the software.
+
+Dear friends, next time before you run a program, please ask yourselves:
 - Is the software a free software? Does it give me the 4 essential freedoms?
 This is the most important thing to ask.
 
