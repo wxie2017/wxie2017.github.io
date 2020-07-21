@@ -15,14 +15,13 @@ Here is a question. Could anyone tell me what software is?
 
 Yes, you are right. Software is the programs that run in your computers, in your smart phones, and in many other devices.
 When you double click the icon of a program, it runs. When you input the name of a program in the command line interface,
-it runs. Software can do a lot things for you, like editing an article, like listening to the music, like taking a photo,
-like surfing the internet, so on and so forth. In general, We call it computation: it means software does computation for
-us.
+it runs. Software can do a lot things for you, like editing an article, listening to the music, taking a photo, surfing
+the internet, so on and so forth. In general, we call it computation: it means software does computation for us.
 
-Technically, software is developed by engineers in the form of source code. Source code is some kind of language for human
-to read and understand just like English. Then the source code is translated to machine code using some software. Computers
-understand machine code so it can execute the program. The machine code is the language designed for the machine instead of
-for human beings, so it is extremely difficult for engineers to read machine code.
+Technically, software is developed by engineers in the form of source code. Source code is the computer language for human
+to read and understand just like English. Then the source code is translated into machine code using some software. Machine
+code is the computer language designed for the machines. Computers understand machine code so they can execute the program,
+but it is extremely difficult for engineers to read the machine code.
 
 Now we know what software is, but what is free software? Can anyone tell me the Chinese translation of Free Software?
 
