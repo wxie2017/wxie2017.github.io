@@ -26,19 +26,19 @@ but it is extremely difficult for engineers to read the machine code.
 Now we know what software is, but what is free software? Can anyone tell me the Chinese translation of Free Software?
 
 No, you are wrong. The Chinese translation of Free Software is 自由软件，not 免费软件。免费软件 is gratis software.The English
-word free has 2 meanings: one for gratis, the other for freedom. So we can remember Free software as free in free speech,
-not free in free lunch. Free Software is about freedom, not about price.
+word free has 2 meanings: one for gratis, the other for freedom. The free in Free software is as the free in free speech,
+not the free in free lunch. Free Software is about freedom, not about price.
 
-Officially, Free Software is defined as a software that gives you 4 essential freedoms:
+Officially, Free Software is defined as a software that gives its users - you - 4 essential freedoms:
 
 - Freedom 0: you are free to run the software as you wish for any purpose. No one can limit why you run the software and how
 you run the software.
 - Freedom 1: you are free to study how the software works and make changes as you wish. This means you must have access to
 the source code to study the software. How many software do you have source code?
 - Freedom 2: you are free to distribute the original software. Sharing knowledge makes human kind survive and thrive. Sharing
-software is sharing knowledge. It is ethical natural to share software.
+software is sharing knowledge. It is ethical and natural to share software.
 - Freedom 3: you are free to distribute you modified version of software as you have done with freedom 1. If you understand
-Freedom 2, you would understan Freedom 3 - it makes software evolve and become better.
+Freedom 2, you would understand Freedom 3 - it makes software evolve and become better.
 
 In brief, Free software means user can run, copy, distribute, study, change and improve the software.
 
