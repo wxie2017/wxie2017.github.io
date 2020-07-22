@@ -30,3 +30,4 @@ None yet!
 - [关于_SpaceX_使用的硬件和软件](article/关于_SpaceX_使用的硬件和软件.html)
 - [保护你的数据就是保护你的未来](article/保护你的数据就是保护你的未来.html)
 - [中国足球和中国芯](article/中国足球和中国芯.html)
+- [用 GUIX 实现可重建系统和可重复计算](article/用_GUIX_实现可重建系统和可重复计算.html)
