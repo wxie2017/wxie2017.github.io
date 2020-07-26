@@ -11,19 +11,19 @@ Distinguished guests,
 Good morning.
 
 Today I will introduce the concept of Free Software to you. I guess all of you have used some software. right?
-Here is a question. Could anyone tell me what software is?
+Here is a question. Who can tell me what software is?
 
 Yes, you are right. Software is the programs that run in your computers, in your smart phones, and in many other devices.
 When you double click the icon of a program, it runs. When you input the name of a program in the command line interface,
-it runs. Software can do a lot things for you, like editing an article, listening to the music, taking a photo, surfing
-the internet, so on and so forth. In general, we call it computation: it means software does computation for us.
+it runs. Software can do a lot of things for you, like editing an article, listening to the music, taking a photo, surfing
+the internet, and so on and so forth. In general, we call this computation: it means software does computation for us.
 
 Technically, software is developed by engineers in the form of source code. Source code is the computer language for human
 to read and understand just like English. Then the source code is translated into machine code using some software. Machine
-code is the computer language designed for the machines. Computers understand machine code so they can execute the program,
-but it is extremely difficult for engineers to read the machine code.
+code is the computer language designed for the machines. Computers understand machine code so they can execute the program.
+However, it is extremely difficult for engineers to read the machine code.
 
-Now we know what software is, but what is free software? Can anyone tell me the Chinese translation of Free Software?
+Now we know what software is. Who can tell me the Chinese translation of Free Software?
 
 No, you are wrong. The Chinese translation of Free Software is 自由软件，not 免费软件。免费软件 is gratis software.The English
 word free has 2 meanings: one for gratis, the other for freedom. The free in Free software is as the free in free speech,
