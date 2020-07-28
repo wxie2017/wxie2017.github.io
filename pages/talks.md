@@ -20,3 +20,4 @@ description: wxie's speeches
 - [My Toastmaster joining speech](speech/my_toastmaster_joining_speech.html)
 - [Understanding your communication style](speech/understanding_your_communication_style.html)
 - [Introduction to Free Software](speech/introduction_to_free_software.html)
+- [Why Free Software](speech/why_free_software.html)
