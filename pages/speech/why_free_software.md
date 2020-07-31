@@ -59,9 +59,10 @@ a copy, it would be wrong to refuse. But if you copy, you are voliate the agreem
 proprietary software. What should you do? Would you want to be a person live an upright life
 openly with pride? This means saying no to proprietary software.
 
-You deserve to be able to cooperate openly and freely with other people who use software. You
-deserve to be able to learn how the software works, and to teach your kids, students and friends
-with it. You deserve to be able to hire your favorite programmer to fix it when it breaks.
+Dear friends, you deserve to be able to cooperate openly and freely with other people who use
+software. You deserve to be able to learn how the software works, and to teach your kids,
+students and friends with it. You deserve to be able to hire your favorite programmer to fix it
+when it breaks.
 
 You deserve free software. That's the very ethical reason to have free software.
 
