@@ -56,7 +56,7 @@ This is why we say that free software is a matter of freedom, not price.
 
 As a computer user today, you may find yourself using a proprietary program. If your friend asks
 a copy, it would be wrong to refuse. But if you copy, you are voliate the agreement with the
-proprietary software. What should you do? Would you want to be a person live an upright life
+proprietary software. What should you do? Would you want to be a person living an upright life
 openly with pride? This means saying no to proprietary software.
 
 Dear friends, you deserve to be able to cooperate openly and freely with other people who use
