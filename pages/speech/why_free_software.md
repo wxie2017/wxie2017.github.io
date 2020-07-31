@@ -34,7 +34,7 @@ ordinary reader, who did not own a printing press, could copy books only with pe
 and few readers were sued for that.
 
 Now we are in the era of digital information technology. It contributes to the world by
-making it easier to copy and modify information. Digital technology is more flexible than
+making copy and modify information easier. Digital technology is more flexible than
 the printing press: when information has digital form, you can easily copy it to share it
 with others.
 
