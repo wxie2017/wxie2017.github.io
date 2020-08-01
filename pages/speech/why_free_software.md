@@ -16,16 +16,16 @@ translation of free software is?
 Yes, you are right. I am glad that my previous introduction worked. The Chinese translation
 of Free Software is 自由软件. Free Software is about freedom, not about price.
 
-Let us recall the essential freedoms of free software:
+Let us recall the four essential freedoms of free software:
 
 - Freedom 0: free to run the software as you wish for any purpose.
 - Freedom 1: free to study how the software works and make changes as you wish.
 - Freedom 2: free to distribute the original software.
-- Freedom 3: free to distribute you modified version of software.
+- Freedom 3: free to distribute you modified version of the software.
 
 In short, Free software means user can run, copy, distribute, study, change and improve the software.
 
-Today, I will try to explain why we need software software. Who has a reason?
+Today, I will try to explain why we need free software. Who has a reason?
 
 First of all, let's talk about the copyright system. It grew up with printing—a technology
 for mass-production copying. Copyright fit in well with this technology because it restricted
@@ -34,8 +34,8 @@ ordinary reader, who did not own a printing press, could copy books only with pe
 and few readers were sued for that.
 
 Now we are in the era of digital information technology. It contributes to the world by
-making copy and modify information easier. Digital technology is more flexible than
-the printing press: when information has digital form, you can easily copy it to share it
+making copy and modification of information easier. Digital technology is more flexible than
+the printing press: when information has digital form, you can easily copy and share it
 with others.
 
 Not everyone wants it to be easier. The system of copyright gives software programs “owners”,
@@ -55,7 +55,7 @@ spirit, and they prevent knowledge sharing. They leave human kind in danger.
 This is why we say that free software is a matter of freedom, not price.
 
 As a computer user today, you may find yourself using a proprietary program. If your friend asks
-a copy, it would be wrong to refuse. But if you copy, you are voliate the agreement with the
+a copy, it would be wrong to refuse. But if you copy, you voliate the agreement with the
 proprietary software. What should you do? Would you want to be a person living an upright life
 openly with pride? This means saying no to proprietary software.
 
@@ -64,7 +64,9 @@ software. You deserve to be able to learn how the software works, and to teach y
 students and friends with it. You deserve to be able to hire your favorite programmer to fix it
 when it breaks.
 
-You deserve free software. That's the very ethical reason to have free software.
+You deserve free software.
+
+That's the very ethical reason to have free software.
 
 Thank you.
 
