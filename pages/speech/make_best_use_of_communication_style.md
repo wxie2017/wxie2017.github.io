@@ -50,8 +50,8 @@ communication styles based on your feedback. If necessary, I will adjust my beha
 styles to fit a situation, team, or person. By learing and practicing, I am able to gradually make
 the best use of my communication style.
 
-I hope all of you now understand my communication style, and find ways to better with me. You can
-also assess your communication style and make the best use of it, so that we can exchange ideas and
-feelings much better.
+I hope all of you now understand my communication style, and find ways to better communicate with
+me. You can also assess your communication style and make the best use of it, so that we can exchange
+ideas and feelings much better.
 
 Thank you.
