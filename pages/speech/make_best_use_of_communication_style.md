@@ -45,12 +45,13 @@ explain details.
 
 Each communication style has value and there is no best overall style. I may be comfortable using
 supportive style in many situations, but it is not necessarily what I choose in all communication.
-Communication styles are often situational. I can be directive sometimes. However, I will monitor my
+Communication styles are often situational. I can be direct sometimes. However, I will monitor my
 communication styles based on your feedback. If necessary, I will adjust my behavior and adopt new
-styles to fit a situation, team, or person.
+styles to fit a situation, team, or person. By learing and practicing, I am able to gradually make
+the best use of my communication style.
 
-I hope all of you now understand my communication style, and can make the best use of the tips to
-communicate with me. You can also assess your communication style and make the best use of it, so that
-we can exchange ideas and feelings much better.
+I hope all of you now understand my communication style, and find ways to better with me. You can
+also assess your communication style and make the best use of it, so that we can exchange ideas and
+feelings much better.
 
 Thank you.
