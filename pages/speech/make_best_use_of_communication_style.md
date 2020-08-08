@@ -37,7 +37,7 @@ have in Yu-life club. I am often an active listener, and you may see me as coope
 and loyal, so you can come to me whenever you want to talk. If you want to praise me, please do so
 more privately. I will try to avoid any conlict and prefer close relationships with each other.
 
-Because I am also a little direct - that's the other side of the coin. Sometimes I prefer when you get
+Because I am also a little direct - that's the other side of the coin, sometimes I prefer when you get
 to the point quickly and in a succinct manner. This means that I am results-oriented, focused, and
 competitive. I am motivated to get things accomplished. When I am showing quick actions and demanding
 attitude, please remind me my supportive side, so that I will allow you to share feelings and
