@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The Joy of passing level-1 Pathways
-description: On 2020-08-16 gave this sharing as I passed the level-1 Pathways in Yulife club of Toastmaster.
+description: On 2020-08-23 gave this sharing as I passed the level-1 Pathways in Yulife club of Toastmaster.
 ---
 
 

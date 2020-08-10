@@ -22,4 +22,5 @@ description: wxie's speeches
 - [Introduction to Free Software](speech/introduction_to_free_software.html)
 - [Why Free Software](speech/why_free_software.html)
 - [Make the Best Use of your communication style](speech/make_best_use_of_communication_style.html)
+- [Schools should only use free software](speech/schools_use_free_software.html)
 - [The Joy of passing level 1 Pathways](speech/joy_of_level_1.html)
