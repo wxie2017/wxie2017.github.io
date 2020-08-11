@@ -23,5 +23,5 @@ description: wxie's speeches
 - [Why Free Software](speech/why_free_software.html)
 - [Make the Best Use of your communication style](speech/make_best_use_of_communication_style.html)
 - [Schools should only use free software](speech/schools_use_free_software.html)
-- [Meeting openning speech for SAA](speech/meeting_openning_speech_for_SAA.html)
+- [Meeting openning speech for SAA](speech/meeting_openning_speech_of_SAA.html)
 - [The Joy of passing level 1 Pathways](speech/joy_of_level_1.html)
