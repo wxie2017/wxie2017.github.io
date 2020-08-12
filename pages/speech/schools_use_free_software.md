@@ -22,10 +22,10 @@ review a little bit.
 Free software is the software you can run, copy, distribute, study, change and
 improve. Free software is a matter of freedom, not price.
 
-As I have talked last time. All computer uses deserve free software. We deserve
+As I have talked last time. All computer users deserve free software. We deserve
 to be able to study the software we use and improve it. All computer users ought
 to insist on free software: it gives us the freedom to control our own computers,
-and gives us the freedom to cooperate with each other, to live an upright life.
+and gives us the freedom to cooperate with each other, and to live an upright life.
 
 These reasons apply to schools as they do to everyone, and there are other reasons
 specifically apply to schools.
