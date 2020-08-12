@@ -22,17 +22,15 @@ review a little bit.
 Free software is the software you can run, copy, distribute, study, change and
 improve. Free software is a matter of freedom, not price.
 
-As I have talked all computer uses deserve free software. We deserve to be able
-to study the software we use and improve it. All computer users ought to insist
-on free software: it gives users the freedom to control their own computers. Free
-software also gives users the freedom to cooperate with each other, to live an
-upright life.
+As I have talked last time. All computer uses deserve free software. We deserve
+to be able to study the software we use and improve it. All computer users ought
+to insist on free software: it gives us the freedom to control our own computers,
+and gives us the freedom to cooperate with each other, to live an upright life.
 
 These reasons apply to schools as they do to everyone, and there are other reasons
 specifically apply to schools.
 
-The deepest reason for using free software in schools is for moral education. We
-expect schools to teach students basic facts and useful skills, but that is only
+We expect schools to teach students basic facts and useful skills, but that is only
 part of their job. The most fundamental task of schools is to teach good citizenship,
 including the habit of helping others. In the area of computing, this means teaching
 people to share software.
@@ -61,7 +59,7 @@ Instead, she can be a hacker. She can get her hands dirty with the code. She can
 it. She can fix it. She can make it her own. She can even make copies and redistribute
 them for her friends to use and remix. All in all, she will live in a paradigm that says
 "I may use the software, and I may contribute. I can learn, understand, control what it
- does, and I can teach others."
+does, and I can teach others."
 
 A classroom that requires only free software helps enable creativity, confidence, and
 ownership to bloom by letting students explore all of the possibilities. Parents and
