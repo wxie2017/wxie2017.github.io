@@ -22,13 +22,13 @@ review a little bit.
 Free software is the software you can run, copy, distribute, study, change and
 improve. Free software is a matter of freedom, not price.
 
-As I have talked last time. All computer users deserve free software. We deserve
+As I talked last time. All computer users deserve free software. We deserve
 to be able to study the software we use and improve it. All computer users ought
 to insist on free software: it gives us the freedom to control our own computers,
 and gives us the freedom to cooperate with each other, and to live an upright life.
 
 These reasons apply to schools as they do to everyone, and there are other reasons
-specifically apply to schools.
+that specifically apply to schools.
 
 We expect schools to teach students basic facts and useful skills, but that is only
 part of their job. The most fundamental task of schools is to teach good citizenship,
@@ -46,9 +46,9 @@ out for herself. She may contact the company and ask, and if she would be lucky 
 to speak to the right person, she would be shown a snippet or two (at best). Perhaps she
 would be told that if she works hard to learn coding, she could one day work for the
 company, but she isn't allowed to learn right now by exploring it on her own. And how
-is she expected to learn coding? Does she learn by creating short didactic programs? The
-paradigm she would live in would send the message "You are just a user. Leave the real
-work to the experts, allow them to decide for you, and don't ask too many questions."
+is she expected to learn coding? Does she learn by reading the short didactic snippets?
+The paradigm she would live in would send the message "You are just a user. Leave the
+real work to the experts, allow them to decide for you, and don't ask too many questions."
 
 Example 2: A free software classroom
 
@@ -61,15 +61,18 @@ them for her friends to use and remix. All in all, she will live in a paradigm t
 "I may use the software, and I may contribute. I can learn, understand, control what it
 does, and I can teach others."
 
-A classroom that requires only free software helps enable creativity, confidence, and
-ownership to bloom by letting students explore all of the possibilities. Parents and
+It is easy to see the fundmental difference between the two classrooms. A classroom
+that requires only free software helps enable creativity, confidence, and ownership
+to bloom because it lets students explore all the possibilities. Parents and
 caregivers should insist on free software in the classroom. There may be times where
 using nonfree software to participate in a class seems inevitable, in which case we
-should, at the very least, clearly state our concerns, and take it as an opportunity to
-inform others of the implications of free software in education. When we take the
+should, at the very least, clearly state our concerns, and take it as an opportunity
+to inform others of the implications of free software in education. When we take the
 additional step to refuse to use nonfree software, then we protect our own freedom
-while making our concerns all the more understood. Let's work together to create a
-future where free software is the first standard for education.
+while making our concerns all the more understood.
+
+Dear friends, let's work together to create a future where free software is the first
+standard for education.
 
 The world has changed drastically in the past few months due to the ongoing crisis
 of the COVID-19 coronavirus. Education, in particular, has been impacted: college
