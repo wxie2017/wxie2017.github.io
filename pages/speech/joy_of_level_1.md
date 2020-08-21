@@ -24,7 +24,7 @@ become a scientist, and as far as I can remember, the reason was that I was
 doing well in school and good students should choose scientists as their goals
 at that time. So kids like me should become scientists.
 
-Dream changes often. I went to university, studied physics; I went to insitute,
+Dreams change often. I went to university, studied physics; I went to insitute,
 did research in physics; and I was a young scientist. Then the internet came,
 and I followed the wave to became a software engineer. My dream became to be
 a good engineer, and contribute to a great product. This dream is still going.
@@ -36,12 +36,12 @@ talk to people, and even had my account for Youtube. Then I got to know Toastmas
 from one friend's wechat Moment.
 
 The dream to become a public speaker awakes from my heart. I visited several
-clubs, Chinese clubs, English clubs, Chinese-English clubs. I joined Yu-life
-club, and I know I can learn from the club because we have many great people
-here, and I know I can improve my public speaking skills because we have
-great meetings every time.
+clubs, Chinese clubs, English clubs, Chinese-English clubs, English-Chinese clubs.
+I joined Yu-life club, and I know I can learn from the club because we have many
+great people here, and I know I can improve my public speaking skills because we
+have great meetings every time.
 
-I know this is my will, and there is my way.
+I know this is my will, and this is my way.
 
 # A walk of a thousand miles consists of lots of steps
 
@@ -89,7 +89,8 @@ My mentor, Annabel, then invited my to the Toastmasters Officer training. I bega
 to understand the whole Pathways process.
 
 There are tons of training materail available in the Toastmasters web site, our
-public wechat account. You may need to repeat my mistake to
+public wechat account, and so on and so forth. You may not need to repeat my
+mistake to
 
 - finish level 1 in a week
 
@@ -112,14 +113,14 @@ all the 4 projects and they were signed by our club president.
 
 As a new member, the projects may seem a lot because we have our family to
 take care, we have our job to finish, we have friends to visit, we are just
-to tired to do extra job. Nobody is pushing this anyway.
+to tired too do extra job. Nobody is pushing this anyway.
 
 There are reasons to delay, there are reasons to give up.
 
 Let me share my recent experience.
 
 I am currently living in an old dormitary, 16th floor. There are 2 elevators. One of them
-has been long time broken. Recently the second elevator broke.
+has been long time broken. Recently the second elevator is broken, too.
 
 What would you do?
 
@@ -130,7 +131,7 @@ tired you are, no matter how others may say to you, you will keep climbing, beca
 know that you will never give up, because you know you will reach home, because you know
 you can do it.
 
-Dear fellow members, today is our 330th meeting. This is perfect time to start your
+Dear fellow members, today is our 330th meeting. This is the perfect time to start your
 Pathways.
 
 # The Joy and Benefit
@@ -150,7 +151,7 @@ admire you. Let them celebrate for you. Let them join you.
 There are other benefits. Your Pathways achievement not only inspires your
 fellow members, it also helps your club.
 
-Toastmasters places a lot value in Pathways for clubs. To be a Distinguished
+Toastmasters place a lot value in Pathways for clubs. To be a Distinguished
 Club, we need as many points as possible in Pathways to get a total points
 of 5.
 
@@ -176,8 +177,9 @@ If you have any question, please come to me.
 Finnally, I would like to express my sincere thanks to
 
 - Club
+- Officers
 - Mentor
-- IE
+- IEs
 - All of you
 
 Thank you.
