@@ -24,10 +24,10 @@ become a scientist, and as far as I can remember, the reason was that I was
 doing well in school and good students should choose scientists as their goals
 at that time. So kids like me should become scientists.
 
-Dreams change often. I went to university, studied physics; I went to insitute,
-did research in physics; and I was a young scientist. Then the internet came,
-and I followed the wave to became a software engineer. My dream became to be
-a good engineer, and contribute to a great product. This dream is still going.
+I went to university, studied physics; I went to insitute, did research in
+physics; and I was a young scientist. Dreams change often. Then the internet
+came, and I followed the wave to became a software engineer. My dream became to
+be a good engineer, and contribute to a great product. This dream is still going.
 
 In the meantime, I want to share some of the great ideas during my journey to
 more people, like many heroes who choose to be pen writers instead of gun
@@ -45,13 +45,14 @@ I know this is my will, and this is my way.
 
 # A walk of a thousand miles consists of lots of steps
 
+The Toastmasters home page may be the first step to go. It clearly displays that
+it teaches public speaking. Please note this little `find a club` button. I used
+it to find our Yu-life club.
+
 I was so excited after I became a Toastmasters member that I logged in the
 Toastmaster home page immediately after I got my member ID.
 
 - TI website
-
-The Toastmasters home page clearly displays that it teaches public speaking.
-Please note this little `find a club` button. I used it to find our Yu-life club.
 
 Please remember your toastmasters' membership ID. You need it to log in. After you
 log in, you may see it says leadship - everyone needs leadership.
@@ -60,9 +61,10 @@ My journey started from `Pathways`, where we have the `Go to Base Camp`. This is
 the home of your learning center. If you are not comfortable to read English at the
 beginning, you can change the path language.
 
-There are currently 11 Pathways available. You need choose according to your will.
-If it is your first time to choose a Pathways. You may need to take an evaluation to
-decide which Pathways fit your need. Here I took the evaluation and chose my Pathways
+There are currently 11 Pathways available. I don't know about them yet, but no worry.
+First you need choose according to your will. If it is your first time to choose a
+Pathways. You may need to take an evaluation to decide which Pathways fit your need.
+Here I took the evaluation and chose my Pathways
 - Presentation Mastery.
 
 The process is very simple. You follow the website to answer the questions - about
@@ -88,8 +90,8 @@ You know what? Our VPE, Nicole, of course, declined my submission.
 My mentor, Annabel, then invited my to the Toastmasters Officer training. I began
 to understand the whole Pathways process.
 
-There are tons of training materail available in the Toastmasters web site, our
-public wechat account, and so on and so forth. You may not need to repeat my
+Now there are tons of training materail available in the Toastmasters web site,
+our public wechat account, and so on and so forth. You may not need to repeat my
 mistake to
 
 - finish level 1 in a week
@@ -113,7 +115,7 @@ all the 4 projects and they were signed by our club president.
 
 As a new member, the projects may seem a lot because we have our family to
 take care, we have our job to finish, we have friends to visit, we are just
-to tired too do extra job. Nobody is pushing this anyway.
+too tired to do extra job. Nobody is pushing this anyway.
 
 There are reasons to delay, there are reasons to give up.
 
@@ -122,17 +124,17 @@ Let me share my recent experience.
 I am currently living in an old dormitary, 16th floor. There are 2 elevators. One of them
 has been long time broken. Recently the second elevator is broken, too.
 
-What would you do?
+What would I do?
 
-Would you give up going home? Would you wait until the elevator is fixed?
+Would I give up going home? Would I wait until the elevator is fixed?
 
-Of course not. You will take the stairs. No matter how long it will take, no matter how
-tired you are, no matter how others may say to you, you will keep climbing, because you
-know that you will never give up, because you know you will reach home, because you know
-you can do it.
+Of course not. I will take the stairs. No matter how long it will take, no matter how
+tired I am, no matter how others may say to me, I will keep climbing, because I know
+that I will never give up, because I know I will reach home, because I know I can do
+it.
 
 Dear fellow members, today is our 330th meeting. This is the perfect time to start your
-Pathways.
+Pathways. I know you can do it.
 
 # The Joy and Benefit
 
@@ -149,9 +151,9 @@ admire you. Let them celebrate for you. Let them join you.
 - level 1 club benefit
 
 There are other benefits. Your Pathways achievement not only inspires your
-fellow members, it also helps your club.
+fellow members, but also it helps your club.
 
-Toastmasters place a lot value in Pathways for clubs. To be a Distinguished
+Toastmasters place a lot of value in Pathways for clubs. To be a Distinguished
 Club, we need as many points as possible in Pathways to get a total points
 of 5.
 
