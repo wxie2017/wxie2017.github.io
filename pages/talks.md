@@ -25,3 +25,4 @@ description: wxie's speeches
 - [Schools should only use free software](speech/schools_use_free_software.html)
 - [Meeting openning speech for SAA](speech/meeting_openning_speech_of_SAA.html)
 - [The Joy of passing level 1 Pathways](speech/joy_of_level_1.html)
+- [Am I mentally ready for my mentor?](speech/mentally_ready_for_mentor.html)
