@@ -10,6 +10,10 @@ Distinguished guests,
 
 Good morning.
 
+Mentor was the name of a character in Greek mythology. Ulysses left his son, Telemachus under the tutelage of his old friend Mentor, who was a wise and trusted adviser or counsellor (Clutterback 1991). It is a word that is often used by academics, politicians, sports people, actors and other performers to describe the person they chose as a role Mentor is defined as someone who guides another to greater success. (noun) A teacher is an example of a mentor....
+
+Protégé definition is - one who is protected or trained or whose career is furthered by a person of experience, prominence, or influence.
+
 Toastmasters members have a long history of supporting and nurturing each other through mentorship. A mentor offers encouragement and guidance to a fellow member of Toastmasters while he or she works to accomplish goals. A mentor has the opportunity to share experience, wisdom, and knowledge while a protégé gains a foundation for building skills and meeting goals. Mentoring can be a rewarding experience for both the mentor and the protégé.
 
 A mentor is an experienced member who provides guidance and support to empower protégés to reach their goals. The most successful mentors have been protégés and often continue to work with mentors of their own. Understanding the role of the protégé is fundamental to being the best mentor you can be.
