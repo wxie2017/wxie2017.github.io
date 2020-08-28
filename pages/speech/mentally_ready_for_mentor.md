@@ -10,9 +10,19 @@ Distinguished guests,
 
 Good morning.
 
-Mentor was the name of a character in Greek mythology. Ulysses left his son, Telemachus under the tutelage of his old friend Mentor, who was a wise and trusted adviser or counsellor (Clutterback 1991). It is a word that is often used by academics, politicians, sports people, actors and other performers to describe the person they chose as a role Mentor is defined as someone who guides another to greater success. (noun) A teacher is an example of a mentor....
+The title of my speech today is a question: am I mentally ready for my mentor?
 
-Protégé definition is - one who is protected or trained or whose career is furthered by a person of experience, prominence, or influence.
+I look the word mentor up in my dictionary. Mentor was the name of a character
+in Greek mythology. Ulysses left his son, Telemachus under the tutelage of his
+old friend Mentor, who was a wise and trusted adviser or counsellor. It is a
+word that is often used by academics, politicians, sports people, actors and
+other performers to describe the person they chose as a role Mentor is defined
+as someone who guides another to greater success.
+
+A teacher is an example of a mentor. This means we all had a mentor in our life
+because we all went to school and had teachers. We were all a Protégé - one who
+is protected or trained or whose career is furthered by a mentor, a person of
+experience, prominence, or influence.
 
 Toastmasters members have a long history of supporting and nurturing each other through mentorship. A mentor offers encouragement and guidance to a fellow member of Toastmasters while he or she works to accomplish goals. A mentor has the opportunity to share experience, wisdom, and knowledge while a protégé gains a foundation for building skills and meeting goals. Mentoring can be a rewarding experience for both the mentor and the protégé.
 

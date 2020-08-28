@@ -33,3 +33,4 @@ None yet!
 - [用 GUIX 实现可重建系统和可重复计算](article/用_GUIX_实现可重建系统和可重复计算.html)
 - [学校只应该使用自由软件](article/学校只应该使用自由软件.html)
 - [Ham Know-what](article/ham_know-what.html)
+- [闲话 GPT-3](article/闲话_GPT-3.html)
