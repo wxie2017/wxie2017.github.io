@@ -34,3 +34,4 @@ None yet!
 - [学校只应该使用自由软件](article/学校只应该使用自由软件.html)
 - [Ham Know-what](article/ham_know-what.html)
 - [闲话 GPT-3](article/闲话_GPT-3.html)
+- [我与献血](article/我与献血.html)
