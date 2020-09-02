@@ -37,7 +37,7 @@ I thought I had the experience to fulfill it.
 
 I made a plan and called people for a meeting. The meeting stucked - what I thought
 would be non-problem became big problem. There were things that nobody were responsible
-for, there were things that too many people are responsible for, and there were things
+for, there were things that too many people were responsible for, and there were things
 I had not thought about. I could hardly move forward. I am frustrated but did not know
 what's wrong.
 
@@ -61,7 +61,7 @@ encouragement brought me back - you use your experience and I use mine to help y
 reach the goal.
 
 Actually, he is a person of experience, prominence and influence. He had given me
-good advice in the project and the final result was very successful. He became My
+good advice in the project and the final result was very successful. He became my
 mentor in the company and my career is furthered by this mentor. I was very grateful
 to him.
 
@@ -76,7 +76,7 @@ foundation for building skills and meeting my goals in Toastmasters.
 There are many projects ahead. My mentor and I are both committed to the goals. The question
 should not be "am I ready?", I should stay ready for my mentor.
 
-Remember the little wisdom words for the mentor:
+Remember the little wisdom words from the mentor:
 You use your experience, and I will use mine to help you.
 
 Thank you.
