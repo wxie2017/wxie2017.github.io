@@ -76,6 +76,7 @@ foundation for building skills and meeting my goals in Toastmasters.
 There are many projects ahead. My mentor and I are both committed to the goals. The question
 should not be "am I ready?", I should stay ready for my mentor.
 
+Remember the little wisdom words for the mentor:
 You use your experience, and I will use mine to help you.
 
 Thank you.
