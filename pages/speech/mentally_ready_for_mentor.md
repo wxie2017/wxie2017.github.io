@@ -18,8 +18,8 @@ Thank you. (May ask Dashan.)
 First, what is a mentor? (May ask someone.)
 
 I look up the word mentor in my dictionary. To my surprise, Mentor was the name
-of a character in Greek mythology. Ulysses left his son, Telemachus under the
-tutelage of his old friend Mentor. Mentor was a wise and trusted adviser.
+of a character in Greek mythology. Ulysses left his son to his old friend whose
+name is Mentor. Mentor was a wise and trusted adviser.
 
 Nowadays mentor is defined as someone who guides another to greater success. A teacher
 is an example of a mentor. This means we all had a mentor in our life because we
@@ -70,13 +70,13 @@ may be, I definitely need guidance to reach any goal.
 
 Toastmasters members have a long history of supporting and nurturing each other through
 mentorship. Whether it is encouragement or guidance, whether it is shared experience or
-wisdom, whether it is useful knowledge or skill, my mentor is helping me to gains a
+wisdom, whether it is useful knowledge or skill, my mentor is helping me to gain a
 foundation for building skills and meeting my goals in Toastmasters.
 
 There are many projects ahead. My mentor and I are both committed to the goals. The question
 should not be "am I ready?", I should stay ready for my mentor.
 
 Remember the little wisdom words from the mentor:
-You use your experience, and I will use mine to help you.
+You use your experience, and I will use mine to help you reach the goal.
 
 Thank you.
