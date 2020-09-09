@@ -26,3 +26,4 @@ description: wxie's speeches
 - [Meeting openning speech for SAA](speech/meeting_openning_speech_of_SAA.html)
 - [The Joy of passing level 1 Pathways](speech/joy_of_level_1.html)
 - [Am I mentally ready for my mentor?](speech/mentally_ready_for_mentor.html)
+- [Free Software is even more important today](speech/free_software_even_more_important.html)

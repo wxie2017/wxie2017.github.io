@@ -44,7 +44,7 @@ what's wrong.
 What should I do? Right, very smart. I went to my boss for help.
 
 My boss was very busy, but after he listened to my report he told me to talk to another
-person. I went to talk to the nominated colleague who we had very little communication
+person. I went to talk to the nominated colleague to whom I had very little communication
 in the past.
 
 He listened to my report quietly. When I finished,
