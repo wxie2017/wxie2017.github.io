@@ -12,14 +12,11 @@ Good morning.
 
 The title of my speech today is free software is even more important today.
 
-I have already introduced free software and why software should be free.
-Let's review a little bit.
-
 When a program respects users' freedom and community, we call it “free software.”
 We also sometimes call it “libre software” to emphasize that we're talking about
 liberty, not price. Some nonfree programs, such as Photoshop, are very expensive;
-others, such as Wechat, are available gratis. Either way, they give the program's
-developer power over the users, power that no one should have.
+others, such as Wechat, are gratis. Either way, they give the program's developer
+power over the users, the power that no one should have.
 
 Those two nonfree programs have something else in common: they are both malware. That is,
 both have functionalities designed to mistreat the user. Non-free software nowadays
@@ -28,8 +25,9 @@ around 530 different malicious functionalities as of August, 2020, but it is sur
 tip of the iceberg.
 
 The trend shows that more malicious functionalites are coming as more mobile phones and smart
-devices are produced. This means if you use more non-free programs, you will be more deeply
-controlled by malware. To avoid being controlled, free software becomes even more important today.
+devices are produced. This means the more non-free programs you use, the more deeply you will
+be controlled by malware. To avoid being controlled, free software becomes even more important
+today.
 
 For example, girls like to use "beauty camera" apps, and think these apps will help them to take
 beautiful pictures. However, Twenty nine “beauty camera” apps that used to be on Google Play
@@ -49,7 +47,7 @@ you do not activate it. In the United States, there is a frightening case that p
 to investigate you. If you do not control the software you run on your smart device, it will give you
 new meaning to the phrase "everything you say can be used against you." Remember, if you don't control
 your devices, they can be used to control you, and the smartest thing you can do with "smart" devices
-is avoid them!
+is to avoid them!
 
 If you want this not to happen, make sure the program is controlled by its users. This means you should
 use free software. With free software, the users control the program, both individually and collectively.
@@ -60,7 +58,7 @@ your life, your freedom depends on your having control over the program. You des
 over the programs you use, and all the more so when you use them for something important in your life.
 
 Life without freedom is oppression. Today, we are living convinent life with all those smart devices
-running smart software, but without control over the computing we do, we lose the control of own life,
+running smart programs, but without control over the computing we do, we lose the control of own life,
 we lose freedom. Free software is even more important today because we have no more freedom to lose.
 Using free software is the right thing to do, for selfish reasons; but not solely for selfish reasons.
 
