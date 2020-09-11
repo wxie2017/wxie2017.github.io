@@ -10,7 +10,7 @@ Distinguished guests,
 
 Good morning.
 
-The title of my speech today is free software is even more important today.
+The title of my speech is free software is even more important today.
 
 When a program respects users' freedom and community, we call it “free software.”
 We also sometimes call it “libre software” to emphasize that we're talking about
@@ -64,4 +64,4 @@ Using free software is the right thing to do, for selfish reasons; but not solel
 
 Thank you.
 
-Reference:[Free Software Is Even More Important Now](https://www.gnu.org/philosophy/free-software-even-more-important.en.html)
+Reference: [Free Software Is Even More Important Now](https://www.gnu.org/philosophy/free-software-even-more-important.en.html)
