@@ -27,3 +27,4 @@ description: wxie's speeches
 - [The Joy of passing level 1 Pathways](speech/joy_of_level_1.html)
 - [Am I mentally ready for my mentor?](speech/mentally_ready_for_mentor.html)
 - [Free Software is even more important today](speech/free_software_even_more_important.html)
+- [Social Speech 1: Acceptance Speech of becoming club SAA](speech/acceptance_of_club_SAA.html)
