@@ -20,10 +20,10 @@ some work, president, I am now the SAA.
 
 Secondly, I give my heartful thanks to another president, our Past President,
 Annabel. She is also my mentor. I still remember that after I became a member,
-she invited me to join the district training. There was also a SAA in the training,
+she invited me to join the district training. There was also an SAA in the training,
 the SAA is a lady, and she was smiling and asking me: which officer are you?
-You know, I really don't know. Annabel told me to put SAA. I think I am the
-club SAA from that moment unconsciously. Thank you, Annabel.
+You know, I really didn't know. Annabel told me to put SAA secretly. I think I
+was the club SAA from that moment. Thank you, Annabel.
 
 I would also like to thank all the members to give me trust and support. Your
 hard work makes the job of SAA so easy. Thank you.
