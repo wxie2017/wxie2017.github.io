@@ -9,28 +9,29 @@ Respectful president,
 Fellow memebers,
 
 Thank you for nominating me as the Sergeant At Arms.
+
 I am so honored to be standing here today to become a club officer. Serving my
 club has been a joy and a privilege that I am grateful for every single day.
 I wouldn't be able to do it if it weren't for all the amazing people in this
 club and around my life.
 
-Firstly, I sincerely thank our club Present President, Amanda. She always come
+Firstly, I sincerely thank our club Present President, Amanda. She always comes
 to the club earlier than me, and has done all the job for SAA. Please leave me
 some work, president, I am now the SAA.
 
 Secondly, I give my heartful thanks to another president, our Past President,
 Annabel. She is also my mentor. I still remember that after I became a member,
 she invited me to join the district training. There was also an SAA in the training,
-the SAA is a lady, and she was smiling and asking me: which officer are you?
+the SAA was lady, and she was smiling and asking me: which officer are you?
 You know, I really didn't know. Annabel told me to put SAA secretly. I think I
 was the club SAA from that moment. Thank you, Annabel.
 
 I would also like to thank all the members to give me trust and support. Your
 hard work makes the job of SAA so easy. Thank you.
 
-Lastly, I would like to thank my wife and my son. They are not here right now.
-Without my family's love and support, I would not be able to do such an interesting
-job as SAA. I would be shopping with my wife, cooking for my son and so on.
+Lastly, I would like to thank my wife and my son. Unfortunatelly, they are not here
+right now. Without my family's love and support, I would not be able to do such an
+interesting job as SAA. I would be shopping with my wife, cooking for my son.
 
 As a Sergeant At Arms, SAA, my major job is to welcome everybody to the club, prepare
 the meeting facilities, test the meeting devices, give the first speech in the meeting,
