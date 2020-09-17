@@ -36,3 +36,4 @@ None yet!
 - [闲话 GPT-3](article/闲话_GPT-3.html)
 - [我与献血](article/我与献血.html)
 - [如何保护手机数据](article/如何保护手机数据.html)
+- [写在 GNU 工程 37 周年之际](article/写在_GNU_工程_37_周年之际.html)
