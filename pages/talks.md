@@ -28,3 +28,5 @@ description: wxie's speeches
 - [Am I mentally ready for my mentor?](speech/mentally_ready_for_mentor.html)
 - [Free Software is even more important today](speech/free_software_even_more_important.html)
 - [Social Speech 1: Acceptance Speech of becoming club SAA](speech/acceptance_of_club_SAA.html)
+- [Social Speech 2: Welcome new club members](speech/welcome_new_member.html)
+- [NMO speech: Toastmasters is your stage](speech/Toastmasters_is_your_stage.html)
