@@ -83,9 +83,10 @@ Serving my club has been a joy and a privilege that I am grateful for every sing
 This is the stage that not only improves my communication skills but also develops my
 leadership skills. If there is a chance, please be a club officer.
 
-Most of all, welcome to your Toastmasters journey. There is much to learn and explore as
-a member of Toastmasters International. You are encouraged to ask any of our members for
-help. We are here to support you.
+On the stage of Toastmasters, you can be a speaker, you can be a role-taker, and you can be
+an officer, and most of all, welcome to your Toastmasters journey. There is much to learn and
+explore as a new member of Toastmasters International. You are encouraged to ask any of club
+members for help. We are here to support you.
 
 Remember, Toastmaster is your stage. All you need is to act.
 
