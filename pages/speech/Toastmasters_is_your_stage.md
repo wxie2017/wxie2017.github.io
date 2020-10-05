@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Toastmasters is your stage
-description: On 2020-10-18 I gave this speech as NMO selected speech of N4 disrict new member orientation training.
+description: On 2020-10-18 I gave this speech as NMO selected speech of N4 district new member orientation training.
 ---
 
 
@@ -30,7 +30,7 @@ public speaking. This is not a dream from my childhood. The dream when I was a c
 was to become a scientist as I was doing well in schools, and good students should choose
 scientists as their goals at that time.
 
-I went to university, studied physics; I went to insitute, did research in
+I went to university, studied physics; I went to institute, did research in
 physics; and I was a young scientist. Dreams change often. Then the internet
 came, and I followed the trend to become a software engineer. In the meantime, I encountered
 many great ideas during my life journey. Some of them are so inspiring and so important and
