@@ -42,12 +42,13 @@ great people here, and I know I can improve my public speaking skills because we
 have great meetings every time.
 
 I know toastmasters is the stage. All I need is to act. The same applies to you, my fellow members.
+Toastmasters is your stage. All you need is to act.
+
 Here are my tips to make the most of your Toastmasters learning experience.
 
-First, log in to www.toastmasters.org/login to ensure that your username and password are correct.
-How many of you have logged in to the web using your member ID?
-(wait for some answers)
-It is important to remember your ID.
+First, question again. How many of you still remember your member ID?
+(wave your hands up, confirm their answers)
+Please log in to www.toastmasters.org/login using your ID and password.
 
 After your login, please make sure you select your Pathways. Pathways is the foundation of the
 Toastmasters' education program. This is critical to your growth. It compliments your club experience
@@ -58,14 +59,14 @@ Then you come to the second interesting part. Possibly your vice president educa
 with a mentor, to help you along the way. You can also pick someone who stands out to you in some way
 as your mentor. Perhaps you were really engaged by one of their speeches. Maybe you noticed that they
 are highly active in supporting the club. Or, they might already possess the kinds of skills you hope
-to improve upon.
+to improve upon. Talk to your mentor, set up your goal with you mentor.
 
 Now it is your show time. You prepare your first project, the Ice Breaker. Work closely with your mentor
 to prepare for this first speech. Your mentor has been there before and has excellent ideas for what
 to speak about and how to do it. It is important to get over any fear or nervousness regarding
 your first speech, just do it as I am doing it right now. Tell your story, share your dream, enjoy the stage.
-Once you complete your first speech, you will truly feel that you are building strong relationships
-and becoming confident on the stage.
+Once you complete your first speech, you will truly feel that you are building strong relationships in the
+club and becoming confident on the stage.
 
 Besides speeches, there are many other things that make you like the stage.
 
@@ -75,8 +76,8 @@ I encourage you to choose a role in every meeting you attend. There are enough r
 TMD (Toastmaster of the day), timer, Ah-counter, grammarian, TTM (table topic master),
 GE (general evaluator), TTE (table topic evaluator), IE (individual evaluator). Each role
 gives you some unique experience on the stage. I have been Ah-counter, grammarian, TTE and
-IE and have also been evaluated by them. It's good to earn the appreciation of honest
-critics from your fellow members.
+IE and have also been evaluated by them. It's good to earn honest critics from your fellow
+members, and you may not have the chance without the stage in Toastmasters.
 
 You can also choose to become a club officer. I am the SAA (sergeant at arms) in my club.
 Serving my club has been a joy and a privilege that I am grateful for every single day.
