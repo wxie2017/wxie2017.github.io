@@ -24,14 +24,11 @@ Here are my tips for you to get started:
 
 * Sample your first project, the Ice Breaker.
 
-* Our vice president education will pair you with a mentor, to help you along the way. You can
-pick someone who stands out to you in some way as your mentor. Perhaps you were really engaged
-by one of their speeches. Maybe you noticed that they are highly active in supporting our club.
-Or, they might already possess the kinds of skills you hope to improve upon.
+* Our vice president education will pair you with a mentor, to help you along the way.
 
-Work closely with your mentor to prepare for your first speech. Your mentor
-has been there before and has excellent ideas for what to speak about and
-how to do it. It is important to get over any fear or nervousness regarding
+Work closely with your mentor to prepare for your first speech, the Ice Breaker.
+Your mentorhas been there before and has excellent ideas for what to speak about
+and how to do it. It is important to get over any fear or nervousness regarding
 your first speech. Once you complete your first speech, you will truly feel
 that you are building strong relationships and becoming a valuable member of
 our club.
@@ -41,7 +38,7 @@ journey. There is much to learn and explore as a member of Toastmasters Internat
 and YuLife Club. You are encouraged to ask any of our members for help. We are here
 to support you.
 
-We'd like to extend a special welcome to our president, Amanda, who will bring a
-surprise to you.
+Finally, we'd like to extend a special welcome to our president, Amanda, who will bring
+a surprise to you.
 
 Thank you.
