@@ -70,9 +70,14 @@ what is the name for 35th anniversary?
 
 Yes. It is called coral. So 2020 is the coral anniversary of FSF.
 
-Today, tens of millions of people now use GNU/Linux systems. How far can free software go?
-There are no limits. The ultimate goal is to provide free software to do all of the jobs
-computer users want to do—and thus make proprietary software a thing of the past.
+Today, tens of millions of people now use GNU/Linux systems, a free operating system from
+GNU and free software community. How far can free software go? There are no limits.
+
+After 35 years, in many ways, free software is only just getting started, as the technological
+landscape endlessly shifts and new threats -- and opportunities -- emerge. The free software
+community pledge to match all the commitment, along with all of the hard work, there is
+plenty of joy and fun to be had along the way to the goal: a world where all software is free,
+forever.
 
 Thanks to GNU and thanks to free software.
 
