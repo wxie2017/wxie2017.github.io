@@ -28,27 +28,32 @@ Questions: which of the following software is free software?
 According to the definition of free software:
 
 Freedom 0: free to run the program as you wish
+
 Freedom 1: free to study the program and make changes as you wish
+
 Freedom 2: free to distribute the original program
+
 Freedom 3: free to distribute modified version of the program
 
 We know that program 1 and 2 are not free software, please think about the reason.
 You may not be familiar with program 3 (Firefox) or program 4 (GNU Emacs), but they
 are free software. They give the users the 4 freedoms.
 
-Here is a question. Who can tell me what free software is in Chinese?
+You many noticed that in program 4, there is a "GNU" before Emacs. You may wonder:
 
 * What's GNU?
 
-Does anybody know about Unix? Good. Unix is an operation system just like Windows.
-GNU mean GNU's Not Unix! Do you see the humor in it? The name of the system, GNU,
-is a recursive acronym meaning GNU's Not Unix—a way of paying tribute to the
-technical ideas of Unix, while at the same time saying that GNU is something
-different.
+Does anybody know about Unix? Good.
+
+Unix is an operation system just like Windows. GNU mean GNU's Not Unix! Do
+you see the humor in it? The name of the system, GNU, is a recursive acronym
+—a way of paying tribute to the technical ideas of Unix, while at the same
+time saying that GNU is something different.
 
 GNU was launched by Richard Stallman (rms) in 1983, as an operating system which
 would be put together by people working together for the freedom of all software
-users to control their computing. rms remains the Chief GNUisance today.
+users to control their computing. rms remains the Chief GNUisance today. He is
+still in charge of the GNU project.
 
 The primary and continuing goal of GNU is to offer a Unix-compatible system that
 would be 100% free software. Not 95% free, not 99.5%, but 100%. Technically, GNU
@@ -58,10 +63,17 @@ The birth of GNU means the start of free software movement.
 
 The projrct to develop GNU system is called GNU project, which started in January 1984.
 The Free Software Foundation was founded in October 1985, initially to raise funds to
-help develop GNU. 2020 is the 35th anniverary of Free Software Foundation.
+help develop GNU. 2020 is the 35th anniversary of Free Software Foundation.
+
+We know 25th anniversary is called silver, 50th anniversary is called gold. Who knows
+what is the name for 35th anniversary?
+
+Yes. It is called coral. So 2020 is the coral anniversary of FSF.
 
 Today, tens of millions of people now use GNU/Linux systems. How far can free software go?
 There are no limits. The ultimate goal is to provide free software to do all of the jobs
 computer users want to do—and thus make proprietary software a thing of the past.
+
+Thanks to GNU and thanks to free software.
 
 Thank you.
