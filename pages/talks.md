@@ -30,3 +30,4 @@ description: wxie's speeches
 - [Social Speech 1: Acceptance Speech of becoming club SAA](speech/acceptance_of_club_SAA.html)
 - [Social Speech 2: Welcome new club members](speech/welcome_new_member.html)
 - [NMO speech: Toastmasters is your stage](speech/Toastmasters_is_your_stage.html)
+- [GNU and Free Software](speech/GNU_and_free_software.html)
