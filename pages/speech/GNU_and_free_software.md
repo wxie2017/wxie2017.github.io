@@ -10,7 +10,7 @@ Distinguished guests,
 
 Good morning.
 
-I have talked about Free Software twice in our club meeting. Today I want to do share more on this topic.
+I have talked about Free Software twice in our club meeting. Today I want to share more on this topic.
 
 * Let's look at some examples
 
@@ -45,8 +45,8 @@ You many noticed that in program 4, there is a "GNU" before Emacs. You may wonde
 
 Does anybody know about Unix? Good.
 
-Unix is an operation system just like Windows. GNU mean GNU's Not Unix! Do
-you see the humor in it? The name of the system, GNU, is a recursive acronym
+Unix is an operation system just like Windows. GNU mean GNU's Not Unix!
+Do you see the humor in it? The name of the system, GNU, is a recursive acronym
 —a way of paying tribute to the technical ideas of Unix, while at the same
 time saying that GNU is something different.
 
@@ -59,9 +59,9 @@ The primary and continuing goal of GNU is to offer a Unix-compatible system that
 would be 100% free software. Not 95% free, not 99.5%, but 100%. Technically, GNU
 is like Unix. But unlike Unix, GNU gives its users freedom.
 
-The birth of GNU means the start of free software movement.
+* The birth of GNU means the start of free software movement.
 
-The projrct to develop GNU system is called GNU project, which started in January 1984.
+The project to develop GNU system is called GNU project, which started in January 1984.
 The Free Software Foundation was founded in October 1985, initially to raise funds to
 help develop GNU. 2020 is the 35th anniversary of Free Software Foundation.
 
