@@ -19,3 +19,4 @@ description: wxie's tutorials
 
 - [L10n、I18n 和 Unicode](tutorial/L10n_I18n_Unicode.html)
 - [BASH 中的括号用法](tutorial/bash_中的括号用法.html)
+- [BASH 中的错误处理](tutorial/BASH_中的错误处理.html)
