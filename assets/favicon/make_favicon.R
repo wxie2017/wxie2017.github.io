@@ -1,9 +1,9 @@
-# convert karl_lego.png into favicon.ico
+# convert 342732{.png, .jpg} into favicon.ico
 
 library(magick)
 
 # read original image
-img_orig <- image_read(rep("../pics/kbroman_lego.jpg", 5))
+img_orig <- image_read(rep("../pics/342732.jpg", 5))
 
 # crop to make it square
 img_crop <- image_crop(img_orig, geometry_area(width=557, height=557))
