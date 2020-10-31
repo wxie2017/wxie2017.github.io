@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The story of a rooster
-description: On 2020-11-08 gave this story/speech as I the level-3 project-3 of my Pathways in Yulife club of Toastmaster.
+description: On 2020-11-01 gave this story/speech as I the level-3 project-3 of my Pathways in Yulife club of Toastmaster.
 ---
 
 
