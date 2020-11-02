@@ -32,3 +32,4 @@ description: wxie's speeches
 - [NMO speech: Toastmasters is your stage](speech/Toastmasters_is_your_stage.html)
 - [GNU and Free Software](speech/GNU_and_free_software.html)
 - [The sotry of a rooster](speech/story_of_rooster.html)
+- [Table Topic Speech: online shopping](speech/TTM_online_shopping.html)
