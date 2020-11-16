@@ -73,7 +73,7 @@ nasty features, which might spy on or restrict you, and publish safe versions. Y
 to select to use them—and since all other users will prefer them, that will usually happen with
 no effort on your part.
 
-In summary, copyleft is a application of the copyright law. Free software uses copyleft licenses
+In summary, copyleft is an application of the copyright law. Free software uses copyleft licenses
 to ensure users' control over the program.
 
 Thank you.
