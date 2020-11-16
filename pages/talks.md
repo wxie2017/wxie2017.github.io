@@ -33,3 +33,4 @@ description: wxie's speeches
 - [GNU and Free Software](speech/GNU_and_free_software.html)
 - [The sotry of a rooster](speech/story_of_rooster.html)
 - [Table Topic Speech: online shopping](speech/TTM_online_shopping.html)
+- [copyright vs. copyleft](speech/copyright_vs_copyleft.html)
