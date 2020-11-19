@@ -23,11 +23,11 @@ copyright. Thank you.
 Once upon a time, in the age of the printing press, an industrial regulation was established
 to cover the business of writing and publishing. It was called copyright. Copyright's purpose,
 was to encourage publication. The method used was to make publishers get permission from
-authors for using recent works. Copyright provided a public benefit, as intended, with little
-burden on the public. It did its job well—back then.
+authors for using their recent works. Copyright provided a public benefit, as intended, with
+little burden on the public. It did its job well—back then.
 
 Copyright laws are created such that unauthorized selling or copying of the work of an author
-is not legally publishable and protects the authors. A copyrighted work can only be copied
+is not legally publishable and protects the author. A copyrighted work can only be copied
 or sold after taking prior permission from the author.
 
 Most creative works that are placed in a fixed medium can be copyrighted, which means the
