@@ -1,7 +1,7 @@
 ---
 layout: page
 title: copyright vs. copyleft
-description: On 2020-11-2 gave this story/speech as I the level-4 project-1 of my Pathways in Yulife club of Toastmaster.
+description: On 2020-11-22 gave this story/speech as I the level-4 project-1 of my Pathways in Yulife club of Toastmaster.
 ---
 
 

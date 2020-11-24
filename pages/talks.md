@@ -34,3 +34,4 @@ description: wxie's speeches
 - [The sotry of a rooster](speech/story_of_rooster.html)
 - [Table Topic Speech: online shopping](speech/TTM_online_shopping.html)
 - [copyright vs. copyleft](speech/copyright_vs_copyleft.html)
+- [Table Topic Speech: copyright vs. copyleft](speech/TTM_copyright_vs_copyleft.html)
