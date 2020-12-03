@@ -29,7 +29,7 @@ Copyleft 应运而生——Richard Stallman 开创性地指出作者可以在版
 允许任何人使用、修改和再分发原来的作品及其衍生作品，但是必须保持原来的分发条款不
 变。这就是 Copyleft：一种对版权的创新应用。
 
-[GNU GPL 3.0]（https://www.gnu.org/licenses/gpl-3.0.html） 和 [CC BY-SA
+[GNU GPL 3.0](https://www.gnu.org/licenses/gpl-3.0.html)和 [CC BY-SA
 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.zh?__cf_chl_captcha_tk__=31fc74906484b18989a2d83d32ca04ed1084326a-1606984303-0-AfhjmP3sbOLPMOuOztp-3XFhXy4F63oir77SJjY6V7PHLohCLrBGCAqCucTi0vDNP8o5YK6-EtdZbGmTTs6zeq8PcFrBse198QjGW3UBaZS21H0ltyuLVR7HPk8xUfcxr3v_RWVQB0mgOvBeJgPjmd2KTVQldw2NzE7SU_-c9g9a3GPlfo1IOsOYe7BMvru_5-YGoNGW392RxKnEjbB5bcfPv4d76m7ImqiR7eUB8BxDUSl5MuGN1dgiVqoLzgDKxKID2K1VXB1lVqTM6NxpdQfgS4uWarA44olZ_C8lV0AOk4JJr1N8me2sSrPCKT84ZJkyUczFLI6E_vndc6LAiGudHMzJCpAwwsUi_SwS3oF5Lt2CIE8KxR6fkX_s_homgCNss9pHkCvcZ14oznUspEyS2aJ3GjQHDjBVpXTwaSZSX7BpH_cZ3vchOSzco0TDAlqwR3IgYWFsZb2mwjf70SThesj20zn-emia-VTipyNUK8hSqHT8IHTeSv4J_vU5OfoDEZstnzfGfcZzCNsiSaureHUuGlUYAOYIhkspXdb946RU466ZwNIE8hskIGnSJ3aU1pTCONGVtqViP0ZLv4yI1tIlCk0zkn-0NFkOo-Vj6dpJpJlLhrEvzuaOck-a6Q)
 是两个常用的 Copyleft 许可证。GPL 经常用于软件作品，是著名的自由软件许可证。它保
 证原版软件及其所有后续衍生软件都使用相同的 GPL 许可证，都是 Copyleft 的。
@@ -50,4 +50,4 @@ Copyleft 应运而生——Richard Stallman 开创性地指出作者可以在版
 由软件。自由软件基金会[FSF](https://www.fsf.org/)致力于捍卫所有软件用户的权利。
 
 [会员是在为航行加油，并将帮助我们到达终点：完全的软件自由。请在 12 月 31 日前成
-为 FSF 会员。]（https://fsf.org/appeal?pk_campaign=fall20&pk_kwd=banner）
+为 FSF 会员。](https://fsf.org/appeal?pk_campaign=fall20&pk_kwd=banner)
