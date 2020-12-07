@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The template of meeting openning speech of SAA
+title: The template of meeting opening speech of SAA
 description: On 2020-08-16, I began to the Sergeant At Arms for Yulife club of Toastmaster.
 ---
 
@@ -22,8 +22,17 @@ and guests. We provide a supportive and positive learning experience to empower
 our members to develop communication and leadership skills, resulting in greater
 self-confidence and personal growth.
 
-Before we proceed, as the SAA, I remind you to turn off your mobile phones or
-set them on silent mode. Thank you.
+Today is our xxxth meeting.
+
+Before we proceed, as the SAA, first I remind you that there are 4 topics which
+we should avoid in our club meeting
+1. religion
+2. politics
+3. sex
+4. low taste
+
+Second, I reminder you to turn off your mobile phones or set them on silent mode.
+Thank you.
 
 Please welcome our club president Amanda to the stage.
 [applaud, shake hands, take a seat]
