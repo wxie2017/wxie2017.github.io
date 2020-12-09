@@ -19,8 +19,8 @@ Wechat account, please raise your hand.
 
 I see each one here has a Wechat account.
 
-Who also manage a Wechat public account? Please raise your hand. Good, you
-are a social media experts.
+Who also manages a Wechat public account? Please raise your hand. Good, you
+are social media experts.
 
 [ask one of them] What's your big concern when you have a public account?
 
