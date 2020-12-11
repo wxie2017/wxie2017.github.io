@@ -39,3 +39,4 @@ None yet!
 - [写在 GNU 工程 37 周年之际](article/写在_GNU_工程_37_周年之际.html)
 - [政府软件应该首选自由软件](article/政府软件应该首选自由软件.html)
 - [copyright vs. copyleft](article/copyright_vs_copyleft.html)
+- [用 Emacs 写作](article/用_Emacs_写作.html)
