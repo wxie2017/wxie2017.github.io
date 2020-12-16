@@ -40,3 +40,5 @@ None yet!
 - [政府软件应该首选自由软件](article/政府软件应该首选自由软件.html)
 - [copyright vs. copyleft](article/copyright_vs_copyleft.html)
 - [用 Emacs 写作](article/用_Emacs_写作.html)
+- [蝉的往事](article/蝉的往事.html)
+- [记录中国所有消失的学校](article/记录中国所有消失的学校.html)
