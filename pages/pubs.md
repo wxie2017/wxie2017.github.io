@@ -42,3 +42,4 @@ None yet!
 - [用 Emacs 写作](article/用_Emacs_写作.html)
 - [蝉的往事](article/蝉的往事.html)
 - [记录中国所有消失的学校](article/记录中国所有消失的学校.html)
+- [自由软件可持续发展之我见](article/自由软件可持续发展之我见.html)
