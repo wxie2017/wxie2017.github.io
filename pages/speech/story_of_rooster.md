@@ -10,10 +10,13 @@ Distinguished guests,
 
 Good morning.
 
+Experiences from our childhood often remain vivid in our brain, some even
+teaches us how to live our lives. Today, I tell you the story of a rooster.
+
 Many many years ago, when I was a little kid, my family lived in a large
 flat building together with 6 other families. We shared a huge front yard.
 
-I still remember that warm spring morning, the bright sunshine streamed
+I still remember that a warm spring morning, the bright sunshine streamed
 over the spacious yard. A young man came into the yard, carrying two large
 bamboo baskets over his shoulder.
 
@@ -81,7 +84,7 @@ Little flower still cared the hens for days.
 That weekend, my family had a chicken meal. I didn't eat.
 
 I showed my respect to a wonderful creature who had lived his life with love and honor,
-glory and failure.
+glory and failure, which is the very way that we all should live our lives.
 
 Farewell, little flower. Farewell, the great rooster.
 
