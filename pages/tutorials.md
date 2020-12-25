@@ -21,3 +21,4 @@ description: wxie's tutorials
 - [BASH 中的括号用法](tutorial/bash_中的括号用法.html)
 - [BASH 中的错误处理](tutorial/BASH_中的错误处理.html)
 - [BASH 的几个常见陷阱](tutorial/BASH_的几个常见陷阱.html)
+- [BASH 对程序员的重要性](tutorial/BASH_对程序员的重要性.html)
