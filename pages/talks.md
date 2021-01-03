@@ -38,3 +38,4 @@ description: wxie's speeches
 - [Meeting opening speech for General Evaluator](speech/meeting_opening_speech_of_GE.html)
 - [Numbers and Social Media](speech/numbers_and_social_media.html)
 - [Meeting opening speech for Toastmaster of the day](speech/meeting_opening_speech_of_TMD.html)
+- [Bold: acceptance of club President](speech/acceptance_of_club_President.html)
