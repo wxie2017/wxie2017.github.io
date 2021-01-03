@@ -16,10 +16,10 @@ friend or girl friend, taking an important examination, etc.
 
 For myself, I should remember that I joined Yulife Toastmasters club on the
 1st of July, did my first Ice Breaker on July the 5th, got my first mentee on
-18th October.
+18th October, finished my 1st Pathways level 4 on 17th December.
 
-To my surprise, I became the President of Yulife Toastmasters Club on 20th
-December. Thanks to all the members who haven't campaigned against me.
+At last, to my surprise, I became the President of Yulife Toastmasters Club on
+20th December. Thanks to all the members who haven't campaigned against me.
 
 Although serving my club has been a joy and a privilege that I am grateful for
 every single day, although I am very honored to be able to be an officer, the
@@ -27,16 +27,16 @@ role of club President is foreign to me.
 
 I have fear and I have anxiety.
 
-Have you ever felt fear and pressure when you were pushed to a totally new
+Have you ever felt fearful and anxious when you were pushed to a totally new
 position? I guess we all do. Fear and anxiety are typical for our first
-time journey just as we deliver our Ice Breaker speech.
+time journey just as we deliver our Ice Breaker speech in front the audience.
 
 What should we do in this situation? I choose to be bold.
 
 BOLD means brave, fearless in the face of danger.
 
 Do be afraid. Toastmasters club meeting is safe, we are all encouraged to
-do new things and learn from the evalutions we receive here. All we need
+do new things and learn from the evaluations we receive here. All we need
 is to be bold.
 
 BOLD means
