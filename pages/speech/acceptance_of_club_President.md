@@ -51,55 +51,67 @@ Deliver it.
 
 * Build it
 
-In April 2012, Yulife Toastmasters club was founded with the slogan
-Discover potential, shape ourselves.
+In the past, when we want someting, we build it. Nowadays, we buy it.
+However, there are things we cannot buy. For example, we cannot buy love,
+relationships, we cannot even buy communication and leadership skills.
+We have to build it.
+
+Fortunately, the founders have built the Yulife Toastmasters club as a
+stage for us to practice public speaking skills and improve leadership
+skills.
+
+We need build it further - either as club officers, meeting roles, or by
+coming to the meetings, inviting friends to the meetings. Little by little,
+We are building our club.
+
+We discover our potential, and shape ourselves to be better.
 
 The stage is already built. We are here to build better ourselves and
 make future leaders, communicators.
 
-When you recall the moment you join the club, didn't you want to discover
-your potential on the stage? If you know you’ll need to sharpen your
-public speaking skills at some point, why not do it early on and build it
-now?
+If you know you’ll need to sharpen your public speaking skills at some
+point, why not do it early on and build it now?
 
 * Own it
 
-Ownership is very important. We are all owners of our club. We are all
-here to pratice our public speeking skills.
+To build it is just the beginning. Ownership is the next step. We are
+all here to pratice our public speeking skills. Ownership gives us true
+responsibility to move forward.
 
-Speaking in public teaches you to master your own ideas. Whenever you
-express yourself, whether verbally or in writing, your mental processes
-become clearer. When we deliver our thoughts clearly, we improve the
-meeting quality in our club. We show our confidence on the stage, and
+We own ourselves to start our Pathways, and we own ourselves to master
+our own ideas. Whenever we deliver our thoughts clearly, we improve the
+meeting quality in our club. Whenever we show our confidence on the stage,
 we own the future of ourselves and we become the owner of our club.
 
 * Lead it
 
-To me, leadership starts with a commitment to principles。
+When we become an owenr, we become a natural leader.
 
-I’ve seen many instances of leaders who lacked either character or
-competence but gained credibility and respect based on their ability
-to speak well in public.
+To me, leadership starts with a commitment to principles which is
+exactly an owner will do.
 
 Communication skills, and public speaking skills in particular, are
 a wild card to be leaders.
 
-If you can articulate your ideas well in public and people will shower
-you with credibility, you will be the leader.
+If we can articulate your ideas well in public and people will shower
+us with credibility, we will be the leader.
 
 * Deliver it
 
-In many situations, when you're the one with the courage to speak up,
-your ideas rise to the top. There’s just something about delivering
-a punchline in front of an audience that makes me smile on the inside.
+Last but not least, we deliver what we build, what we own and what
+we lead.
 
-Whether you are inspiring a group, presenting a solution to a problem,
-or simply facilitating a discussion, your voice gets to be powerful.
-You deliver the impact through your communication skills.
+In many situations, when we're the ones with the courage to speak up,
+our ideas rise to the top. There's just something about delivering
+a punchline in front of an audience that makes us smile on the inside.
 
-All in all, we all needed to be bold. Regardless of where our speaking
-skills are on the spectrum, the best time to take the next step is right
-now.
+Whether we are inspiring a group, presenting a solution to a problem,
+or simply facilitating a discussion, our voice gets to be powerful.
+We deliver the impact through your communication skills.
+
+All in all, we all needed to be bold: build it, own it, lead it and
+deliver it. Regardless of where our speaking skills are on the spectrum,
+the best time to take the next step is right now.
 
 Be bold.
 
