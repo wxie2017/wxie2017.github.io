@@ -65,14 +65,6 @@ We need build it further - either as club officers, meeting roles, or by
 coming to the meetings, inviting friends to the meetings. Little by little,
 We are building our club.
 
-We discover our potential, and shape ourselves to be better.
-
-The stage is already built. We are here to build better ourselves and
-make future leaders, communicators.
-
-If you know you’ll need to sharpen your public speaking skills at some
-point, why not do it early on and build it now?
-
 * Own it
 
 To build it is just the beginning. Ownership is the next step. We are
@@ -102,9 +94,9 @@ us with credibility, we will be the leader.
 Last but not least, we deliver what we build, what we own and what
 we lead.
 
-In many situations, when we're the ones with the courage to speak up,
+In many situations, when we're the ones with the boldness to speak up,
 our ideas rise to the top. There's just something about delivering
-a punchline in front of an audience that makes us smile on the inside.
+a punchline in front of an audience that makes us smile inside.
 
 Whether we are inspiring a group, presenting a solution to a problem,
 or simply facilitating a discussion, our voice gets to be powerful.
