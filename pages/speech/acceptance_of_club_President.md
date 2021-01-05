@@ -36,8 +36,9 @@ What should we do in this situation? I choose to be bold.
 
 BOLD means brave, fearless in the face of danger.
 
-Don't be afraid. Yulife club is safe, we are all encouraged to do new things
-here and learn from the evaluations we receive. All we need is to be bold.
+Don't be afraid. Yulife club is safe. I guarantee that as the president.
+We are all encouraged to do new things here and learn from the evaluations
+we receive. All we need is to be bold.
 
 BOLD means
 
@@ -51,7 +52,7 @@ Deliver it.
 
 * Build it
 
-In the past, when we want someting, we build it. Nowadays, we buy it.
+In the past, when we want something, we build it. Nowadays, we buy it.
 However, there are things we cannot buy. For example, we cannot buy love,
 relationships, we cannot even buy communication and leadership skills.
 We have to build it.
@@ -75,7 +76,7 @@ point, why not do it early on and build it now?
 * Own it
 
 To build it is just the beginning. Ownership is the next step. We are
-all here to pratice our public speeking skills. Ownership gives us true
+all here to practice our public speaking skills. Ownership gives us true
 responsibility to move forward.
 
 We own ourselves to start our Pathways, and we own ourselves to master
@@ -85,7 +86,7 @@ we own the future of ourselves and we become the owner of our club.
 
 * Lead it
 
-When we become an owenr, we become a natural leader.
+When we become an owner, we become a natural leader.
 
 To me, leadership starts with a commitment to principles which is
 exactly an owner will do.
