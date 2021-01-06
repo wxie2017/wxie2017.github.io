@@ -1,7 +1,7 @@
 ---
 layout: page
 title: bold: Acceptance of club President
-description: On 2020-12-28 I was elected as the 2021.01-2021.06 President of Yulife club, and I gave this speech on 2021-01-10 also as .
+description: On 2020-12-28 I was elected as the 2021.01-2021.06 President of Yulife club, and I gave this speech on 2021-01-10.
 ---
 
 
@@ -24,7 +24,7 @@ At last, to my surprise, I became the President of Yulife Toastmasters Club on
 
 Although serving my club has been a joy and a privilege that I am grateful for
 every single day, although I am very honored to be able to be an officer, the
-role of club President is foreign to me. It is new to many of you, too.
+role of club President is foreign to me.
 
 I have fear and I have anxiety.
 
@@ -61,9 +61,9 @@ Fortunately, the founders have built the Yulife Toastmasters club as a
 stage for us to practice public speaking skills and improve leadership
 skills.
 
-We need build it further - either as club officers, meeting roles, or by
-coming to the meetings, inviting friends to the meetings. Little by little,
-We are building our club.
+We need build it further - either as club officers, meeting roletakers,
+or by inviting friends coming to our club, or by simply joining the
+meetings personally. Little by little, We are building a better club.
 
 * Own it
 
@@ -74,19 +74,17 @@ responsibility to move forward.
 We own ourselves to start our Pathways, and we own ourselves to master
 our own ideas. Whenever we deliver our thoughts clearly, we improve the
 meeting quality in our club. Whenever we show our confidence on the stage,
-we own the future of ourselves and we become the owner of our club.
+we become the owner of our club.
 
 * Lead it
 
-When we become an owner, we become a natural leader.
+When we become the owner, we become the natural leader.
 
-To me, leadership starts with a commitment to principles which is
-exactly an owner will do.
+To me, leadership starts with a commitment to principles. Communication
+skills, and public speaking skills in particular, are a wild card to be
+leaders.
 
-Communication skills, and public speaking skills in particular, are
-a wild card to be leaders.
-
-If we can articulate your ideas well in public and people will shower
+If we can articulate our ideas well in public and people will shower
 us with credibility, we will be the leader.
 
 * Deliver it
@@ -95,12 +93,11 @@ Last but not least, we deliver what we build, what we own and what
 we lead.
 
 In many situations, when we're the ones with the boldness to speak up,
-our ideas rise to the top. There's just something about delivering
-a punchline in front of an audience that makes us smile inside.
+our ideas rise to the top.
 
 Whether we are inspiring a group, presenting a solution to a problem,
 or simply facilitating a discussion, our voice gets to be powerful.
-We deliver the impact through your communication skills.
+We deliver the impact through our communication skills.
 
 All in all, we all needed to be bold: build it, own it, lead it and
 deliver it. Regardless of where our speaking skills are on the spectrum,
