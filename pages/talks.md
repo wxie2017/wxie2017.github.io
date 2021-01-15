@@ -39,3 +39,4 @@ description: wxie's speeches
 - [Numbers and Social Media](speech/numbers_and_social_media.html)
 - [Meeting opening speech for Toastmaster of the day](speech/meeting_opening_speech_of_TMD.html)
 - [Bold: acceptance of club President](speech/acceptance_of_club_President.html)
+- [Why and How I stopped buying new laptops](speech/keynote-why-how-stop-buying-new-laptop.html)
