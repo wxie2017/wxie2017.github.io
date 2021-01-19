@@ -72,10 +72,7 @@ is not exceptional.
 
 * Laptops don't change
 
-The study cited dates from 2011, and it refers to a machine made in 2001: a Dell
-Inspiron 2500. You are forgiven for thinking that this “most recent life cycle
-analysis of a laptop” is outdated, but it’s not. A 2015 research paper discovered
-that the embodied energy of laptops is static over time.
+A 2015 research paper discovered that the embodied energy of laptops is static over time.
 
 The scientists disassembled 11 laptops of similar size, made between 1999 and 2008,
 and weighed the different components. Also, they measured the silicon die area for
@@ -153,7 +150,7 @@ There are two things you need to do:
 
 1. Use low energy software
 
-My current laptops all run on GNU/Linux, to be brief I call it GNU, with several distros,
+My current laptops all run on GNU/Linux, to be brief we call it GNU, with several distros,
 2 Debian, 1 Guix specially designed to work on old computers. The use of a GNU operating
 system is not a mere suggestion. There’s no way you’re going to revive an old laptop if
 you stick to Microsoft Windows or Apple OS because the machine would freeze instantly. GNU
