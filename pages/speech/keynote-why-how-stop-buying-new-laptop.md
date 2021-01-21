@@ -68,7 +68,7 @@ but that is not the only problem. The high resource use of laptops is also becau
 they have a very short lifespan. Most of the 160-200 million laptops sold each
 year are replacement purchases. The average laptop is replaced every 3 years
 (in business) to five years (elsewhere). My 4 years per company laptop experience
-is not exceptional.
+is not exceptional. However,
 
 * Laptops don't change
 
@@ -91,19 +91,21 @@ these gains are offset by more computational power.
 * The challenge
 
 All this means that there’s no environmental or financial benefit whatsoever to replacing
-an old laptop with a new one. On the contrary, the only thing a consumer can do to improve
+an old laptop with a new one. On the contrary, the only thing consumers can do to improve
 their laptop's ecological and economic sustainability is to use it for as long as possible.
 This is facilitated by the fact that laptops are now a mature technology and have more than
 sufficient computational power. One problem, though. Consumers who try to keep working on
 their old laptops are likely to end up frustrated. I shortly explain my frustrations below,
-and I’m pretty confident that they are not exceptional.
+and I’m pretty confident that they are not uncommon.
+
+Let's have a look at
 
 * four new laptops I used from 2007 to 2018
 
 ** My first laptop: Compaq
 
 In 2007, when I was working as a senior software developer, I got my first laptop,
-a Compaq. Little more than two or three years later, the charger started
+a Compaq evo. Little more than two or three years later, the charger started
 malfunctioning. When informed of the price for a new charger, I was so disgusted with
 Compaq's sales practices – chargers are very cheap to produce, but Compaq sold them for a
 lot of money – that I refused to buy it. Instead, I applied for a new laptop from my
@@ -140,7 +142,9 @@ to older laptops, even if they carried a much higher price tag.
 
 The operating system was Windows 10, and it also had blue screen once in a while.
 
-* Then I stopped buying new laptops since 2018
+Then
+
+* I stopped buying new laptops since 2018
 
 ** How to make an old laptop run like it’s new
 
@@ -181,7 +185,7 @@ solid-state drive needs replacement now and then.
 
 3. Spare laptops
 
-Meanwhile, my strategy has evolved. I have bought two identical models for a similar
+Meanwhile, my strategy has evolved. I have bought a second hand laptop for a similar
 price, to use as spare laptops. Now I plan to keep working on these machines for as long
 as possible, having more than sufficient spare parts available. I had a spare laptop ready
 and started using that one whenever I needed or wanted to work outside.
