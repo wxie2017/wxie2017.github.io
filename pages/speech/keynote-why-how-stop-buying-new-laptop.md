@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Why and how I stopped buying new laptops
-description: On 2021-01-17 I gave this speech as the first speech of the level-5 Pathways in Yulife club of Toastmaster.
+description: On 2021-01-24 I gave this speech as the first speech of the level-5 Pathways in Yulife club of Toastmaster.
 ---
 
 
@@ -113,15 +113,11 @@ employer, which is my second laptop.
 
 ** My second laptop: IBM ThinkPad T400
 
-In 2010, the company changed my Compaq to a IBM ThinkPad T400, actually it was a Lenovo
+In 2010, the company changed my Compaq to an IBM ThinkPad T400, actually it was a Lenovo
 ThinkPad T400 because Lenove bought IBM's PC business in 2005. The laptop was the actual
 standard for developers in the company. The laptop was good to use. More importantly,
 the entire machine was built to last, built to be reliable, and built to be repairable.
-
-Circular and modular products are all the hype these days, but my IBM Thinkpad was
-precisely that. Every component in the laptop could be screwed off and replaced, the
-sturdy case (with steel hinges) was spacious enough to make serious upgrades possible,
-and it had every connector you can imagine.
+Every component in the laptop could be screwed off and replaced.
 
 This machine was changed to my third laptop in 2015 according to company IT policy, plus
 it battery was broken.
