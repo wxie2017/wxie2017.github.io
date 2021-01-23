@@ -34,7 +34,7 @@ I have been using desktop computer at home. The Tongfang laptop is the
 first brand new personal laptop I bought for myself.
 
 In 2017, my Tongfang laptop's hard drive was broken. I decided not to buy
-any new laptops. Instead, I purchased online for 100 Yuan hard drive and
+a new laptop. Instead, I purchased online for 100 Yuan hard drive and
 100 RAM which did everything that I wanted and needed. Including a new
 battery, a new keyboard and a simple hardware upgrade, I invested less
 than 500 Yuan.
@@ -105,11 +105,11 @@ Let's have a look at
 ** My first laptop: Compaq
 
 In 2007, when I was working as a senior software developer, I got my first laptop,
-a Compaq evo. Little more than two or three years later, the charger started
-malfunctioning. When informed of the price for a new charger, I was so disgusted with
-Compaq's sales practices – chargers are very cheap to produce, but Compaq sold them for a
-lot of money – that I refused to buy it. Instead, I applied for a new laptop from my
-employer, which is my second laptop.
+a Compaq evo. Little more than three years later, the charger started malfunctioning.
+When informed of the price for a new charger, I was so disgusted with Compaq's sales
+practices – chargers are very cheap to produce, but Compaq sold them for a lot of
+money – that I refused to buy it. Instead, I applied for a new laptop from my employer,
+which is my second laptop.
 
 ** My second laptop: IBM ThinkPad T400
 
@@ -120,7 +120,7 @@ the entire machine was built to last, built to be reliable, and built to be repa
 Every component in the laptop could be screwed off and replaced.
 
 This machine was changed to my third laptop in 2015 according to company IT policy, plus
-it battery was broken.
+its battery was broken.
 
 ** My third laptop: Lenovo Thinkpad T430
 
@@ -140,7 +140,7 @@ The operating system was Windows 10, and it also had blue screen once in a while
 
 Then
 
-* I stopped buying new laptops since 2018
+* I stopped buying new laptops since 2017
 
 ** How to make an old laptop run like it’s new
 
@@ -151,10 +151,10 @@ There are two things you need to do:
 1. Use low energy software
 
 My current laptops all run on GNU/Linux, to be brief we call it GNU, with several distros,
-2 Debian, 1 Guix specially designed to work on old computers. The use of a GNU operating
-system is not a mere suggestion. There’s no way you’re going to revive an old laptop if
-you stick to Microsoft Windows or Apple OS because the machine would freeze instantly. GNU
-does not have the flashy visuals of the newest Apple and Windows interfaces, but it has a
+specially designed to work on old computers. The use of a GNU operating system is not a
+mere suggestion. There’s no way you’re going to revive an old laptop if you stick to
+Microsoft Windows or Apple OS because the machine would freeze instantly. GNU does not
+have the flashy visuals of the newest Apple and Windows interfaces, but it has a
 familiar graphical interface and looks anything but obsolete. It takes very little space
 on the hard disk and demands even less computing power. The result is that an old laptop,
 despite its limited specifications, runs smoothly.
@@ -186,13 +186,6 @@ price, to use as spare laptops. Now I plan to keep working on these machines for
 as possible, having more than sufficient spare parts available. I had a spare laptop ready
 and started using that one whenever I needed or wanted to work outside.
 
-** The magical SD-card
-
-This is the moment to introduce you to my magical SD-card, which is another hardware
-upgrade that facilitates the use of old (but also new) laptops. Many people have their
-personal documents stored on their laptop's hard drive and then make backups to external
-storage media if all goes well. I do it the other way around.
-
 I have all my data on a 256 GB SD-card, which I can plug into any of the Thinkpads that
 I own. I then make monthly backups of the SD-card, which I store on an external storage
 medium, as well as regular backups of the documents that I am working on, which I
@@ -204,21 +197,6 @@ The other advantage is that I can work on any laptop that I want and that I’m 
 on a particular machine to access my work. You can get similar advantages when you keep all
 your data in the cloud, but the SD-card is the more sustainable option, and it works without
 internet access.
-
-Hypothetically, I could have up to two hard drive failures in one day and keep working as
-if nothing happened. Since I am now using both laptops alternately – one with battery, the
-other one without – I can also leave them at different locations and cycle between these
-places while carrying only the SD-card in my wallet. Try that with your brand new, expensive
-laptop. I can also use my laptops together if I need an extra screen.
-
-A 256 GB SD-card will set you back about 100 Yuan, depending on the brand. In combination
-with a hard disk drive, the SD-card also increases the performance of an old laptop and can
-be an alternative to installing a solid-state drive. My spare laptop does not have one and
-it can be slow when browsing heavy-weight websites. However, thanks to the SD-card, opening
-a map or document happens almost instantly, as does scrolling through a document or saving
-it. The SD-card also keeps the hard disk running smoothly because it's mostly empty. I don't
-know how practical using an SD-card is for other laptops, but all my Thinkpads have a slot
-for them.
 
 * The costs
 
@@ -237,8 +215,7 @@ Even if you buy all of this, you only spent 1700 Yuan. For that price, you may b
 buy the crappiest new laptop on the market, but it surely won’t get you two spare laptops.
 If you manage to keep working with this lot for ten years, your laptop costs would be 170
 Yuan per year. You may have to replace a few solid-state drives and SD-cards, but it won’t
-make much difference. Furthermore, you save the ecological damage that is caused by the
-production of a new laptop every 5.7 years.
+make much difference.
 
 ** Don’t take it too far
 
@@ -248,34 +225,15 @@ not to buy on auction sites, you can walk to the nearest pawnshop and get a used
 with a guarantee. The chances are that you don’t even need to buy anything, as many people
 have old laptops lying around.
 
-There’s no need to go back to a 2007 machine. I hope it’s clear that I am trying to make
-a statement here, and I probably went as far back as one can while keeping things practical.
-That was one step too far. It uses a different charger type, it has no SD-card slot, and it
-could not get the wireless internet connection working. For many people, it may serve to
-choose a somewhat younger laptop. That will give you a webcam and a 64-bit architecture,
-which makes things easier. My first try was a used ThinkPad T400 from 2010, which is my
-second laptop.
-
 Your choice of laptop also depends on what you want to do with it. If you use it mainly
 for writing, surfing the web, communication, and entertainment, you can do it as cheaply as
 I did. If you do graphical or audiovisual work, it’s more complicated, because in that
 case, you’re probably an heavy user. The same strategy could be applied, on a somewhat
 younger and more expensive laptop, but it would suggest switching from other operating system
 to a GNU operating system. When it comes to office applications, GNU is clearly better than
-its commercial alternatives. For a lack of experience, I cannot tell you if that holds for
-other software as well.
+its commercial alternatives.
 
 ** This is a hack, not a new economical model
-
-Although capitalism could provide us with used laptops for decades to come, the strategy
-outlined above should be considered a hack, not an economical model. It’s a way to deal
-with or escape from an economic system that tries to force you and me to consume as much
-as possible. It’s an attempt to break that system, but it’s not a solution in itself.
-We need another economical model, in which we build all laptops like pre-2011 Thinkpads.
-As a consequence, laptop sales would go down, but that’s precisely what we need.
-Furthermore, with today's computing efficiency, we could significantly reduce the
-operational and embodied energy use of a laptop if we reversed the trend towards ever
-higher functionality.
 
 Significantly, hardware and software changes drive the fast obsolescence of computers, but
 the latter has now become the most crucial factor. A computer of 15 years old has all the
