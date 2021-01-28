@@ -45,3 +45,4 @@ None yet!
 - [自由软件可持续发展之我见](article/自由软件可持续发展之我见.html)
 - [黑客和骇客](article/hacker-cracker.html)
 - [如何为你的项目选择自由软件许可证](article/如何为你的项目选择自由软件许可证.html)
+- [用HTML构建高效率网站](article/用HTML构建高效率网站.html)
