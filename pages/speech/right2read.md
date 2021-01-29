@@ -32,7 +32,7 @@ Have you ever bought a book from a bookstore?
 Many of you have. I have, too.
 
 Recently, I bought the paper book Hong Lou Meng for my son, and I enjoy reading it, too.
-And I can lent the book to others, too, if they also like it. I can lent it to as many
+And I can lend the book to others, too, if they also like it. I can lend it to as many
 people as I like and no one can forbid this because we all have the right to read.
 
 However, if I had ever had an e-reader, and bought the e-version of Hong Lou Meng, most
