@@ -7,7 +7,7 @@ description: an article about HTML websites
 
 最近在看 [GNUnited
 Nations](https://www.gnu.org/software/trans-coord/manual/gnun/gnun.html#Introduction)
-的使用手册。它是一个让 [GNU 官网](https://www.gnu.com)的多语言网页及时上线的工具。
+的使用手册。它是一个让 [GNU 官网](https://www.gnu.org)的多语言网页及时上线的工具。
 
 GNU 官网内容非常之多，而且支持的语言也非常之多，所以维护的工作量很大。无论是原文
 的变化，还是翻译的变化，都是通过 GNUnited Nations（简称 GNUN）来完成的。GNUN 是
