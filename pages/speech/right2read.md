@@ -22,7 +22,8 @@ Am I kidding?
 
 Of course not, we all have the right to read. It is one of the foundations of a democratic
 society. Reading allows us to meet people, to debate philosophies, and to experience events
-far beyond the narrow confines of our own existence.
+far beyond the narrow confines of our own existence. Reading books also give us a lot of fun,
+and it is particular important during the time of pandemic.
 
 (ask the audience)
 Dear fellow members and distinguished guests,
@@ -31,9 +32,10 @@ Have you ever bought a book from a bookstore?
 
 Many of you have. I have, too.
 
-Recently, I bought the paper book Hong Lou Meng for my son, and I enjoy reading it, too.
-And I can lend the book to others, too, if they also like it. I can lend it to as many
-people as I like and no one can forbid this because we all have the right to read.
+Recently, I bought the paper version of Hong Lou Meng for my son. It is a classic novel,
+and I enjoy reading it, too. And I can lend the book to others, too, if they also like
+it. I can lend it to as many people as I like, and no one can forbid this because we all
+have the right to read.
 
 However, if I had ever had an e-reader, and bought the e-version of Hong Lou Meng, most
 likely, I would not be able to lend it to others - this is not allowed. If I had ever
@@ -47,8 +49,9 @@ display them.
 DRM is the computer-enforced restrictions on lending or reading books. It is a denial to
 the individual's right to read.
 
-We have to fight for protecting our right to read, and we need fight bravely because
-the battle is going against us so far. The enemy is organized, and readers are not.
+This is very sad situation. We have to fight for protecting our right to read, and we
+need fight bravely because the battle is going against us so far. The enemy is organized,
+and readers are not.
 
 In the US, the 1998 Digital Millennium Copyright Act (DMCA) gave explicit government
 backing to DRM, by making the distribution of programs that can break DRM a crime.
@@ -74,9 +77,13 @@ read and share.
 
 Dear fellow members and distinguished guests, the title is "right to read".
 
-Is it about right or left. Yes, we have to choose the right direction to fight.
-Is it about right or wrong. Yes, it is all right to share e-books.
+How would you feel if someday you can only read the books you bought for limited times?
+How would you feel if someday your children are forbidden to share books with you?
+How would you feel if someday you cannot read without having an e-reader to track you?
 
-Because we all have the right to read.
+I feel very frustrated when I am thinking about these questions, because we all have the
+right to read, but we all face the chanllenge to be deprived of it.
+
+It's time to fight.
 
 Thank you.
