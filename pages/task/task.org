@@ -1,0 +1,38 @@
+# -*- mode:org; coding: utf-8 -*-
+
+#+TITLE:     task for nEXT-Browser from IRC
+#+AUTHOR:    Wensheng Xie
+#+EMAIL:     wxie@member.fsf.org
+#+LANGUAGE:  en
+#+OPTIONS: H:2 num:nil toc:nil \n:nil @:t ::t |:t ^:{} _:{} *:t TeX:t LaTeX:t
+#+STYLE: <link rel="stylesheet" type="text/css" href="org.css" />
+#+LATEX_CLASS: myclass
+#+LATEX_CLASS_OPTIONS: [a4paper]
+#+ATTR_LATEX: width=0.38\textwidth wrap placement={r}{0.4\textwidth}
+#+ATTR_LATEX: :float multicolumn
+#+REVEAL_TRANS: None
+#+REVEAL_THEME: Black
+#+TAGS: @work(w) @home(h) @road(r) laptop(l) pc(p) { @read : @read_book @read_ebook }
+#+ATTR_ORG: :width 30 
+#+ATTR_HTML: width="100px"
+#+EXPORT_SELECT_TAGS: export
+#+EXPORT_EXCLUDE_TAGS: noexport
+#+STARTUP: fold
+
+* tasks for nEXT-Browser from jmercouris in IRC#nEXT-Browser
+** [2020]
+*** [2020-02]
+**** [2020-02-12 三]
+下午10:19:28 - jmercouris: we have a jump-to-heading command defined in jump-heading.lisp line 42
+下午10:19:44 - jmercouris: try to make it jump to *ALL* headings in a group of selected buffers
+下午10:20:19 - jmercouris: you can see an example of how multiple buffers are searched in search-buffer.lisp line 155, search-buffers
+下午10:20:58 - jmercouris: you can try the command on your own Next install by doing M-x search-buffers (assuming you've compiled latest)
+下午10:21:05 - jmercouris: and you can see how the command works then
+下午10:21:56 - jmercouris: so once again; summary; instead of jump-to-heading only working on 1 buffer, it should be able to work on a selected group of buffers
+steps to do [0/6]
+ - [ ] clone code from [[https://github.com/atlas-engineer/next][nEXT-Browser]]
+ - [ ] install nEXT-Browser
+ - [ ] try the jump-to-heading function
+ - [ ] study the jump-to-heading function
+ - [ ] ask questions
+ - [ ] modification of the code

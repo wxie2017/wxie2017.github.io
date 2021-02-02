@@ -1,0 +1,92 @@
+% Created 2020-12-08 二 13:19
+% Intended LaTeX compiler: pdflatex
+\documentclass[a4paper]{report}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage{grffile}
+\usepackage{longtable}
+\usepackage{wrapfig}
+\usepackage{rotating}
+\usepackage[normalem]{ulem}
+\usepackage{amsmath}
+\usepackage{textcomp}
+\usepackage{amssymb}
+\usepackage{capt-of}
+\usepackage{hyperref}
+\author{Wensheng Xie}
+\date{\today}
+\title{task for libreCMC}
+\hypersetup{
+ pdfauthor={Wensheng Xie},
+ pdftitle={task for libreCMC},
+ pdfkeywords={},
+ pdfsubject={},
+ pdfcreator={Emacs 26.1 (Org mode 9.1.9)},
+ pdflang={English}}
+\begin{document}
+
+\maketitle
+
+\part*{tasks for libreCMC}
+\label{sec:orgd6601a3}
+\chapter*{[2020]}
+\label{sec:org0a835e1}
+\begin{itemize}
+\item\relax [2020-12]
+\label{sec:org82a23e9}
+\begin{itemize}
+\item \textit{[2020-12-08 二]}
+\label{sec:orgdf8288d}
+\begin{itemize}
+\item build libreCMC
+\label{sec:org45ca44c}
+\begin{itemize}
+\item {\bfseries\sffamily TODO} Get the latest libreCMC source code
+\label{sec:orgf0644a4}
+\begin{verbatim}
+git clone https://git.librecmc.org/git/librecmc/librecmc.git
+cd librecmc
+./scripts/feeds update && ./scripts/feeds install -a
+\end{verbatim}
+\item {\bfseries\sffamily TODO} Configure libreCMC for your device
+\label{sec:org884f6d6}
+Generally, a good default configuration includes: [0/3]
+\begin{itemize}
+\item[{$\square$}] luci : Collections -> luci + luci -> protocols -> luci-proto-relayd
+\item[{$\square$}] Networking : wpa-cli + wpa-supplicant + iw
+\item[{$\square$}] Utilities : Editors -> Nano
+\end{itemize}
+\begin{verbatim}
+cd librecmc
+make menuconfig
+\end{verbatim}
+\item {\bfseries\sffamily TODO} pre-fetch all source code for all dependencies
+\label{sec:org4ab13ec}
+\begin{verbatim}
+make download
+\end{verbatim}
+\item {\bfseries\sffamily TODO} build process
+\label{sec:org412b4e4}
+\begin{verbatim}
+make
+# or
+make -j <your number of CPU cores + 1>
+\end{verbatim}
+\item {\bfseries\sffamily TODO} built image available in
+\label{sec:orgc24fb46}
+\$SRC\_ROOT/bin/\$BUILD\_TARGET/librecmc-\$BUILD\_TARGET-generic-\$TARGET\_PROFILE-\$VERSION-\$FS\_TYPE-factory.bin
+e.g.:
+\$BUILD\_TARGET = target (ex. ar71xx), \$TARGET\_PROFILE = device, \$VERSION = device version (some haven't any)
+\item {\bfseries\sffamily TODO} flash the image to your device [0/3]
+\label{sec:org64c0e71}
+\begin{itemize}
+\item[{$\square$}] can easily be flashed from the stock firmware's web-ui
+\item[{$\square$}] require a tFTP flash
+\item[{$\square$}] require opening up the router/external hardware for initial install (serial cable, SPI flasher or both)
+\end{itemize}
+\end{itemize}
+\end{itemize}
+\end{itemize}
+\end{itemize}
+\end{document}
