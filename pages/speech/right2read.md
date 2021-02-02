@@ -22,7 +22,7 @@ Am I kidding?
 
 Of course not, we all have the right to read. It is one of the foundations of a democratic
 society. Reading allows us to meet people, to debate philosophies, and to experience events
-far beyond the narrow confines of our own existence. Reading books also give us a lot of fun,
+far beyond the narrow confines of our own existence. Reading books also gives us a lot of fun,
 and it is particular important during the time of pandemic.
 
 (ask the audience)
@@ -77,13 +77,15 @@ read and share.
 
 Dear fellow members and distinguished guests, the title is "right to read".
 
-How would you feel if someday you can only read the books you bought for limited times?
+How would you feel if someday you can only read the books you bought for just one time?
+
 How would you feel if someday your children are forbidden to share books with you?
+
 How would you feel if someday you cannot read without having an e-reader to track you?
 
 I feel very frustrated when I am thinking about these questions, because we all have the
-right to read, but we all face the chanllenge to be deprived of it.
+right to read, but we all face the danger to be deprived of it.
 
-It's time to fight.
+It's time to fight for right to read.
 
 Thank you.
