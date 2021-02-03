@@ -17,7 +17,7 @@ description: wxie's tasks
 
 #### 2020
 
-- [task-for-bash](task/task-for-bash.org)
+- [task-for-bash](task/task-for-bash.html)
 - [task-for-git](task/task-for-git.html)
 - [task-for-libreCMC](task/task-for-libreCMC.html)
 - [task-for-redmine](task/task-for-redmine.html)
