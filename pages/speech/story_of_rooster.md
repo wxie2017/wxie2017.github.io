@@ -13,6 +13,8 @@ Good morning.
 Experiences from our childhood often remain vivid in our brain, some even
 teaches us how to live our lives. Today, I tell you the story of a rooster.
 
+I was younger. Trust me. I was much younger.
+
 Many many years ago, when I was a little kid, my family lived in a large
 flat building together with 6 other families. We shared a huge front yard.
 
@@ -33,9 +35,9 @@ We all could not help having some.
 Several families bought a few chickens. My parents bought a dozen. We brothers
 promised to raise them carefully.
 
-We fed our chickens every day and they grew fast. Sadly, some died along the
-way. We have 7 left: 3 roosters and 4 hens. Other neighbours had the similar.
-All the roosters and hens lived in the yard.
+We fed our chickens every day and they grew fast just as me. Sadly, some died
+along the way. We have 7 left: 3 roosters and 4 hens. Other neighbours had the
+similar. All the roosters and hens lived in the yard.
 
 The roosters crowed every morning and the hens laid eggs every day. Our 3 roosters
 sometimes fought each other, and one of them became the winner. His name is
@@ -68,8 +70,8 @@ One day, I came home from school. I did not see the usual welcome from little fl
 but only the hens. Where was he？ I was wondering.
 
 I checked the hen-house. There he was! Little flower sat deeply inside the hen-house.
-I called him out. Oh ho! What had happened? Little flower lost one of his eyes with
-blood.
+I called him out. Oh ho! What had happened? Little flower's face was full of blood
+and lost one of his eyes.
 
 It was not hard to imagine.
 
@@ -84,7 +86,9 @@ Little flower still cared the hens for days.
 That weekend, my family had a chicken meal. I didn't eat.
 
 I showed my respect to a wonderful creature who had lived his life with love and honor,
-glory and failure, which is the very way that we all should live our lives.
+glory and failure, which gives me much fun whether young or old.
+
+This is the very way that we all should live our lives.
 
 Farewell, little flower. Farewell, the great rooster.
 
