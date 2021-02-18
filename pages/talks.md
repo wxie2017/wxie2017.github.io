@@ -44,3 +44,4 @@ description: wxie's speeches
 - [Bold: acceptance of club President](speech/acceptance_of_club_President.html)
 - [Why and How I stopped buying new laptops](speech/keynote-why-how-stop-buying-new-laptop.html)
 - [Right to Read](speech/right2read.html)
+- [All I know about Bitcoin](speech/I_all_know_about_bitcoin.html)
