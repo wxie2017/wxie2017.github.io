@@ -12,327 +12,432 @@ Good morning.
 
 Please look at the figure carefully. What does it reminder you?
 
-This is the value of Bitcoin since its birth in 2008.
+This is the value of Bitcoin since its birth in 2008. It is a curve of
+exponent.
+
+```
+1 Bitcoin = 500,000 CNY
+```
 
 Bitcoin did not come from nothing. In fact, there were a few predecessors
 who had tried and failed for two decades prior. Then, in 2008, came Bitcoin.
 In August of that year, Bitcoin.org was registered. Two months later, a
-whitepaper was published: "Bitcoin: A Peer-to-Peer Electronic Cash System."
-The whitepaper's idea had similar ambitions to the previously mentioned
+white paper was published: "Bitcoin: A Peer-to-Peer Electronic Cash System."
+The white paper's idea had similar ambitions to the previously mentioned
 papers: secure digital signatures, not requiring the use of a third party,
 proof-of-work, and hashing the transactions together to form a chain.
 
 Satoshi Nakamoto, an unknown person or group of people, wrote the Bitcoin
 paper.
 
-Just a few days into 2009, the first-ever block of Bitcoins, known as the Genesis Block, was mined. By Jan. 9, the first iteration of Bitcoin software was released, and on Jan. 12, the first-ever bitcoin transaction occurred as Nakamoto sent 10 Bitcoins ( (BTC) ) to noted computer programmer and developer Hal Finney.
+Bitcoin Block structure Field | 	Description | 	Size
+:-----------------------|:-----------------:|--------:
+Magic no 	|value always 0xD9B4BEF9 |	4 bytes
+Blocksize 	|number of bytes following up to end of block| 	4 bytes
+Blockheader 	|consists of 6 items 	|80 bytes
+Transaction counter| 	positive integer VI = VarInt| 	1 - 9 bytes
+transactions 	|the (non empty) list of transactions |	<Transaction counter>-many transactions
 
-Toward the end of the year, in October, the New Liberty Standard publishes the first Bitcoin exchange rate in the young cryptocurrency's history, deeming $1 to be worth 1,309.03 BTC. Nakamoto released the second version of the software in December.
+Blockheader Field| 	Purpose| 	Updated when...| 	Size (Bytes)|
+:----------------|:-----------:|:---------------------:|--------------------:
+Version 	|Block version number| 	You upgrade the software and it specifies a new version| 	4
+hashPrevBlock 	|256-bit hash of the previous block header 	|A new block comes in| 	32
+hashMerkleRoot 	|256-bit hash based on all of the transactions in the block| 	A transaction is accepted| 	32
+Time 	|Current block timestamp as seconds since 1970-01-01T00:00 UTC 	|Every few seconds 	|4
+Bits 	|Current target in compact format| 	The difficulty is adjusted| 	4
+Nonce 	|32-bit number (starts at 0) 	|A hash is tried (increments) 	|4
 
-With an exchange rate established, it was only a matter of time until someone attempted to make an actual purchase with Bitcoins. In May of 2010, it happened. Florida-based programmer Laszlo Hanyecz sent 10,000 BTC to a London man in exchange for two pizzas, valued at a total of $25. This still valued a single Bitcoin as a fraction of a penny, but with a purchase made, intrigued parties saw potential in the product. A couple of months later, Bitcoin's value finally broke the penny threshold
+Just a few days into 2009, the first-ever block of Bitcoins, known as the
+Genesis Block, was mined. By Jan. 9, the first iteration of Bitcoin software
+was released, and on Jan. 12, the first-ever bitcoin transaction occurred as
+Nakamoto sent 10 Bitcoins ( (BTC) ) to noted computer programmer and developer
+Hal Finney.
 
-A pivotal year for the exchange of Bitcoin, fittingly the first Bitcoin exchanges popped up in 2010 as well - Bitcoin Market in February, and Mt. Gox in July. Slush, the first mining pool, also mined Bitcoin successfully for the first time that year. Mining pools are where several miners combine resources to get Bitcoin. By November, the market cap for Bitcoin surpassed $1 million for the first time.
+Toward the end of the year, in October, the New Liberty Standard publishes
+the first Bitcoin exchange rate in the young cryptocurrency's history, deeming
+$1 to be worth 1,309.03 BTC. Nakamoto released the second version of the
+software in December.
 
-Not that it was all ups for Bitcoin. Someone spotted a vulnerability in Bitcoin's protocol in October that allowed for transactions without proper verification and exploited it, generating 184 billion BTC. The transaction was soon erased and the vulnerability fixed.
-2011
+With an exchange rate established, it was only a matter of time until someone
+attempted to make an actual purchase with Bitcoins. In May of 2010, it happened.
+Florida-based programmer Laszlo Hanyecz sent 10,000 BTC to a London man in
+exchange for two pizzas, valued at a total of $25. This still valued a single
+Bitcoin as a fraction of a penny, but with a purchase made, intrigued parties
+saw potential in the product. A couple of months later, Bitcoin's value finally
+broke the penny threshold
 
-Steadily making gains in value after finally passing 1 cent threshold, in February 2011 a major milestone occurred: 1 Bitcoin was worth $1 for the first time.
+A pivotal year for the exchange of Bitcoin, fittingly the first Bitcoin
+exchanges popped up in 2010 as well - Bitcoin Market in February, and Mt. Gox
+in July. Slush, the first mining pool, also mined Bitcoin successfully for the
+first time that year. Mining pools are where several miners combine resources
+to get Bitcoin. By November, the market cap for Bitcoin surpassed $1 million
+for the first time.
 
-Bitcoin began receiving press - both good and bad. TIME Magazine published an article on Bitcoin for the first time, but the same year there was also an article on Gawker detailing Silk Road, the dark web drug market where Bitcoin was frequently used as payment. The publicity got people talking, and by June, Bitcoin was worth over $30. Soon after, it crashed back down to about $10.
+Not that it was all ups for Bitcoin. Someone spotted a vulnerability in
+Bitcoin's protocol in October that allowed for transactions without proper
+verification and exploited it, generating 184 billion BTC. The transaction
+was soon erased and the vulnerability fixed.
 
-Also in June, Mt. Gox dealt with a serious security breach that compromised tens of thousands of accounts and their Bitcoins. It would not be the first security issue Mt. Gox would deal with.
+Steadily making gains in value after finally passing 1 cent threshold, in
+February 2011 a major milestone occurred: 1 Bitcoin was worth $1 for the
+first time.
 
-Click here to learn more about Mt. Gox's history of hacks.
+Bitcoin began receiving press - both good and bad. TIME Magazine published an
+article on Bitcoin for the first time, but the same year there was also an
+article on Gawker detailing Silk Road, the dark web drug market where Bitcoin
+was frequently used as payment. The publicity got people talking, and by June,
+Bitcoin was worth over $30. Soon after, it crashed back down to about $10.
 
-Still, Bitcoin was becoming an entity that more and more of the public knew about and interest in the cryptocurrency grew. This led to a rise in altcoins, other forms of cryptocurrency whose developers were either trying to improve upon Bitcoin or had created the digital coin for a different purpose. In 2011, Litecoin -- now the seventh-largest cryptocurrency by market cap -- debuted.
+Also in June, Mt. Gox dealt with a serious security breach that compromised
+tens of thousands of accounts and their Bitcoins. It would not be the first
+security issue Mt. Gox would deal with.
 
-Click here for an overview of altcoins.
-2012
+Still, Bitcoin was becoming an entity that more and more of the public knew
+about and interest in the cryptocurrency grew. This led to a rise in altcoins,
+other forms of cryptocurrency whose developers were either trying to improve
+upon Bitcoin or had created the digital coin for a different purpose. In 2011,
+Litecoin -- now the seventh-largest cryptocurrency by market cap -- debuted.
 
-If 2011 was a choppy year for Bitcoin, 2012 was smoother sailing. Among notable moments for Bitcoin on its way to becoming the world's top digital coin was its crossing the $100 threshold in April.
-2013
+If 2011 was a choppy year for Bitcoin, 2012 was smoother sailing. Among notable
+moments for Bitcoin on its way to becoming the world's top digital coin was
+its crossing the $100 threshold in April.
 
-Bitcoin's price saw its share of ups and downs in 2013, but it passed a value of $1,000 for the first time and was becoming the most recognizable and successful wallet and exchange available.
-2014-16
+Bitcoin's price saw its share of ups and downs in 2013, but it passed a value
+of $1,000 for the first time and was becoming the most recognizable and
+successful wallet and exchange available.
 
-And then... it stalled for a while. Quickly in January 2014 it fell below $1,000 and struggled below the key level for a few years. A few things of note happened, like Crypto exchange Mt. Gox going bankrupt and shutting down, but this period mostly saw Bitcoin rising and falling somewhat while failing to reach its high.
-2017
+And then... it stalled for a while. Quickly in January 2014 it fell below
+$1,000 and struggled below the key level for a few years. A few things of
+note happened, like Crypto exchange Mt. Gox going bankrupt and shutting down,
+but this period mostly saw Bitcoin rising and falling somewhat while failing
+to reach its high.
 
-2017, though, was the biggest and busiest year for Bitcoin. After spending 2016 desperately trying to claw its way back up, 2017 was when it finally reached and passed the $1,000 mark. It kept ascending. By June, Bitcoin was worth over $3,000.
+2017, though, was the biggest and busiest year for Bitcoin. After spending
+2016 desperately trying to claw its way back up, 2017 was when it finally
+reached and passed the $1,000 mark. It kept ascending. By June, Bitcoin was
+worth over $3,000.
 
-Still, some Bitcoin users were frustrated with the network around this time as well. The rising number of Bitcoin miners meant higher fees and more time spent processing transactions, leading some to want an increase in block size. In August, this led to Bitcoin Cash (BCH) being created via a fork in the network. Bitcoin Cash is now the fifth-largest cryptocurrency by market cap.
+Still, some Bitcoin users were frustrated with the network around this time as
+well. The rising number of Bitcoin miners meant higher fees and more time spent
+processing transactions, leading some to want an increase in block size. In
+August, this led to Bitcoin Cash (BCH) being created via a fork in the network.
+Bitcoin Cash is now the fifth-largest cryptocurrency by market cap.
 
-Click here to learn more about blockchain forks.
+Still, for the remainder of 2017 Bitcoin was on an upswing. By October, it was
+topping $6,000. It ended November at nearly $10,000, and by the end of December
+Bitcoin hit a peak of $19,783. More and more people and companies began chasing
+the trend as the price just kept rising. Unsurprisingly, it wouldn't continue
+that heady growth.
 
-Still, for the remainder of 2017 Bitcoin was on an upswing. By October, it was topping $6,000. It ended November at nearly $10,000, and by the end of December Bitcoin hit a peak of $19,783. More and more people and companies began chasing the trend as the price just kept rising. Unsurprisingly, it wouldn't continue that heady growth.
-2018
+2018 has been a rough year for Bitcoin users, especially ones who held on
+assuming the price would keep ascending. Many sold their Bitcoins while they
+could, and the price has steadily dropped all year. As of this writing,
+Bitcoin's price is at $6,542.78, a decline of 67%.
 
-2018 has been a rough year for Bitcoin users, especially ones who held on assuming the price would keep ascending. Many sold their Bitcoins while they could, and the price has steadily dropped all year. As of this writing, Bitcoin's price is at $6,542.78, a decline of 67%.
-Further Information
-
-Need more information on some of the concepts mentioned in the timeline? Here is what you need to know.
 What is Proof of Work?
 
-Proof-of-work is the system Bitcoin's blockchain network uses to create and hash blocks together. When the computer in a network must use proof-of-work for mining, it needs to solve a complicated mathematical problem. If a computer (called a "node" in the network) successfully solves the problem, it must then be verified by the other nodes in the network. If it does, the transaction is verified and completed, and the miner whose node solved it is rewarded with Bitcoins.
+Proof-of-work is the system Bitcoin's blockchain network uses to create and
+hash blocks together. When the computer in a network must use proof-of-work
+for mining, it needs to solve a complicated mathematical problem. If a
+computer (called a "node" in the network) successfully solves the problem, it
+must then be verified by the other nodes in the network. If it does, the
+transaction is verified and completed, and the miner whose node solved it is
+rewarded with Bitcoins.
 
-Proof-of-work is an incredibly controversial method. It's a secure method of verifying transactions, but requires a lot of energy. As more and more people began mining bitcoins, more high-powered mining hardware and graphics processing units (GPU) were created for people to gain an advantage. This consumes large amounts of energy, and with so many Bitcoin and other cryptocurrency miners out there, many are worried about the environmental ramifications. Some cryptocurrencies are testing a proof-of-stake method, which consumes significantly less power.
+Proof-of-work is an incredibly controversial method. It's a secure method of
+verifying transactions, but requires a lot of energy. As more and more people
+began mining bitcoins, more high-powered mining hardware and graphics
+processing units (GPU) were created for people to gain an advantage. This
+consumes large amounts of energy, and with so many Bitcoin and other
+cryptocurrency miners out there, many are worried about the environmental
+ramifications. Some cryptocurrencies are testing a proof-of-stake method,
+which consumes significantly less power.
+
 Who is Satoshi Nakamoto?
 
-Satoshi Nakamoto is merely a pseudonym. The person behind it, however, remains a mystery.
+Satoshi Nakamoto is merely a pseudonym. The person behind it, however, remains
+a mystery.
 
-It remains such a mystery that some think it's more than one person, doubting that one single person could create something as comprehensive as the Bitcoin network. Still, others have floated the possibility of it being one person, and there are plenty of theories as to who that one single person could be. None have been verified.
+It remains such a mystery that some think it's more than one person, doubting
+that one single person could create something as comprehensive as the Bitcoin
+network. Still, others have floated the possibility of it being one person,
+and there are plenty of theories as to who that one single person could be.
+None have been verified.
 
-Who are the people that some people think could be Satoshi? Some of them have already been mentioned in this article, such as Bit Gold founder Nick Szabo, whose ideas were remarkably similar to that of Bitcoin. Others think it may have been Hal Finney, a notable developer and the person Nakamoto sent Bitcoins to in the first ever Bitcoin transaction all the way back in 2009.
+Who are the people that some people think could be Satoshi? Some of them have
+already been mentioned in this article, such as Bit Gold founder Nick Szabo,
+whose ideas were remarkably similar to that of Bitcoin. Others think it may
+have been Hal Finney, a notable developer and the person Nakamoto sent
+Bitcoins to in the first ever Bitcoin transaction all the way back in 2009.
 
-One person is speculated as Satoshi because he tried literally saying he was. That person was Craig Wright, an Australian businessman who not only publicly claimed to be Satoshi Nakamoto but promised he would provide proof of it. So far, he has not provided this proof.
+One person is speculated as Satoshi because he tried literally saying he was.
+That person was Craig Wright, an Australian businessman who not only publicly
+claimed to be Satoshi Nakamoto but promised he would provide proof of it. So
+far, he has not provided this proof.
+
 Mt. Gox Hacks
 
-At one point in Bitcoin's history, it could be argued that Mt. Gox, a Tokyo-based Bitcoin exchange, was the largest exchange. But by 2014, it was gone.
+At one point in Bitcoin's history, it could be argued that Mt. Gox, a
+Tokyo-based Bitcoin exchange, was the largest exchange. But by 2014, it was
+gone.
 
-Mt. Gox was plagued with security issues that would become its downfall. The 2011 hack came just a few months after Mark Karpelès, a French businessman, purchased the exchange. The hacker, upon access, artificially altered the nominal value of Bitcoin all the way down to one cent and then transferred 2,000 BTC from Mt. Gox customer accounts onto the exchange. These Bitcoins were sold, and in the brief moment that Bitcoin appeared to be worth a single penny, 650 were purchased.
+Mt. Gox was plagued with security issues that would become its downfall. The
+2011 hack came just a few months after Mark Karpelès, a French businessman,
+purchased the exchange. The hacker, upon access, artificially altered the
+nominal value of Bitcoin all the way down to one cent and then transferred
+2,000 BTC from Mt. Gox customer accounts onto the exchange. These Bitcoins
+were sold, and in the brief moment that Bitcoin appeared to be worth a single
+penny, 650 were purchased.
 
-This was a brief but severe setback for Mt. Gox, but the exchange put in new security measures and stabilized, growing to the biggest exchange by 2013. These security measures, though, weren't as effective as they had hoped. In early February of 2014, Mt. Gox stopped Bitcoin withdrawals. A few weeks later, all trading was stopped.
+This was a brief but severe setback for Mt. Gox, but the exchange put in new
+security measures and stabilized, growing to the biggest exchange by 2013.
+These security measures, though, weren't as effective as they had hoped. In
+early February of 2014, Mt. Gox stopped Bitcoin withdrawals. A few weeks
+later, all trading was stopped.
 
-As it turned out, Mt. Gox was being hacked for years. Overall, hackers had taken 100,000 Bitcoins from the exchange - and over 744,000 from Mt. Gox customers. The company was insolvent, and the exchange filed for bankruptcy protection.
-Altcoins
+As it turned out, Mt. Gox was being hacked for years. Overall, hackers had
+taken 100,000 Bitcoins from the exchange - and over 744,000 from Mt. Gox
+customers. The company was insolvent, and the exchange filed for bankruptcy
+protection.
 
-It's possible you only heard about Bitcoin in the last couple of years, but cryptocurrency developed a passionate following even when it was smaller. Some of those passionate people also took umbrage with some elements of Bitcoin, and others thought the blockchain behind it could be used for other purposes.
+It's possible you only heard about Bitcoin in the last couple of years, but
+cryptocurrency developed a passionate following even when it was smaller.
+Some of those passionate people also took umbrage with some elements of
+Bitcoin, and others thought the blockchain behind it could be used for other
+purposes.
 
-This birthed, at this point, hundreds of new cryptocurrencies that still exist today. 2011 saw the birth of Litecoin, a cryptocurrency similar to Bitcoin that advertises itself as having a significantly faster transaction speed than Bitcoin. This would also be a major selling point of Ripple and its XRP cryptocurrency, though Ripple seeks to help banks and financial institutions.
+This birthed, at this point, hundreds of new cryptocurrencies that still exist
+today. 2011 saw the birth of Litecoin, a cryptocurrency similar to Bitcoin
+that advertises itself as having a significantly faster transaction speed than
+Bitcoin. This would also be a major selling point of Ripple and its XRP
+cryptocurrency, though Ripple seeks to help banks and financial institutions.
 
-Bitcoin is still the cryptocurrency with the largest market cap by a large margin. Previously mentioned other altcoins (Litecoin, XRP, Bitcoin Cash) are also in the top 10. In second is Ethereum and its cryptocurrency of Ether. Ethereum stands out from others because its blockchain is used to hold data like smart contracts.
+Bitcoin is still the cryptocurrency with the largest market cap by a large
+margin. Previously mentioned other altcoins (Litecoin, XRP, Bitcoin Cash)
+are also in the top 10. In second is Ethereum and its cryptocurrency of Ether.
+Ethereum stands out from others because its blockchain is used to hold data
+like smart contracts.
+
 Bitcoin Forks
 
-A hard fork in Bitcoin's blockchain network creates a major change to the network's protocol, such as Bitcoin Cash being created to increase the size of the blocks on the network. Only nodes with the upgraded network are able to validate transactions.
-
-Changes made in the protocol can be for reasons like Bitcoin Cash, where many thought an idea was practical, or could be used for a necessary purpose like undoing transactions performed by a hacker.
-
-Coronavirus Market Update: Sign up for TheStreet's Coronavirus Market Update newsletter and get the latest market headlines delivered to your inbox daily.
-
-Tags
-    BitcoinCurrenciesInvesting
-
-Steve Fiorillo
-By
-Steve Fiorillo
-
-Wall Street Covid Lead
-JIM CRAMER
-Almost Too Good: Cramer's 'Mad Money' Recap (Monday 2/8/21)
-
-    By Scott Rutt
-
-Second Take: Jim Cramer on Take-Two's Earnings
-INVESTING
-Take-Two Drops Despite Strong Holiday Quarter
-
-    By Tony Owusu
-
-Glu Mobile Rises on Wedbush Upgrade to Outperform
-MERGERS AND ACQUISITIONS
-Electronic Arts Buying Glu Mobile To Boost Mobile Game Business
-
-    By Tom Bemis
-
-Clean Energy Fuels Lead
-INVESTING
-5 Top Stock Gainers Monday: Westport Fuel, Clean Energy Fuels
-
-    By Rob Lenihan
-
-Stock Market Lead
-MARKETS
-Stocks Finish at Record Highs on Stimulus Bets
-
-    By Joseph Woelfel
-
-General Motors
-EARNINGS
-Top Earnings To Watch This Week: Take-Two, GM, Disney
-
-    By Tom Bemis
-
-Tesla Bitcoin Lead
-INVESTING
-Here’s How Bitcoin Can Get to $50,000 After Tesla Purchase
-
-    By Bret Kenwell
-
-Nvidia Lead
-INVESTING
-Nvidia, Semiconductor Stocks Climb on Dialog Deal, Chip Shortage
-
-    By Rob Lenihan
-
-TheStreet
-
-    Terms Of Use
-    Privacy Policy
-    Advertise
-    Reprints
-    Customer Service
-    Data
-    Topic Archive
-    Subscriptions
-
-© 2021 TheStreet, Inc. All rights reserved. Action Alerts PLUS is a registered trademark of TheStreet, Inc.
-With an exchange rate established, it was only a matter of time until someone attempted to make an actual purchase with Bitcoins. In May of 2010, it happened. Florida-based programmer Laszlo Hanyecz sent 10,000 BTC to a London man in exchange for two pizzas, valued at a total of $25. This still valued a single Bitcoin as a fraction of a penny, but with a purchase made, intrigued parties saw potential in the product. A couple of months later, Bitcoin's value finally broke the penny threshold
-
-A pivotal year for the exchange of Bitcoin, fittingly the first Bitcoin exchanges popped up in 2010 as well - Bitcoin Market in February, and Mt. Gox in July. Slush, the first mining pool, also mined Bitcoin successfully for the first time that year. Mining pools are where several miners combine resources to get Bitcoin. By November, the market cap for Bitcoin surpassed $1 million for the first time.
-
-Not that it was all ups for Bitcoin. Someone spotted a vulnerability in Bitcoin's protocol in October that allowed for transactions without proper verification and exploited it, generating 184 billion BTC. The transaction was soon erased and the vulnerability fixed.
-2011
-
-Steadily making gains in value after finally passing 1 cent threshold, in February 2011 a major milestone occurred: 1 Bitcoin was worth $1 for the first time.
-
-Bitcoin began receiving press - both good and bad. TIME Magazine published an article on Bitcoin for the first time, but the same year there was also an article on Gawker detailing Silk Road, the dark web drug market where Bitcoin was frequently used as payment. The publicity got people talking, and by June, Bitcoin was worth over $30. Soon after, it crashed back down to about $10.
-
-Also in June, Mt. Gox dealt with a serious security breach that compromised tens of thousands of accounts and their Bitcoins. It would not be the first security issue Mt. Gox would deal with.
-
-Click here to learn more about Mt. Gox's history of hacks.
-
-Still, Bitcoin was becoming an entity that more and more of the public knew about and interest in the cryptocurrency grew. This led to a rise in altcoins, other forms of cryptocurrency whose developers were either trying to improve upon Bitcoin or had created the digital coin for a different purpose. In 2011, Litecoin -- now the seventh-largest cryptocurrency by market cap -- debuted.
-
-Click here for an overview of altcoins.
-2012
-
-If 2011 was a choppy year for Bitcoin, 2012 was smoother sailing. Among notable moments for Bitcoin on its way to becoming the world's top digital coin was its crossing the $100 threshold in April.
-2013
-
-Bitcoin's price saw its share of ups and downs in 2013, but it passed a value of $1,000 for the first time and was becoming the most recognizable and successful wallet and exchange available.
-2014-16
-
-And then... it stalled for a while. Quickly in January 2014 it fell below $1,000 and struggled below the key level for a few years. A few things of note happened, like Crypto exchange Mt. Gox going bankrupt and shutting down, but this period mostly saw Bitcoin rising and falling somewhat while failing to reach its high.
-2017
-
-2017, though, was the biggest and busiest year for Bitcoin. After spending 2016 desperately trying to claw its way back up, 2017 was when it finally reached and passed the $1,000 mark. It kept ascending. By June, Bitcoin was worth over $3,000.
-
-Still, some Bitcoin users were frustrated with the network around this time as well. The rising number of Bitcoin miners meant higher fees and more time spent processing transactions, leading some to want an increase in block size. In August, this led to Bitcoin Cash (BCH) being created via a fork in the network. Bitcoin Cash is now the fifth-largest cryptocurrency by market cap.
-
-Click here to learn more about blockchain forks.
-
-Still, for the remainder of 2017 Bitcoin was on an upswing. By October, it was topping $6,000. It ended November at nearly $10,000, and by the end of December Bitcoin hit a peak of $19,783. More and more people and companies began chasing the trend as the price just kept rising. Unsurprisingly, it wouldn't continue that heady growth.
-2018
-
-2018 has been a rough year for Bitcoin users, especially ones who held on assuming the price would keep ascending. Many sold their Bitcoins while they could, and the price has steadily dropped all year. As of this writing, Bitcoin's price is at $6,542.78, a decline of 67%.
-Further Information
-
-Need more information on some of the concepts mentioned in the timeline? Here is what you need to know.
-What is Proof of Work?
-
-Proof-of-work is the system Bitcoin's blockchain network uses to create and hash blocks together. When the computer in a network must use proof-of-work for mining, it needs to solve a complicated mathematical problem. If a computer (called a "node" in the network) successfully solves the problem, it must then be verified by the other nodes in the network. If it does, the transaction is verified and completed, and the miner whose node solved it is rewarded with Bitcoins.
-
-Proof-of-work is an incredibly controversial method. It's a secure method of verifying transactions, but requires a lot of energy. As more and more people began mining bitcoins, more high-powered mining hardware and graphics processing units (GPU) were created for people to gain an advantage. This consumes large amounts of energy, and with so many Bitcoin and other cryptocurrency miners out there, many are worried about the environmental ramifications. Some cryptocurrencies are testing a proof-of-stake method, which consumes significantly less power.
-Who is Satoshi Nakamoto?
-
-Satoshi Nakamoto is merely a pseudonym. The person behind it, however, remains a mystery.
-
-It remains such a mystery that some think it's more than one person, doubting that one single person could create something as comprehensive as the Bitcoin network. Still, others have floated the possibility of it being one person, and there are plenty of theories as to who that one single person could be. None have been verified.
-
-Who are the people that some people think could be Satoshi? Some of them have already been mentioned in this article, such as Bit Gold founder Nick Szabo, whose ideas were remarkably similar to that of Bitcoin. Others think it may have been Hal Finney, a notable developer and the person Nakamoto sent Bitcoins to in the first ever Bitcoin transaction all the way back in 2009.
-
-One person is speculated as Satoshi because he tried literally saying he was. That person was Craig Wright, an Australian businessman who not only publicly claimed to be Satoshi Nakamoto but promised he would provide proof of it. So far, he has not provided this proof.
-Mt. Gox Hacks
-
-At one point in Bitcoin's history, it could be argued that Mt. Gox, a Tokyo-based Bitcoin exchange, was the largest exchange. But by 2014, it was gone.
-
-Mt. Gox was plagued with security issues that would become its downfall. The 2011 hack came just a few months after Mark Karpelès, a French businessman, purchased the exchange. The hacker, upon access, artificially altered the nominal value of Bitcoin all the way down to one cent and then transferred 2,000 BTC from Mt. Gox customer accounts onto the exchange. These Bitcoins were sold, and in the brief moment that Bitcoin appeared to be worth a single penny, 650 were purchased.
-
-This was a brief but severe setback for Mt. Gox, but the exchange put in new security measures and stabilized, growing to the biggest exchange by 2013. These security measures, though, weren't as effective as they had hoped. In early February of 2014, Mt. Gox stopped Bitcoin withdrawals. A few weeks later, all trading was stopped.
-
-As it turned out, Mt. Gox was being hacked for years. Overall, hackers had taken 100,000 Bitcoins from the exchange - and over 744,000 from Mt. Gox customers. The company was insolvent, and the exchange filed for bankruptcy protection.
-Altcoins
-
-It's possible you only heard about Bitcoin in the last couple of years, but cryptocurrency developed a passionate following even when it was smaller. Some of those passionate people also took umbrage with some elements of Bitcoin, and others thought the blockchain behind it could be used for other purposes.
-
-This birthed, at this point, hundreds of new cryptocurrencies that still exist today. 2011 saw the birth of Litecoin, a cryptocurrency similar to Bitcoin that advertises itself as having a significantly faster transaction speed than Bitcoin. This would also be a major selling point of Ripple and its XRP cryptocurrency, though Ripple seeks to help banks and financial institutions.
-
-Bitcoin is still the cryptocurrency with the largest market cap by a large margin. Previously mentioned other altcoins (Litecoin, XRP, Bitcoin Cash) are also in the top 10. In second is Ethereum and its cryptocurrency of Ether. Ethereum stands out from others because its blockchain is used to hold data like smart contracts.
-Bitcoin Forks
-
-A hard fork in Bitcoin's blockchain network creates a major change to the network's protocol, such as Bitcoin Cash being created to increase the size of the blocks on the network. Only nodes with the upgraded network are able to validate transactions.
-
-Changes made in the protocol can be for reasons like Bitcoin Cash, where many thought an idea was practical, or could be used for a necessary purpose like undoing transactions performed by a hacker.
-
-For the last century, the purchasing power of all national currencies has dwindled and diminished. In fact, the USD, which is considered the most stable form of fiat cash, is down 96% in 104 years.
-
-Rick, my research partner, and I are both hoarding precious metals in vault storage. We don’t expect to become wealthier by doing this, but as you can see from the chart above, it beats putting significant savings into cash.
-
-In 2008, the world witnessed the worst financial crisis since the Great Depression of the 1930’s. The financial meltdown left a permanent scar with many who lost jobs, businesses, and homes, ushering a new uncertain era in the financial world.
-
-The housing bubble and the credit crunch were the catalysts that set events in motion, triggering an international banking crisis with the collapse of Lehman Brothers in late 2008.
-
-Due to the banks’ irresponsible and outright criminal use of clients’ funds, the 2008 crash was followed by a series of bailouts that simply postponed the inevitable global reset. Since politicians and bankers showed no remorse, the public became desperate for solutions from the private sector.
-
-
-With many corporate banks on the verge of closing and the public’s savings yielding negative real income, the frustration level hit a peak.
-
-Shortly after the closure of Lehman Brothers, the whitepaper for Bitcoin was posted by Satoshi Nakamoto to a cryptography mailing list, labeled “Bitcoin: A Peer To Peer Electronic Cash System.”
-
-The timing of this is not a coincidence. Bitcoin was indeed launched as a solution for how we conduct payments.
-
-A few months later, on January 3rd, 2009, the Bitcoin network was active with the first Bitcoin client released to the community. Satoshi Nakamoto mined the first block on the network, which is referred to as the “genesis” block.
-
-Satoshi added a message to the genesis block’s coinbase parameter, which was the headline of the British newspaper, “The Times,” on the day the first block was mined.
-
-The message was: “The Times 03/Jan/2009 Chancellor on brink of second bailout for banks.”
-
-This could be to prove the block was generated on January 3rd, 2009, or to highlight Bitcoin being the solution to the global financial problems.
-
-
-One of the most compelling aspects of Bitcoin is the mystery of who created it. The only information the community has is someone (or some people) using the alias Satoshi Nakamoto, who is responsible for creating Bitcoin, mining the first block, and maintaining the network’s development in the very early days.
-
-After a short length of time, Satoshi Nakamoto disappeared from the ongoing development of Bitcoin and has not made any known attempt to make contact, nor left any clues to his origin. This has resulted in the cryptocurrency community regularly speculating as to who the mysterious persona is.
-
-In 2009, mining Bitcoin had almost zero competition and it was a task that could be done on a CPU. Many miners from 2009 sit on a fortune of Bitcoin, including Satoshi Nakamoto.
-
-Nakamoto owns around 1,000,000 Bitcoin from being one of the first miners. The wallet has never been accessed to this day!
-
-The entire principle of Bitcoin was to build a trustless network that is immune to corruption and censorship. By effectively cutting out the intermediary in a transaction, Bitcoin renders the banks obsolete and can provide a level of security that the current systems cannot.
-
-What makes Bitcoin and other cryptocurrencies so effective is that they have no central point of failure. Thousands of nodes maintain Bitcoin’s blockchain across the globe, so even if one node goes down, the network continues to run smoothly on others.
-
-Our current financial system and the Internet itself are still based on a centralized network, meaning that if the central hub of the network is compromised, everything around it ceases to function. This is how Bitcoin has survived, despite multiple attacks on it.
-
-This solution came at a time when the world was financially on the brink of ruin. For decades, institutional money has enjoyed first-mover advantage in investing and compounding wealth, usually long before the average investor has a chance to lock his position.
-
-Cryptocurrencies are the road that goes in the opposite direction, enabling us to fully reclaim any lost purchasing power we incurred over the years.
-
-Less than a decade ago, Bitcoin was trading at $0.06. Pure Blockchain Wealth sees 2018 as the year, where new projects will be launched, and a week later, the market will price them at a $1B, if they are worthy. Said differently, this sector is hot and we must be first to pull the trigger.
-
-In Q1, 2018, we’ll release many important specific cryptocurrency investment opportunities – both Rick and I are traveling to numerous conferences as we speak.
+A hard fork in Bitcoin's blockchain network creates a major change to the
+network's protocol, such as Bitcoin Cash being created to increase the size
+of the blocks on the network. Only nodes with the upgraded network are able
+to validate transactions.
+
+Changes made in the protocol can be for reasons like Bitcoin Cash, where
+many thought an idea was practical, or could be used for a necessary purpose
+like undoing transactions performed by a hacker.
+
+A pivotal year for the exchange of Bitcoin, fittingly the first Bitcoin
+exchanges popped up in 2010 as well - Bitcoin Market in February, and Mt. Gox
+in July. Slush, the first mining pool, also mined Bitcoin successfully for
+the first time that year. Mining pools are where several miners combine
+resources to get Bitcoin. By November, the market cap for Bitcoin surpassed
+$1 million for the first time.
+
+Bitcoin began receiving press - both good and bad. TIME Magazine published
+an article on Bitcoin for the first time, but the same year there was also
+an article on Gawker detailing Silk Road, the dark web drug market where
+Bitcoin was frequently used as payment. The publicity got people talking,
+and by June, Bitcoin was worth over $30. Soon after, it crashed back down
+to about $10.
+
+Still, Bitcoin was becoming an entity that more and more of the public knew
+about and interest in the cryptocurrency grew. This led to a rise in altcoins,
+other forms of cryptocurrency whose developers were either trying to improve
+upon Bitcoin or had created the digital coin for a different purpose. In 2011,
+Litecoin -- now the seventh-largest cryptocurrency by market cap -- debuted.
+
+Still, some Bitcoin users were frustrated with the network around this time
+as well. The rising number of Bitcoin miners meant higher fees and more time
+spent processing transactions, leading some to want an increase in block size.
+In August, this led to Bitcoin Cash (BCH) being created via a fork in the
+network. Bitcoin Cash is now the fifth-largest cryptocurrency by market cap.
+
+For the last century, the purchasing power of all national currencies has
+dwindled and diminished. In fact, the USD, which is considered the most stable
+form of fiat cash, is down 96% in 104 years.
+
+In 2008, the world witnessed the worst financial crisis since the Great
+Depression of the 1930’s. The financial meltdown left a permanent scar with
+many who lost jobs, businesses, and homes, ushering a new uncertain era in
+the financial world.
+
+The housing bubble and the credit crunch were the catalysts that set events
+in motion, triggering an international banking crisis with the collapse of
+Lehman Brothers in late 2008.
+
+Due to the banks’ irresponsible and outright criminal use of clients’ funds,
+the 2008 crash was followed by a series of bailouts that simply postponed the
+inevitable global reset. Since politicians and bankers showed no remorse, the
+public became desperate for solutions from the private sector.
+
+
+With many corporate banks on the verge of closing and the public’s savings
+yielding negative real income, the frustration level hit a peak.
+
+Shortly after the closure of Lehman Brothers, the whitepaper for Bitcoin was
+posted by Satoshi Nakamoto to a cryptography mailing list, labeled
+“Bitcoin: A Peer To Peer Electronic Cash System.”
+
+The timing of this is not a coincidence. Bitcoin was indeed launched as a
+solution for how we conduct payments.
+
+A few months later, on January 3rd, 2009, the Bitcoin network was active with
+the first Bitcoin client released to the community. Satoshi Nakamoto mined the
+first block on the network, which is referred to as the “genesis” block.
+
+Satoshi added a message to the genesis block’s coinbase parameter, which was
+the headline of the British newspaper, “The Times,” on the day the first block
+was mined.
+
+The message was:
+“The Times 03/Jan/2009 Chancellor on brink of second bailout for banks.”
+
+This could be to prove the block was generated on January 3rd, 2009, or to
+highlight Bitcoin being the solution to the global financial problems.
+
+One of the most compelling aspects of Bitcoin is the mystery of who created it.
+The only information the community has is someone (or some people) using the
+alias Satoshi Nakamoto, who is responsible for creating Bitcoin, mining the
+first block, and maintaining the network’s development in the very early days.
+
+After a short length of time, Satoshi Nakamoto disappeared from the ongoing
+development of Bitcoin and has not made any known attempt to make contact, nor
+left any clues to his origin. This has resulted in the cryptocurrency community
+regularly speculating as to who the mysterious persona is.
+
+In 2009, mining Bitcoin had almost zero competition and it was a task that could
+be done on a CPU. Many miners from 2009 sit on a fortune of Bitcoin, including
+Satoshi Nakamoto.
+
+Nakamoto owns around 1,000,000 Bitcoin from being one of the first miners. The
+wallet has never been accessed to this day!
+
+The entire principle of Bitcoin was to build a trustless network that is immune
+to corruption and censorship. By effectively cutting out the intermediary in a
+transaction, Bitcoin renders the banks obsolete and can provide a level of
+security that the current systems cannot.
+
+What makes Bitcoin and other cryptocurrencies so effective is that they have no
+central point of failure. Thousands of nodes maintain Bitcoin’s blockchain
+across the globe, so even if one node goes down, the network continues to run
+smoothly on others.
+
+Our current financial system and the Internet itself are still based on a
+centralized network, meaning that if the central hub of the network is
+compromised, everything around it ceases to function. This is how Bitcoin
+has survived, despite multiple attacks on it.
+
+This solution came at a time when the world was financially on the brink
+of ruin. For decades, institutional money has enjoyed first-mover advantage
+in investing and compounding wealth, usually long before the average
+investor has a chance to lock his position.
+
+Cryptocurrencies are the road that goes in the opposite direction, enabling
+us to fully reclaim any lost purchasing power we incurred over the years.
+
+Less than a decade ago, Bitcoin was trading at $0.06. Pure Blockchain Wealth
+sees 2018 as the year, where new projects will be launched, and a week later,
+the market will price them at a $1B, if they are worthy. Said differently,
+this sector is hot and we must be first to pull the trigger.
 
 Bitcoin’s birthday: What are we really celebrating?
 
-We’ve all been celebrating Bitcoin’s historic moments, and a birthday is always a good time to recount it all from the beginning. But when is Bitcoin’s birthday, actually? When did Bitcoin start?
+We’ve all been celebrating Bitcoin’s historic moments, and a birthday is
+always a good time to recount it all from the beginning. But when is
+Bitcoin’s birthday, actually? When did Bitcoin start?
+
 When was Bitcoin created?
 
-When marking meaningful milestones in the Bitcoin origin story, there is not just one, but two important dates. The first of these anniversaries falls on October 31st, which marks the publication of the Bitcoin white paper that started it all, describing Satoshi Nakamoto’s revolutionary vision of a decentralized digital cash system. This date can be viewed as Bitcoin’s conception.
+When marking meaningful milestones in the Bitcoin origin story, there is
+not just one, but two important dates. The first of these anniversaries
+falls on October 31st, which marks the publication of the Bitcoin white
+paper that started it all, describing Satoshi Nakamoto’s revolutionary
+vision of a decentralized digital cash system. This date can be viewed as
+Bitcoin’s conception.
 
-It is actually January 3rd, however, that commemorates the `birth’ of the world’s first cryptocurrency — the date on which Bitcoin officially came into existence in the practical sense and was mined for the very first time.
+It is actually January 3rd, however, that commemorates the `birth’ of the
+world’s first cryptocurrency — the date on which Bitcoin officially came
+into existence in the practical sense and was mined for the very first time.
 
-In honor of Bitcoin’s birthday, let’s take a closer look at these and other influential moments in Bitcoin’s history.
 A brief history of Bitcoin
 
-On October 31st, 2008, Satoshi Nakamoto released the now infamous Bitcoin whitepaper, titled Bitcoin: A Peer-to-Peer Electronic Cash System. The document outlined the use of a peer-to-peer network (a blockchain), to create a digital currency (cryptocurrency) that would function independently of third parties such as banks or governments. The Satoshi whitepaper came on the heels of 2008’s major financial crisis which rocked markets and economies worldwide.
+On October 31st, 2008, Satoshi Nakamoto released the now infamous Bitcoin
+whitepaper, titled Bitcoin: A Peer-to-Peer Electronic Cash System. The
+document outlined the use of a peer-to-peer network (a blockchain), to
+create a digital currency (cryptocurrency) that would function
+independently of third parties such as banks or governments. The Satoshi
+whitepaper came on the heels of 2008’s major financial crisis which
+rocked markets and economies worldwide.
 
-On January 3rd, 2009, the Bitcoin blockchain became a reality, when Satoshi Nakamoto mined the genesis block of Bitcoin (known as Block 0), which had a reward of 50 BTC. SourceForge hosted the first open-source Bitcoin client, released on January 9th, 2009, and three days later, the world’s first Bitcoin transaction transpired, with Hal Finney, one of Bitcoin’s earliest supporters, receiving 10 BTC from Satoshi Nakamoto.
+On January 3rd, 2009, the Bitcoin blockchain became a reality, when
+Satoshi Nakamoto mined the genesis block of Bitcoin (known as Block 0),
+which had a reward of 50 BTC. SourceForge hosted the first open-source
+Bitcoin client, released on January 9th, 2009, and three days later,
+the world’s first Bitcoin transaction transpired, with Hal Finney,
+one of Bitcoin’s earliest supporters, receiving 10 BTC from Satoshi Nakamoto.
 
-By late 2012, it was reported by BitPay that more than a thousand merchants had begun accepting Bitcoin as a payment processing service, with WordPress notably among them. In October 2013, the world’s first Bitcoin ATM launched in Canada. In June 2014, Bitcoin’s hash rate exceeded 100,000 tera hashes per second for the first time, and in December of that year, Microsoft began accepting Bitcoin for Xbox and Windows software purchases. By early 2015, the number of merchants accepting Bitcoin exceeded a whopping 100,000.
+By late 2012, it was reported by BitPay that more than a thousand merchants
+had begun accepting Bitcoin as a payment processing service, with WordPress
+notably among them. In October 2013, the world’s first Bitcoin ATM launched
+in Canada. In June 2014, Bitcoin’s hash rate exceeded 100,000 tera hashes
+per second for the first time, and in December of that year, Microsoft began
+accepting Bitcoin for Xbox and Windows software purchases. By early 2015,
+the number of merchants accepting Bitcoin exceeded a whopping 100,000.
 
-Bitcoin was making waves, and in 2016, the momentum really started picking up. In January, Bitcoin’s hash rate exceeded 1,000,000 tera hashes per second. In March, the Cabinet of Japan officially recognized that digital assets such as Bitcoin had a similar function to fiat currency. From March 2015 to September 2016, the number of Bitcoin ATMs doubled. The 2016 Bitcoin `halvening’ (an event that takes place every four years and halves miners’ rewards for validating transactions) increased demand while setting in motion 2017’s famous record-breaking bull run.
+Bitcoin was making waves, and in 2016, the momentum really started picking up.
+In January, Bitcoin’s hash rate exceeded 1,000,000 tera hashes per second.
+In March, the Cabinet of Japan officially recognized that digital assets such
+as Bitcoin had a similar function to fiat currency. From March 2015 to
+September 2016, the number of Bitcoin ATMs doubled. The 2016 Bitcoin
+`halvening’ (an event that takes place every four years and halves miners’
+rewards for validating transactions) increased demand while setting in
+motion 2017’s famous record-breaking bull run.
 
-But, of course, Bitcoin’s journey has not been without plenty of bumps in the road. On August 6th, 2010, a major bug was exposed in the Bitcoin network’s protocol: some users were able to bypass verification of transactions, allowing them to ignore the network’s supply restrictions of 21 million bitcoins. One hacker managed to generate 184 billion bitcoins and transfer them to other addresses on the network, but the breach was swiftly dealt with and the bug was fixed.
+But, of course, Bitcoin’s journey has not been without plenty of bumps in
+the road. On August 6th, 2010, a major bug was exposed in the Bitcoin network’s
+protocol: some users were able to bypass verification of transactions, allowing
+them to ignore the network’s supply restrictions of 21 million bitcoins. One
+hacker managed to generate 184 billion bitcoins and transfer them to other
+addresses on the network, but the breach was swiftly dealt with and the bug was
+fixed.
 
-In April 2013, Mt. Gox and BitInstant had major processing delays due to insufficient capacity, causing the Bitcoin exchange rate to plunge. Less than a year after the Mt. Gox fiasco, UK-based exchange Bitstamp shut down to investigate a hack which resulted in roughly 19,000 stolen BTC. Bitstamp remained offline for several days before coming back with increased security measures. In October 2013, roughly 26,000 BTC were seized by the FBI from the Silk Road website during the arrest of its alleged owner, Ross William Ulbricht.
+In April 2013, Mt. Gox and BitInstant had major processing delays due to
+insufficient capacity, causing the Bitcoin exchange rate to plunge. Less than
+a year after the Mt. Gox fiasco, UK-based exchange Bitstamp shut down to
+investigate a hack which resulted in roughly 19,000 stolen BTC. Bitstamp
+remained offline for several days before coming back with increased security
+measures. In October 2013, roughly 26,000 BTC were seized by the FBI from the
+Silk Road website during the arrest of its alleged owner, Ross William Ulbricht.
+
 Bitcoin then and now
 
-Until now, 2017 was considered the pivotal year for Bitcoin. The world’s first and leading cryptoasset continued gaining legitimacy among lawmakers, financial institutions, and retail companies, further legitimizing crypto in the mainstream. Bitcoin underwent a hard fork on August 1st, splitting into Bitcoin (BTC), and Bitcoin Cash (BCH). At the pinnacle of its historic bull run that year, Bitcoin’s price reached an all-time high of over $20,000 USD.
+Until now, 2017 was considered the pivotal year for Bitcoin. The world’s first
+and leading cryptoasset continued gaining legitimacy among lawmakers, financial
+institutions, and retail companies, further legitimizing crypto in the
+mainstream. Bitcoin underwent a hard fork on August 1st, splitting into Bitcoin
+(BTC), and Bitcoin Cash (BCH). At the pinnacle of its historic bull run that
+year, Bitcoin’s price reached an all-time high of over $20,000 USD.
 
-2018 was a rough year for Bitcoin and cryptocurrencies in general, and the market soon plunged from the great highs of December 2017. Lawmakers began introducing stricter regulations, in some cases even effectively banning Bitcoin trading, which put a serious damper on investor euphoria. While 2019 was a better year, with the price of Bitcoin rising overall, the crypto market was still plagued with volatility and, thus, uncertainty about what the future of Bitcoin would hold.
+2018 was a rough year for Bitcoin and cryptocurrencies in general, and the
+market soon plunged from the great highs of December 2017. Lawmakers began
+introducing stricter regulations, in some cases even effectively banning
+Bitcoin trading, which put a serious damper on investor euphoria. While
+2019 was a better year, with the price of Bitcoin rising overall, the
+crypto market was still plagued with volatility and, thus, uncertainty
+about what the future of Bitcoin would hold.
 
-Despite a number of setbacks and recoveries, true crypto believers continued to “HODL,” never doubting the day when Bitcoin would rise again. The last few months of 2020 seem to mark yet another very important point in Bitcoin’s history. As we continue to watch the events unfold, it seems safe to say that Bitcoin’s 12th birthday celebration is a happy one indeed.
+Despite a number of setbacks and recoveries, true crypto believers continued
+to “HODL,” never doubting the day when Bitcoin would rise again. The last
+few months of 2020 seem to mark yet another very important point in
+Bitcoin’s history. As we continue to watch the events unfold, it seems safe
+to say that Bitcoin’s 12th birthday celebration is a happy one indeed.
 
-The world’s first cryptocurrency, Bitcoin is stored and exchanged securely on the internet through a digital ledger known as a blockchain. Bitcoins are divisible into smaller units known as satoshis — each satoshi is worth 0.00000001 bitcoin.
+The world’s first cryptocurrency, Bitcoin is stored and exchanged securely
+on the internet through a digital ledger known as a blockchain. Bitcoins
+are divisible into smaller units known as satoshis — each satoshi is worth
+0.00000001 bitcoin.
 
 Thank you.
