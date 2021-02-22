@@ -45,3 +45,4 @@ description: wxie's speeches
 - [Why and How I stopped buying new laptops](speech/keynote-why-how-stop-buying-new-laptop.html)
 - [Right to Read](speech/right2read.html)
 - [All I know about Bitcoin](speech/all_I_know_about_bitcoin.html)
+- [Be Nice](speech/be_nice.html)
