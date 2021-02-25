@@ -29,8 +29,8 @@ important, you will expect that anyone exposed to that information will
 fully absorb it?
 
 When you told your friends Toastmasters are good, Yu-Life club is nice.
-And invited them to come, but they didn's show up. This shows the reality
-- while learning how to communicate well is hard, actually getting anyone
+And invited them to come, but they didn't show up. This shows the reality:
+while learning how to communicate well is hard, actually getting anyone
 to listen is many times harder.
 
 And since mobile phones and social media all this has got many times harder;
@@ -45,7 +45,7 @@ matter what we want to communicate, he started to listen and response. This
 made the life much easier. There is no need to raise your voice and yell around.
 It is because of being nice and respecting the kids.
 
-Even if you are on the weak side, being nice can also win respect. In a metroplis
+Even if you are on the weak side, being nice can also win respect. In a metropolis
 like Shanghai, we all cross the streets many times a day. What would you do
 before you cross the street? (very good) When I am crossing the stree and a
 car stopped and waited, I will give the driver a thumb-up to show my respect to
@@ -54,11 +54,11 @@ agree? Being nice makes my life happier.
 
 To be nice is to be positive. We all want a relaxed, no-tension environment.
 But sometime there is conflict and there can be opinions I disagree. To
-be nice is particularly necessary in these situation. For example, in our
-meetings, the evaluator may use some strong words on my speech, you may feel
+be nice is particularly necessary in these situations. For example, in our
+meetings, the evaluator may use some strong words on my speech, I may feel
 insulted. But I should still give my apprieciation, anyway, the evaluator is
-another human being, one very much like yourself. He just wants to help me
-regardless which word he uses in his evaluation. We all need forgive and
+another human being, one very much like yourself. She just wanted to help me
+regardless which word she uses in her evaluation. We all need forgive and
 improve. If we can share skills, knowledge and interests through ongoing
 conversation, we are fine. I guess this is one of the reasons I was elected
 as the club president. This gives me more chances to be nice.
