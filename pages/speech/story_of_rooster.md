@@ -13,7 +13,7 @@ Good morning.
 Experiences from our childhood often remain vivid in our brain, some even
 teaches us how to live our lives. Today, I tell you the story of a rooster.
 
-I was younger. Trust me. I was much younger.
+I was younger. Trust me, honored judges. I was much younger.
 
 Many many years ago, when I was a little kid, my family lived in a large
 flat building together with 6 other families. We shared a huge front yard.
