@@ -10,10 +10,8 @@ Distinguished guests,
 
 Good morning.
 
-Experiences from our childhood often remain vivid in our brain, some even
-teaches us how to live our lives. Today, I tell you the story of a rooster.
-
-I was younger. Trust me, honored judges. I was much younger.
+I was younger. Trust me, dear audience, contest chair. I was much younger.
+And something from my childhood still remains vividly in my memory.
 
 Many many years ago, when I was a little kid, my family lived in a large
 flat building together with 6 other families. We shared a huge front yard.
@@ -85,10 +83,17 @@ Little flower still cared the hens for days.
 
 That weekend, my family had a chicken meal. I didn't eat.
 
-I showed my respect to a wonderful creature who had lived his life with love and honor,
-glory and failure, which gives me much fun whether young or old.
+This ends the story of little follower. However, I cannot get away with him from my mind.
+I sometimes asked myself why I still remember little flower after so many years, and
+I could not get an answer that satisfied myself.
 
-This is the very way that we all should live our lives.
+I just want to show my respect to a wonderful creature who had lived his life with
+love and honor, glory and failure, which gives me much fun whether young or old.
+
+Dear audience, have you ever had the same feeling? Have you ever had a dear friend to
+commemorate? Have you ever had a vivid story to tell?
+
+This is the very stage to tell your story.
 
 Farewell, little flower. Farewell, the great rooster.
 
