@@ -84,7 +84,7 @@ Little flower still cared the hens for days.
 That weekend, my family had a chicken meal. I didn't eat.
 
 This ends the story of little follower. However, I cannot get away with him from my mind.
-I sometimes asked myself why I still remember little flower after so many years, and
+I sometimes asked myself why I still remember a rooster after so many years, and
 I could not get an answer that satisfied myself.
 
 I just want to show my respect to a wonderful creature who had lived his life with

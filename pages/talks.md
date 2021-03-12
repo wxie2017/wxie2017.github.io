@@ -46,3 +46,4 @@ description: wxie's speeches
 - [Right to Read](speech/right2read.html)
 - [All I know about Bitcoin](speech/all_I_know_about_bitcoin.html)
 - [Be Nice](speech/be_nice.html)
+- [I tell myself a story](speech/I_tell_myself_a_story.html)
