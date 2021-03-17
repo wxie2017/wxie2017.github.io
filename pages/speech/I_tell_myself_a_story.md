@@ -34,6 +34,9 @@ From that moment, I feel myself become Dananjaya. I am the championship
 speaker. The nervousness has gone after telling myself a story.
 
 Dear Audience, telling myself a story is the magic for me to conquer my fear.
+This is true for you, too.
+
+How many of you have kids? Kids are fantastic storytellers.
 
 We all was kids once, and some have kids now. We may notice that little kids
 often tell themselves a story. They talk to themselves, they talk to the toys,
@@ -43,10 +46,10 @@ self-talk has mental benefits and practicing it positively can make your goals
 clear.
 
 I remembered that when I was in school, and there were a lot of home work to
-do. Sometimes we had to write the new words 10 times each. It was a hardwork.
-I then told myself the story of magic pen of Ma Liang. I got that pen, and
-finish all the writing magically. I was happy and the hardwork was gone. Now
-I start to know that the story was tell myself
+do. Sometimes we had to write the new words 10 times each. It was like a
+work impossible. I then told myself the story of magic pen of Ma Liang. In the
+story, I got that pen, and finish all the writing magically. I was happy and
+the hardwork was gone. Now I start to know that the story was tell myself
 Aaron Beverly (2019): This is my mission, take it very seriously.
 
 Today, we are all in the Toastmasters club. We practice our public speaking
@@ -55,7 +58,7 @@ for all of us. To conquer it, my secret is to tell myself a story of a glorious
 victory, and the real information is to tell myself
 Mike Carr (2020): The victory is not in the result. The victory is in the try.
 
-Dear fellow members, and distinguished guests,
+Dear fellow members, and distinguished guests, you can do the same.
 Have you ever faced a difficlut situation? Tell yourself a story to solve the
 problem.
 Have you ever faced a joyful moment? Tell yourself a story to share the

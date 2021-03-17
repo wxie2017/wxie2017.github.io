@@ -87,13 +87,15 @@ This ends the story of little follower. However, I cannot get away with him from
 I sometimes asked myself why I still remember a rooster after so many years, and
 I could not get an answer that satisfied myself.
 
-I just want to show my respect to a wonderful creature who had lived his life with
-love and honor, glory and failure, which gives me much fun whether young or old.
+Now, I am glad that I could give a speech about little follower in Toastersmasters
+meeting. It is a great relief for me because I finally got the chance to show my respect
+to a wonderful creature who had lived his life with love and honor, glory and failure,
+which gives me much fun whether young or old.
 
 Dear audience, have you ever had the same feeling? Have you ever had a dear friend to
 commemorate? Have you ever had a vivid story to tell?
 
-This is the very stage to tell your story.
+Toastmasters meeting is the very stage to tell your story. All you need is to act.
 
 Farewell, little flower. Farewell, the great rooster.
 
