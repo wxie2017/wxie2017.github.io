@@ -61,8 +61,8 @@ and the hardwork was gone.
 Now I realized that in the story I was actually telling myself
 Aaron Beverly (2019): This is my mission, take it very seriously.
 
-Today, many ofus are in the Toastmasters clubs. We practice public speaking
-in front of people. This is not easy. Many people becomes nervous. It is
+Today, many of us are in the Toastmasters clubs. We practice public speaking
+in front of people. This is not easy. Many people become nervous. It is
 natural because fear of public speaking is the biggest phobia for all of us.
 To conquer it, my secret is to tell myself a story of a glorious victory in
 speech, and the real information is to tell myself
@@ -71,9 +71,9 @@ Mike Carr (2020): The victory is not in the result. The victory is in the try.
 Dear fellow members, and distinguished guests, you can do the same.
 Have you ever faced a difficlut situation? Tell yourself a story to solve the
 problem.
-Have you ever faced a joyful moment? Tell yourself a story to share the
+Have you ever faced a joyful moment? Tell yourself a story to double the
 happiness.
-Have you ever want to tell your story loadly? Come to the stage.
+Have you ever wanted to tell your story loadly? Come to the stage.
 Everything will be ok. Anyway, after 5 to 7 minutes,
 Ramona J. Smith (2018): I am still standing.
 
