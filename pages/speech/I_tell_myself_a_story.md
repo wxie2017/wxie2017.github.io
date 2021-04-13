@@ -48,11 +48,11 @@ out happily. They are developing a whole story. They are telling the story
 to themselves. This means we all have the ability to tell ourselves a story.
 
 From psychological point of view, telling oneself a story is a good thing.
-Private self-talk has mental benefits and practicing it positively can make
+Private self-talking has mental benefits and practicing it positively can make
 you feel confident and help you reach your goals.
 
 I remembered that I was in school many year ago. There was a lot of home work,
-not less than today's students. Sometimes we had to write the new words 10
+no less than today's students. Sometimes we had to write the new words 10
 times each. It was like a work impossible. How did I deal with this? Once I
 told myself the story about the magic pen of Ma Liang. If I got that magic pen,
 I could do my homework effortlessly. In the story, I asked Ma liang for his magic
