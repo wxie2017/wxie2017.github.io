@@ -48,4 +48,4 @@ description: wxie's speeches
 - [Be Nice](speech/be_nice.html)
 - [I tell myself a story](speech/I_tell_myself_a_story.html)
 - [Always look ahead](speech/always_look_ahead.html)
-- [Some emotional moment](speech/some_emotional_moment.html)
+- [Some emotional moments](speech/some_emotional_moments.html)
