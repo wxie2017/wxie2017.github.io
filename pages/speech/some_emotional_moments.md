@@ -10,16 +10,17 @@ Distinguished guests,
 
 Good morning.
 
-Have you ever felt angry with you met some frustrated situation? Have you
-ever felt joyful when you achieved something?
+Have you ever felt angry with you met some frustrating situation? Have you
+ever felt joyful when you achieved something great?
 
 These are the emotional moments we all have. Emotions will affect how we
-react to things.
+react to things, normally our behavoir will different according to
+different emotions.
 
 Recently I have recorded my major emotional reactions to others. There
 were also some emotional moments.
 
-Let me share with you one of them.
+Let me share with you some of them.
 
 On the morning of 22nd, March, I read the news about Richard Stallman's
 reinstatement in Free Software Foundation. I was very excited and shared
