@@ -51,3 +51,4 @@ None yet!
 - [用HTML构建高效率网站](article/用HTML构建高效率网站.html)
 - [对新冠疫苗的反向工程](article/对新冠疫苗的反向工程.html)
 - [Docker的故事](article/Docker的故事.html)
+- [故事与愿望](article/故事与愿望.html)

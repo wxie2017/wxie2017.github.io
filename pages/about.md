@@ -6,7 +6,7 @@ description: wxie2017 is free software believer.
 
 wxie2017 is a free software believer who is trying to be a freelancer working only with free software.
 
-- [github](https://github.com/wxie2017)<br/>
+- [gitlab](https://gitlab.com/wxie2017)<br/>
 
 ---
 
