@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Pathways Demystification
-description: On 2021-05-16 gave this Panel moderation as I the level-5 project-2 of my 1st Pathways in Yulife club of Toastmaster.
+description: On 2021-05-16 gave this Panel moderation as I the level-5 project-2 of my 1st Pathways in Yu-Life club of Toastmaster.
 ---
 
 
@@ -30,14 +30,14 @@ in Pathways with us - three Js. Let me invite them to give a brief self-
 introduction one by one.
 
 First J, welcome Julie, present Vice President of Education in Yu-Life club,
-EC2 in Pathways. Please introduce your self.
+PI2 in Pathways. Please introduce yourself.
 ...Thank you, Julie.
 
-Second J, welcome Jim, present President of CAAS club, in Pathways. Please
+Second J, welcome Jim, present President of CAAS club, DL3 in Pathways. Please
 say some thing about yourself.
 ... Thank you, Jim.
 
-The last J, welcome Justus, present secretary of Yu-Life club, EC5 and
+The last J, welcome Justus, present secretary of Yu-Life club, DL5 and EC3
 in Pathways. Please tell us more about yourself.
 ... Thank you, Justus.
 
