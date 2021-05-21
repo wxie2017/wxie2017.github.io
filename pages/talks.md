@@ -50,3 +50,4 @@ description: wxie's speeches
 - [Always look ahead](speech/always_look_ahead.html)
 - [Some emotional moments](speech/some_emotional_moments.html)
 - [Panel: Pathways Demystification](speech/Pathways_Demystification.html)
+- [Receiving Pathways Award in Taicang](speech/receiving_Pathways_award_taicang.html)
