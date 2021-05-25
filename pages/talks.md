@@ -51,3 +51,4 @@ description: wxie's speeches
 - [Some emotional moments](speech/some_emotional_moments.html)
 - [Panel: Pathways Demystification](speech/Pathways_Demystification.html)
 - [Receiving Pathways Award in Taicang](speech/receiving_Pathways_award_taicang.html)
+- [Review my First Pathways](speech/review_my_first_pathways.html)
