@@ -25,7 +25,7 @@ My review consists of the following four parts:
 # A pleasant surprise
 
 "Ding, Ding"
-My mobilephone rang. I checked the number - an unknown number from Suzhou.
+My mobile phone rang. I checked the number - an unknown number from Suzhou.
 
 Dear audience, what would you do if you see an unknown incoming number?
 
@@ -52,7 +52,7 @@ Dear audience, this is Toastmasters. It keeps giving you good experience
 as long as you stay in the club, as long as you follow the Pathways.
 
 I went to Taicang. It is not far from Shanghai. I took public transportation
-and got off just infront of the hotel. It was already the 3rd day of the
+and got off just in front of the hotel. It was already the 3rd day of the
 conference.
 
 I saw people smiling all around. I saw volunteers helping around.
@@ -68,19 +68,19 @@ What's the mission of a Toastmaster club?
 
 What's the mission of a Toastmaster District?
 
-What's the missiong of the Toastmaster International?
+What's the mission of the Toastmaster International?
 
 
 Could you, my dear fellow members?
 
 Soon, it's time for the Quintuple Crown Award ceremony. Looking around, I
-saw familar faces, I saw strang faces, I saw people younger than me, and I
-saw people older than me. We have one thing in common - we all completed a
-Pathways, we all finished the 5 levels.
+saw familiar faces, I saw strange faces, I saw female faces, I saw male faces,
+I saw people younger than me, and I saw people older than me. We have one
+thing in common - we all completed a Pathways, we all finished the 5 levels.
 
 Through conversion, I knew that some of them finished more than one Pathways,
 some of them were already DTMs, and some of them were even double-DTMs. If
-they can do it, I can do it, too.
+they can do it, I can do it, too. I told myself.
 
 Standing on the stage, holding the certificate, something was rising from
 my heart, going through my nose, and shedding out of my eyes.
