@@ -22,15 +22,15 @@ My review consists of the following four parts:
 
 4. I miss you
 
-# A pleasant surprise
+## A pleasant surprise
 
 "Ding, Ding"
 My mobile phone rang. I checked the number - an unknown number from Suzhou.
 
-Dear audience, what would you do if you see an unknown incoming number?
+Dear audience, what would you do when you see an unknown incoming number?
 
 Many times, I just kill it by pressing the red button because most likely
-it is a spam call - trying to sale your a house, or trying to enroll your
+it is a spam call - trying to sell your a house, or trying to enroll your
 children to a special class.
 
 How you ever had the same experience?
@@ -41,7 +41,7 @@ But this time, thanks to god, I pressed the green button.
 "Yes, I am. Who are you?" I became a little bit alert.
 "I am Cui Honglun, a Toastmaster member. Congratulations, Wensheng. You
  got Quintuple Crown Award, and I invite you to attend Taicang conference
-to receive the certificate."
+to accept the certificate."
 
 What...???!!! I was totally relaxed.
 
@@ -57,26 +57,59 @@ conference.
 
 I saw people smiling all around. I saw volunteers helping around.
 
-I asked the reception where the venue was and told them that I did have a
-ticket. The volunteer told me I could go to the second floor and check if
+I asked the reception where the venue was and told them that I did not have
+a ticket. The volunteer told me I could go to the second floor and check if
 I was allowed to enter.
 
 Of course, I was let in. Susan Zhou was giving her keynote speech. I could
 not answer her questions:
 
 What's the mission of a Toastmaster club?
-
 What's the mission of a Toastmaster District?
-
 What's the mission of the Toastmaster International?
-
 
 Could you, my dear fellow members?
 
-Soon, it's time for the Quintuple Crown Award ceremony. Looking around, I
-saw familiar faces, I saw strange faces, I saw female faces, I saw male faces,
-I saw people younger than me, and I saw people older than me. We have one
-thing in common - we all completed a Pathways, we all finished the 5 levels.
+## Where did I start
+
+The hardest thing was to start. That's where the mentor comes in. My mentor
+reminded me to start my IceBreaker.
+
+The Toastmasters official web site is your best place to kick off your
+Pathways.
+
+Dear audience, have you ever opened the web site? Do you still remember the
+www.toastmaster.org? Do you still remember your member ID and password?
+
+IceBreaker is the first project of your level 1 in Pathways. It was not hard
+for me. I can do a 5- to 7-minute self-introduction. I hope you can do this,
+too. If not, your mentor has a lot of experience on this.
+
+Of course, a whole Pathways consists of many projects. I have done 20 speeches
+along the ways and I have attended 41 club meetings. The D85 passport is a
+great tool to help me record my Pathways and club activities. Have you got one?
+Have you record your Pathways in it? If not, do it today.
+
+The whole Pathways is a great training:
+writing the speech, practicing the speech, delivering the speech, receiving
+feedback, implementing feedback in the next speech. My communication skills
+have been improved dramatically.
+
+I was so excited that I delivered my first sharing after I finished level 1.
+I see many happy faces there. I was so confident that I began to visit other
+clubs and challenged myself in different stages. The feeling is fantastic.
+
+In one sentence, it is worth the effort.
+
+## I miss you
+
+Let's go back to Taicang. When it's time for the Quintuple Crown Award
+ceremony, I Looked around, I saw familiar faces, I saw strange faces, I saw
+female faces, I saw male faces, I saw people younger than me, and I saw
+people older than me. Wehave one thing in common - we all completed a
+Pathways, we all finished the 5 levels.
+
+Isn't is easy? Isn't it exciting?
 
 Through conversion, I knew that some of them finished more than one Pathways,
 some of them were already DTMs, and some of them were even double-DTMs. If
@@ -87,5 +120,7 @@ my heart, going through my nose, and shedding out of my eyes.
 
 I was wondering:
 dear members of Yu-Life club, I miss you on the stage.
+If I can do it, you can do it, too.
+All you need is to come here on the stage.
 
-# Where did I start
+Thank you.
