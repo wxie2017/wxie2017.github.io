@@ -79,12 +79,18 @@ if at all?
 There really is a strong connection between nostalgia and one’s
 homeland.
 
-I also think nostalgia comes from a true appreciation of life.
+Thank you for sharing your experience.I also think nostalgia comes
+from a true appreciation of life.
+
+Dear audience, is the Earth your home planet? Yes for sure.
+Is China your home country? Is Shanghai your hometown?
+Is Yu-Life your home club?
+
 When we realize just how temporary everything is, we want to
 hold on to what we consider our best moments. And it is these
 moments that fill us with gratitude for being alive, able to
 experience such an intensity of emotions.
 
-Enjoy the life.
+Enjoy the nastalgia. Enjoy the life.
 
 Thank you.
