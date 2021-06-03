@@ -53,3 +53,4 @@ description: wxie's speeches
 - [Receiving Pathways Award in Taicang](speech/receiving_Pathways_award_taicang.html)
 - [Review my First Pathways](speech/review_my_first_pathways.html)
 - [TTM: nastalgia](speech/TTM_nastalgia.html)
+- [Keep Our Club Healthy](speech/keep_our_club_heathy.html)
