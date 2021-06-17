@@ -54,3 +54,4 @@ description: wxie's speeches
 - [Review my First Pathways](speech/review_my_first_pathways.html)
 - [TTM: nastalgia](speech/TTM_nastalgia.html)
 - [Keep Our Club Healthy](speech/keep_our_club_heathy.html)
+- [Copyright: Past, Present and Future](speech/copyright_past_present_future.html)
