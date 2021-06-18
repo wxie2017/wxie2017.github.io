@@ -10,22 +10,23 @@ Distinguished guests,
 
 Good morning.
 
-How many of you love music？
-How many of you love paintings?
+How many of you love How many of you love paintings?
 How many of you love movies?
 How many of you love books?
 
-These things have one common character - they are copyrighted.
+These things have one common character - they are works copyrightable.
 
-Today, I am going to talk with you about copyright, its past, its present and
-its future. I will also leave a few minutes for questions and answers, so
-please take note of your questions.
+Today, I am going to talk with you about copyright, its past, its present
+and its future. I will also leave a few minutes for questions and answers,
+so please take note of your questions.
+
+# In the Past, we had no Copyright
 
 Long long time ago, in the ancient world, there wasn't the sharp distinction
 between authorship and copying that there tends to be today. There was a
 spectrum between writing an original work, and copying. Someone wrote a book,
-other copied that book, and some other one might copy part of the book and
-wrote her own part as well. There were many books that were partly copied,
+other copied that book, and some other ones might copy part of the book and
+wrote their own part as well. There were many books that were partly copied,
 but mixed with original writing.
 
 I don't believe there was any idea of copyright in the ancient world and it
@@ -33,9 +34,11 @@ would have been rather difficult to enforce one, because books could be copied
 by anyone who could read anywhere, anyone who could get some writing materials,
 and a brush or a feather to write with. So, that was a rather clear simple
 situation - copying books and writing books took similar effort. Every reader
-could copy the book she read anywhere she liked. This is no concept of copyright.
+could copy the book she read anywhere she liked.
 
-Do you agree?
+This was no concept of copyright back then. Do you agree?
+
+# Copyright came with printing technology
 
 Later on, printing was developed and printing changed the situation greatly. It
 provided a much more efficient way to make copies of books, provided that they
@@ -74,9 +77,7 @@ cause a problem. And because of this there was no need for harsh punishments to
 convince readers to tolerate it and to obey.
 
 So copyright effectively was an industrial regulation. It restricted publishers and
-writers but it didn't restrict the general public.
-
-Do you agree?
+writers but it didn't restrict the general public. Do you agree?
 
 As time went on, printing got more efficient. Eventually even poor people didn't
 have to bother copying books by hand and the idea sort of got forgotten. It's about
@@ -109,7 +110,7 @@ make copies of anything in exchange for the progress that is brought about
 indirectly, by encouraging more people to write.
 
 Dear audience, when you hear the word "pirate" what do you feel? Pirates
-attach boats with weapons, but sharing copied books is spreading ideas, is
+attack boats with weapons, but sharing copied books is spreading ideas, is
 contributing to the progress of civilization.
 
 Anyway, as long as the age of the printing press continued, copyright was
@@ -120,6 +121,8 @@ computer networks have come into use the situation has changed drastically.
 We are now in a situation technologically more like the ancient world,
 where anybody who could read something could also make a copy of it that
 was essentially as good as the best copies anyone could make.
+
+# Copyright becomes problematic in digital information era
 
 A situation now where once again, ordinary readers can make copies themselves.
 It doesn't have to be done through centralised mass production, as in the
@@ -162,6 +165,7 @@ and it's been extended over and over again in the past fifty years or so
 and in fact in now appears that the owners of copyrights are planning to
 keep on extending copyrights so that they will never expire again.
 
+# Possible solutions for copyright
 
 In the future, we should draw lines between different kinds of work.
 Different works serve different purposes for their users. Until today
@@ -169,7 +173,9 @@ we've had a copyright system that treats almost everything exactly
 alike except for music. There are broadly three kinds of works:
 
 functional works,
+
 works that express personal position,
+
 and works that are fundamentally aesthetic.
 
 Functional works include: computer software; recipes; textbooks;
