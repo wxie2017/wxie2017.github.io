@@ -55,3 +55,4 @@ description: wxie's speeches
 - [TTM: nastalgia](speech/TTM_nastalgia.html)
 - [Keep Our Club Healthy](speech/keep_our_club_heathy.html)
 - [Copyright: Past, Present and Future](speech/copyright_past_present_future.html)
+- [TTM: Privacy and Anonymity](speech/TTM_privacy_and_anonymity.html)
