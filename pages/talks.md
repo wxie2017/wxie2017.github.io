@@ -57,3 +57,4 @@ description: wxie's speeches
 - [Copyright: Past, Present and Future](speech/copyright_past_present_future.html)
 - [TTM: Privacy and Anonymity](speech/TTM_privacy_and_anonymity.html)
 - [TTM: emoji](speech/TTM_emoji.html)
+- [IE: ALC](speech/IE_alc.html)
