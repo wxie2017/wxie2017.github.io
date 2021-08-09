@@ -58,4 +58,4 @@ description: wxie's speeches
 - [TTM: Privacy and Anonymity](speech/TTM_privacy_and_anonymity.html)
 - [TTM: emoji](speech/TTM_emoji.html)
 - [IE: ALC](speech/IE_alc.html)
-- [Is Project Management again Human nature?](speech/project_management_against_human_nature.html)
+- [Is Project Management against Human nature?](speech/project_management_against_human_nature.html)

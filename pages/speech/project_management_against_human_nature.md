@@ -33,7 +33,7 @@ project automatically. I waited for volunteers. Several days passed, guess how m
 people volunteered? Zero.
 
 I realized that I have to invite people to the project by myself. It is so easy
-to inivte a friend to a dinner, but it is so hard to invite a club member to
+to invite a friend to a dinner, but it is so hard to invite a club member to
 join your project. I was worrying about what I should do if people refused to
 join the project.
 
@@ -41,7 +41,7 @@ Finally, I decided to invite people. I invited 3 members. Guess how many of them
 agreed? They all agreed. Thanks a lot.
 
 You see. Project management is against human nature even from the start. You have
-to conque your fear to invite people.
+to conquer your fear to invite people.
 
 After we have a project team! I had to assign tasks. As the project manage, my
 role is to motivate people to do things for me. Do you think this is with human
@@ -87,7 +87,7 @@ Let me summarize what I learned quickly.
 
 Project management is against human nature. I have to overcome fear to form the
 team, I need to find out the motivation to assign tasks and I must put benefits
-beforehead to achieve the project goals. Just as we know, if I want ants to come,
+beforehand to achieve the project goals. Just as we know, if I want ants to come,
 I put sugar on the floor.
 
 Thank you.
