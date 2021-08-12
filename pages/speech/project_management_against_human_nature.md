@@ -28,50 +28,35 @@ As the project manager, my first thing is to form the project team.
 How easy is it! You may think. Who would you choose to be your project team members?
 How would you invite them?
 
-I started to fight with myself about these questions. I hope people would join the
+I started to fight with myself about these questions. I hoped people would join the
 project automatically. I waited for volunteers. Several days passed, guess how many
 people volunteered? Zero.
 
-I realized that I have to invite people to the project by myself. It is so easy
-to invite a friend to a dinner, but it is so hard to invite a club member to
-join your project. I was worrying about what I should do if people refused to
-join the project.
+I realized that I had to do the job by myself. It is so natural to invite a
+friend for a dinner, but it is so hard to invite a club member to join my
+project. I worried about what I should do if people refused to join the project.
 
-Finally, I decided to invite people. I invited 3 members. Guess how many of them
-agreed? They all agreed. Thanks a lot.
+Anyway, I made up my mind to invite people. I invited 3 members. Guess how many of
+them agreed? They all agreed. Thanks a lot.
 
-You see. Project management is against human nature even from the start. You have
-to conquer your fear to invite people.
+You see. Project management is against human nature even from the start. I have
+to conquer my fear to invite people. I could not expect people coming naturally.
 
-After we have a project team! I had to assign tasks. As the project manage, my
+After we had a project team! I had to assign tasks. As the project manage, my
 role is to motivate people to do things for me. Do you think this is with human
 nature or against human nature?
 
-Of course, people would rather do things for themselves but not for others.
+Of course, people would rather do things for themselves than for others.
 Human nature appears rational, doesn't it? If I want people work for my project,
 I need find out their motivation in doing so.
 
-The first step in leading a team to the successful completion of a project is
+The next step in leading a team to the successful completion of a project is
 to become acquainted with the members individually and understand their expertise.
 This is why leaders need to develop listening skills, second person perspective
 taking and empathy. That means learning about the power of incentives.
 
-Generally speaking, people get motivated by 4 things:
-
-1. Individuals motivated by recognition enjoy attention for their contributions
-to the group.
-
-2. Individuals motivated by achievement desire to accomplish tasks, projects, or
-large goals.
-
-3. Individuals motivated by status strive to reach a position of influence in a
-group, organization, or situation.
-
-4. Individuals motivated by affiliation enjoy being part of a group larger than
-themselves.
-
 I understand the theory. Well, it is not easy to dig out the real motivation of
-my team members. I would like to talk about this in another speech.
+my team members. This is worth another speech. Stay tuned.
 
 Last but not least, the project closed as it should because every project should
 close in some way after its life cycle. I miss a big point here. Who knows what
@@ -81,7 +66,8 @@ Great! Benefits! One of greatest mistake in this project is that I had not defin
 the benefit when members reached their goals. My initial idea on this was that
 I still hope people could be self-motivated. But you see, this is against human
 nature. When you are the project manager, please make sure you have the right
-to define benefits, and put it on the table at the beginning of the project.
+to define benefits, whatever they are, just put it on the table at the beginning
+of the project. This will save you a lot effort.
 
 Let me summarize what I learned quickly.
 
