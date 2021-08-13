@@ -25,7 +25,7 @@ project is to encourage project team members to invite people to our club.
 
 As the project manager, my first thing is to form the project team.
 
-How easy is it! You may think. Who would you choose to be your project team members?
+How easy it is! You may think. Who would you choose to be your project team members?
 How would you invite them?
 
 I started to fight with myself about these questions. I hoped people would join the
@@ -42,7 +42,7 @@ them agreed? They all agreed. Thanks a lot.
 You see. Project management is against human nature even from the start. I have
 to conquer my fear to invite people. I could not expect people coming naturally.
 
-After we had a project team! I had to assign tasks. As the project manage, my
+After we had a project team, I had to assign tasks. As the project manage, my
 role is to motivate people to do things for me. Do you think this is with human
 nature or against human nature?
 
