@@ -62,7 +62,7 @@ Last but not least, the project closed as it should because every project should
 close in some way after its life cycle. I miss a big point here. Who knows what
 it is?
 
-Great! Benefits! One of greatest mistake in this project is that I had not defined
+Great! Benefits! One of greatest mistakes in this project is that I had not defined
 the benefit when members reached their goals. My initial idea on this was that
 I still hope people could be self-motivated. But you see, this is against human
 nature. When you are the project manager, please make sure you have the right
@@ -73,7 +73,7 @@ Let me summarize what I learned quickly.
 
 Project management is against human nature. I have to overcome fear to form the
 team, I need to find out the motivation to assign tasks and I must put benefits
-beforehand to achieve the project goals. Just as we know, if I want ants to come,
-I put sugar on the floor.
+beforehand to achieve the project goals. Just as we know, if we want ants to come,
+we put sugar on the floor.
 
 Thank you.
