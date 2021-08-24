@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Is project management against human nature?
-description: On 2021-08-15 gave this story/speech as I the level-5 project-1 of my 2nd Pathways in Yulife club of Toastmaster.
+title: pull the trigger
+description: On 2021-08-29 gave this story/speech as I the level-4 project-1 of my 2nd Pathways in Yulife club of Toastmaster.
 ---
 
 

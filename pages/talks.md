@@ -59,3 +59,4 @@ description: wxie's speeches
 - [TTM: emoji](speech/TTM_emoji.html)
 - [IE: ALC](speech/IE_alc.html)
 - [Is Project Management against Human nature?](speech/project_management_against_human_nature.html)
+- [Pull the trigger](speech/pull_the_trigger.html)
