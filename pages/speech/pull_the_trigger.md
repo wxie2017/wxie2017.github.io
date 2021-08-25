@@ -10,70 +10,46 @@ Distinguished guests,
 
 Good morning.
 
-Some of you may still remember that about one month ago I had given a brief speech
-about a project plan of inviting people to our club. Actually, I did form a project
-team and we did run the project for 4 weeks.
+The title of my speech is pull the trigger.
 
-This time I am going to talk about what I have learned in the project.
+What do you think I going to talk? Am I going to talk about shooting someone?
 
-The speech title is a question - Is project management against human nature?
+No, absolutely not.
 
-Dear audience, do you have an answer for it? Let's try.
+Last time I talked about my small project. I brought out the topic of motivating
+people. As I said, I am going to continue this topic.
 
-Here comes my experience in this small project. As you already know, the goal of the
-project is to encourage project team members to invite people to our club.
+Motivating people is hard. When you have a team, you need be familiar with the
+members individually and understand their expertise and their desire.
 
-As the project manager, my first thing is to form the project team.
+Your team members could have different needs or desires. Find out their is like
+to pull the trigger. Once motivated, people will move with energy.
 
-How easy it is! You may think. Who would you choose to be your project team members?
-How would you invite them?
+One of my team members said he wants our club to be a better community to live.
+What do you think is his desire here?
+I think it is affiliation, a sense of belonging. This is a very important human
+desire. This member enjoys to be part of a big group so he would be motivated to
+contribute to the group. Point out the benefit is for the group is his trigger.
 
-I started to fight with myself about these questions. I hoped people would join the
-project automatically. I waited for volunteers. Several days passed, guess how many
-people volunteered? Zero.
+Another team member said he would like to get more links to more people.
+What do you think is his desire here?
+I think it is also affiliation. He wants to be in a bigger group and meet more
+friends. Tell him my task could help him reach more people is a good motivation.
 
-I realized that I had to do the job by myself. It is so natural to invite a
-friend for a dinner, but it is so hard to invite a club member to join my
-project. I worried about what I should do if people refused to join the project.
+There are also members who are very excited to take part in speech contests.
+What do you think is their desire here?
+I think it is recognition. Some may say it is achievement. The two desires are
+very similar. If your team member wants to win a competition or win a contest,
+recognition is the best motivation. Tell her that finish Pathways level 2 will
+be qualified for international speech contest. This is her trigger.
 
-Anyway, I made up my mind to invite people. I invited 3 members. Guess how many of
-them agreed? They all agreed. Thanks a lot.
+People in Toastmasters clubs are often motivated by affiliation and recognition.
+Affiliation and recognition are the trigger for them. You can help them find
+their desires and pull the trigger.
 
-You see. Project management is against human nature even from the start. I have
-to conquer my fear to invite people. I could not expect people coming naturally.
-
-After we had a project team, I had to assign tasks. As the project manage, my
-role is to motivate people to do things for me. Do you think this is with human
-nature or against human nature?
-
-Of course, people would rather do things for themselves than for others.
-Human nature appears rational, doesn't it? If I want people work for my project,
-I need find out their motivation in doing so.
-
-The next step in leading a team to the successful completion of a project is
-to become acquainted with the members individually and understand their expertise.
-This is why leaders need to develop listening skills, second person perspective
-taking and empathy. That means learning about the power of incentives.
-
-I understand the theory. Well, it is not easy to dig out the real motivation of
-my team members. This is worth another speech. Stay tuned.
-
-Last but not least, the project closed as it should because every project should
-close in some way after its life cycle. I miss a big point here. Who knows what
-it is?
-
-Great! Benefits! One of greatest mistakes in this project is that I had not defined
-the benefit when members reached their goals. My initial idea on this was that
-I still hope people could be self-motivated. But you see, this is against human
-nature. When you are the project manager, please make sure you have the right
-to define benefits, whatever they are, just put it on the table at the beginning
-of the project. This will save you a lot effort.
-
-Let me summarize what I learned quickly.
-
-Project management is against human nature. I have to overcome fear to form the
-team, I need to find out the motivation to assign tasks and I must put benefits
-beforehand to achieve the project goals. Just as we know, if we want ants to come,
-we put sugar on the floor.
+In our club, we listen to people; we encourage people to do new things; we help
+people to reach their goals. These are the basic steps to motivate people. Moving
+with these steps, we will recognize people's dream, we will find out the desire,
+and we will help them pull the trigger, and then they become self-motivated.
 
 Thank you.
