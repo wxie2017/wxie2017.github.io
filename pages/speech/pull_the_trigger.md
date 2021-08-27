@@ -33,16 +33,16 @@ toy for him, and so on and so further. Most of time, the technics worked out.
 Why? Because we understand our son's interest and needs.
 
 The true key to understanding motivation starts with understanding people, and
-that must start with understanding yourself and your motivators. Then, you must
+that must start with understanding ourselves and our motivators. Then, we will
 realize that each person has different motivators and that the vast majority of
 them come from within, not from the outside. The team are and always will be
 more motivated to succeed for themselves and their goals than they will be for
 anything other reason. This is human nature.
 
-When you have a team, you need be familiar with the members individually,
+When we have a team, we need be familiar with the members individually,
 understand their expertise and find out their desire.
 
-Your team members could have different needs or desires. Find out their is like
+Our team members could have different needs or desires. Find out their is like
 to pull the trigger. Once motivated, people will move with energy.
 
 One of my team members said he wants our club to be a better community to live.
