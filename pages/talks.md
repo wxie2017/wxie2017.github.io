@@ -61,3 +61,4 @@ description: wxie's speeches
 - [Is Project Management against Human nature?](speech/project_management_against_human_nature.html)
 - [Pull the trigger](speech/pull_the_trigger.html)
 - [GE: a template](speech/GE_a_template.html)
+- [A proposal of Yu-life club member rewards program](speech/member_reward_program.html)
