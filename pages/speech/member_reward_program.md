@@ -36,7 +36,7 @@ My speech is in the following parts:
 
 1. A very brief introduction of Toastmasters organization
 
-1.1 TI - D85 district - N area - N4 area - Yu-Life Club
+1.1 TI - Region - District D85 - Division N - Area 4 - Yu-Life Club
 
 1.2 Club members: officers + non-officers (6-month term)
 
