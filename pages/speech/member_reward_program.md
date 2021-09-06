@@ -38,6 +38,12 @@ My speech is in the following parts:
 
 1.1 TI - Region - District D85 - Division N - Area 4 - Yu-Life Club
 
+Region: 14
+
+District: 106
+
+Region 14 - D85: 江浙沪，安徽，武汉，湖南，江西
+
 1.2 Club members: officers + non-officers (6-month term)
 
 1.3 Club meeting: SAA - TMD - GE + Timer/Ah-Counter/Grammarian
@@ -49,7 +55,7 @@ My speech is in the following parts:
 
 As we see at the beginning, the goal of member rewards program
 is to motivate club members to improve and build trust between
-club and organization. Membership programs have proven
+members and the club. Membership programs have proven
 themselves as one of the most effective tactics for increasing
 club members and inspiring member loyalty.
 
@@ -65,26 +71,29 @@ points from inviting people, evaluation, being meeting officer, etc.
 
 2.3 How
 
-Education:
-TMD/Timer/Ah-Counter/Grammarian - 10
-SAA/TTM/TTE/IE                  - 10
-prepared speech                 - 15
-GE                              - 15
-finish one level                - 20
-finish one path                 - 50
+Education|points
+---------|------
+TMD/Timer/Ah-Counter/Grammarian |10
+SAA/TTM/TTE/IE                  | 10
+prepared speech                 | 15
+GE                              | 15
+finish one level                | 20
+finish one path                 | 50
 
-Social activity:
-attend meeting once             - 5
-invite one friend               - 10
-be meeting role in other club   - 10
-attend area training            - 20
-be a role in area meeting       - 50
+Social activity|points
+---------------|------
+attend meeting once             | 5
+invite one friend               | 10
+be meeting role in other club   | 10
+attend area training            | 20
+be a role in area meeting       | 50
 
-Contest:
-be a judge or role             - 10
-join club contest               - 15
-join area contest               - 30
-join district contest           - 50
+Contest|points
+-------|------
+be a judge or role             | 10
+join club contest              | 15
+join area contest              | 30
+join district contest          | 50
 
 2.4 Rewards
 
@@ -96,11 +105,13 @@ limited resource for monetized rewards. To do the program, we
 have to find some other financial support. The below is just
 my personal idea and it is open to discussion.
 
-Free meeting entrance for one person - 200
-5$ gift certificate in TI website    - 300
-10$ gift certificate in TI website   - 500
-15$ gift certificate in TI website   - 700
-20$ gift certificate in TI website   - 800
+Benefits|points
+--------|------
+Free meeting entrance for one person | 200
+5$ gift certificate in TI website    | 300
+10$ gift certificate in TI website   | 500
+15$ gift certificate in TI website   | 700
+20$ gift certificate in TI website   | 800
 
 With these certificates, you can buy gifts, books, tools
 from Toastmasters shops.
