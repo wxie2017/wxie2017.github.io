@@ -53,3 +53,4 @@ None yet!
 - [Docker的故事](article/Docker的故事.html)
 - [故事与愿望](article/故事与愿望.html)
 - [孩子接种新冠疫苗亲历](article/covid-19-vaccine.html)
+- [软件定义汽车峰会侧记](article/软件定义汽车峰会侧记.html)
