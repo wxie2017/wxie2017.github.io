@@ -17,20 +17,18 @@ fitness center member.
 
 Ok. Most of us have. I have a few, too.
 
-I am a Yu-Life Toastmasters club member. I have a credit card, which
-I am the Platinum member. I am a China Southern Airline member. I am
-a Burger King member, and so on and so forth.
+I am a Yu-Life Toastmasters club member. I am a China Southern Airline
+member. I am a Burger King member, and so on and so forth.
 
-Here comes the next question: why do we have so many membership?
+Here comes the next question: why do we have so many memberships?
 
 Very good! We want benefits and the organizations want loyalty. The
 membership program is so important that over 90% companies have
-some kind of membership program.
+some kind of membership programs.
 
 It is also true in the non-profit world, like Toastmasters.
 
-Today, my speech is about the Yu-Life Toastmasters club's membership
-rewards program.
+Today, I want to propose a Yu-Life club member rewards program.
 
 My speech is in the following parts:
 
@@ -59,6 +57,11 @@ members and the club. Membership programs have proven
 themselves as one of the most effective tactics for increasing
 club members and inspiring member loyalty.
 
+Yu-Life club is a good club with all of you here, and we do not
+have a member rewards program yet. Don't you think we need one?
+
+Yes, we need one, a good one.
+
 2.2 Categories
 
 Points - Tier - Paid - Value
@@ -73,7 +76,7 @@ points from inviting people, evaluation, being meeting officer, etc.
 
 Education|points
 ---------|------
-TMD/Timer/Ah-Counter/Grammarian |10
+TMD/Timer/Ah-Counter/Grammarian | 10
 SAA/TTM/TTE/IE                  | 10
 prepared speech                 | 15
 GE                              | 15
@@ -84,7 +87,7 @@ Social activity|points
 ---------------|------
 attend meeting once             | 5
 invite one friend               | 10
-be meeting role in other club   | 10
+be a role in other clubs        | 10
 attend area training            | 20
 be a role in area meeting       | 50
 
