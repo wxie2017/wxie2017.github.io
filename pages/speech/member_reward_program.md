@@ -1,6 +1,6 @@
 ---
 layout: page
-title: A proposal of Yu-life Club member reward program
+title: A proposal of Yu-life Club member rewards program
 description: On 2020-09-12 I gave this speech as I the level-5 project-2 of my Pathways in Yulife club of Toastmaster.
 ---
 
