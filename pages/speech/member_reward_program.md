@@ -98,6 +98,25 @@ join club contest              | 15
 join area contest              | 30
 join district contest          | 50
 
+Here let's see an example.
+
+Once I invited a friend and attended a club meeting together. In
+the meeting, I delivered a prepared speech and also acted as an
+Individual Evaluator.
+
+Please calculate how many points I will get.
+
+Activity | point
+-------- | -----
+attend a meeting          | 5
+Invite a friend           | 10
+deliver a prepared speech | 15
+be an IE                  | 10
+--------------------------|---
+total                     | 40
+
+So I will get 40 points after this meeting.
+
 2.4 Rewards
 
 Points are valid as long as membership is continued.
