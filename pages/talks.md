@@ -62,3 +62,4 @@ description: wxie's speeches
 - [Pull the trigger](speech/pull_the_trigger.html)
 - [GE: a template](speech/GE_a_template.html)
 - [A proposal of Yu-life club member rewards program](speech/member_reward_program.html)
+- [Table Topics material: the President of America](speech/TT_president_USA.html)
