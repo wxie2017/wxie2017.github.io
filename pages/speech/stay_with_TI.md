@@ -31,6 +31,14 @@ My review consists of the following four parts:
 
 1. my accomplishments in Toastmasters
 
+2. my accomplishments outside of Toastmasters
+
+3. the impact of being a Toastmasters
+
+4. next steps
+
+## my accomplishments in Toastmasters
+
 For this Pathways, I have accomplished the following projects:
 
 level 1|
@@ -63,14 +71,6 @@ project 2 | Prepare to Speak Professionally
 
 Pathways Reflection|
 -------------------|
-
-2. my accomplishments outside of Toastmasters
-
-3. the impact of being a Toastmasters
-
-4. next steps
-
-## my accomplishments in Toastmasters
 
 The hardest thing was to start. That's where the mentor comes in. My mentor
 reminded me to start my IceBreaker.
