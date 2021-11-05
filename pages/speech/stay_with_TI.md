@@ -31,9 +31,8 @@ What is the most important thing to do when you finish a task?
 Yes, review the lessons learned, so the last thing you do for
 your Pathways is to reflect.
 
-Today I am going to review my second completed Pathways - Motivational
-Strategy, and I want to tell you that stay with Toastmasters, Pathways
-open.
+Today I am going to review my second completed Pathways, and I
+want to tell you that stay with Toastmasters, Pathways open.
 
 My review consists of the following four parts:
 
@@ -47,7 +46,11 @@ My review consists of the following four parts:
 
 ## my accomplishments in Toastmasters
 
-For this Pathways, I have accomplished the following projects:
+
+For this Pathways, I have done about 13 prepared speeches already, and
+some I have to do more than once because we have very strict evaluators.
+
+I have accomplished the following projects:
 
 level 1|
 -------|
@@ -77,17 +80,16 @@ level 5|
 project 1 | Team Building: Is project management against human nature?
 project 2 | Prepare to Speak Professionally: Member Rewards Program
 
+
 The first Ice Breaker may be easy, but how about a second Ice Breaker?
 How would you choose your second introduction? I did a speech titled
-"Bold". Who still remember the meaning of bold?
+"Bold". Who still remember the meaning of bold? That was my new year's
+resolution for 2021.
 
-So you can select a topic as you like.
-
-Of course, a whole Pathways consists of many projects. I have done about
-13 prepared speeches already, and some I have to do more than once because
-we have very strict evaluators.
+So you can always find a topic to talk.
 
 The whole Pathways is a great training:
+
 writing the speech, practicing the speech, delivering the speech, receiving
 feedback, implementing feedback in the next speech. My communication skills
 have been improved dramatically.
@@ -109,8 +111,9 @@ use gestures, facial expression and vocal varieties to convey their main
 point? These help me a lot in learning and understanding.
 
 The communication skills also make my family life much better because I
-know that positive and supportive talk. I always find the shining points
-of the other parties. I feel the power of encouragement.
+know the benefit of positive and supportive talk. I listen actively and
+always find the shining points of the other parties. I feel the power
+of encouragement.
 
 
 ## the impact of being a Toastmasters
