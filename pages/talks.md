@@ -64,3 +64,4 @@ description: wxie's speeches
 - [A proposal of Yu-life club member rewards program](speech/member_reward_program.html)
 - [Table Topics material: the President of America](speech/TT_president_USA.html)
 - [Pathways Reflection: Stay with Toastmasters, Pathways open](speech/stay_with_TI.html)
+- [Congratulations, Club Officers](speech/new_club_officers.html)
