@@ -5,7 +5,29 @@ description: On 2021-12-05 I gave this talk to the newly elected club officers o
 ---
 
 
-Congratulations, new club officers!
+Above all, I would like to thank the present club officers:
+VPE - Justus
+VPM - weili
+VPPR - Peter
+Secretary - Justus
+Treasurer - Julie
+SAA - Wing
+
+Without you, the term would not start, let alone finish.
+Let's give them a big round of applaud.
+
+Now congratulations, new club officers!
+President - Wuzhong
+VPE - Justus
+VPM - Peter
+VPPR - Shannon
+Secretary - wxie
+Treasurer - Julie
+SAA - Wing
+
+VPE assistant - Coco/Emma
+VPM assistant - Grace
+VPPR assistant - Winnie
 
 You’re in good company. With more than 15,800 clubs worldwide and
 seven officer positions for each club, that’s potentially 110,600
