@@ -35,6 +35,15 @@ leaders! Maybe you’re like I was, a bit intimidated, especially if
 you are a first-time officer. Relax! You still have Lao-xie at the
 disposal, and my help is always available.
 
+Speak to the SAA:
+
+Will you, as SAA, accept this challenge and perform your
+duties to the best of your abilities?”
+
+The incoming Club SAA responds, “I will.”
+
+Then move to treasurer - secretary - VPPR -VPM -VPE - President.
+
 Here are my Advice for All Club Officers
 
 The seven nominated club officer positions are president, vice
