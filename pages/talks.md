@@ -15,29 +15,9 @@ description: wxie's speeches
 
 ### <a name="speeches"></a>speeches
 
-#### 2020
+#### 2022
 
-- [My Toastmaster joining speech](speech/my_toastmaster_joining_speech.html)
-- [Understanding your communication style](speech/understanding_your_communication_style.html)
-- [Introduction to Free Software](speech/introduction_to_free_software.html)
-- [Why Free Software](speech/why_free_software.html)
-- [Make the Best Use of your communication style](speech/make_best_use_of_communication_style.html)
-- [Schools should only use free software](speech/schools_use_free_software.html)
-- [Meeting opening speech for Sergeant At Arms](speech/meeting_opening_speech_of_SAA.html)
-- [The Joy of passing level 1 Pathways](speech/joy_of_level_1.html)
-- [Am I mentally ready for my mentor?](speech/mentally_ready_for_mentor.html)
-- [Free Software is even more important today](speech/free_software_even_more_important.html)
-- [Social Speech 1: Acceptance Speech of becoming club SAA](speech/acceptance_of_club_SAA.html)
-- [Social Speech 2: Welcome new club members](speech/welcome_new_member.html)
-- [NMO speech: Toastmasters is your stage](speech/Toastmasters_is_your_stage.html)
-- [GNU and Free Software](speech/GNU_and_free_software.html)
-- [The story of a rooster](speech/story_of_rooster.html)
-- [Table Topic Speech: online shopping](speech/TTM_online_shopping.html)
-- [copyright vs. copyleft](speech/copyright_vs_copyleft.html)
-- [Table Topic Speech: copyright vs. copyleft](speech/TTM_copyright_vs_copyleft.html)
-- [Meeting opening speech for General Evaluator](speech/meeting_opening_speech_of_GE.html)
-- [Numbers and Social Media](speech/numbers_and_social_media.html)
-- [Meeting opening speech for Toastmaster of the day](speech/meeting_opening_speech_of_TMD.html)
+- [Free Softwaare for you and for me](speech/fs_for_you_and_for_me.html)
 
 #### 2021
 
@@ -67,6 +47,26 @@ description: wxie's speeches
 - [Congratulations, Club Officers](speech/new_club_officers.html)
 - [Toast for you](speech/toast_for_you.html)
 
-#### 2022
+#### 2020
 
-- [Free Softwaare for you and for me](speech/fs_for_you_and_for_me.html)
+- [My Toastmaster joining speech](speech/my_toastmaster_joining_speech.html)
+- [Understanding your communication style](speech/understanding_your_communication_style.html)
+- [Introduction to Free Software](speech/introduction_to_free_software.html)
+- [Why Free Software](speech/why_free_software.html)
+- [Make the Best Use of your communication style](speech/make_best_use_of_communication_style.html)
+- [Schools should only use free software](speech/schools_use_free_software.html)
+- [Meeting opening speech for Sergeant At Arms](speech/meeting_opening_speech_of_SAA.html)
+- [The Joy of passing level 1 Pathways](speech/joy_of_level_1.html)
+- [Am I mentally ready for my mentor?](speech/mentally_ready_for_mentor.html)
+- [Free Software is even more important today](speech/free_software_even_more_important.html)
+- [Social Speech 1: Acceptance Speech of becoming club SAA](speech/acceptance_of_club_SAA.html)
+- [Social Speech 2: Welcome new club members](speech/welcome_new_member.html)
+- [NMO speech: Toastmasters is your stage](speech/Toastmasters_is_your_stage.html)
+- [GNU and Free Software](speech/GNU_and_free_software.html)
+- [The story of a rooster](speech/story_of_rooster.html)
+- [Table Topic Speech: online shopping](speech/TTM_online_shopping.html)
+- [copyright vs. copyleft](speech/copyright_vs_copyleft.html)
+- [Table Topic Speech: copyright vs. copyleft](speech/TTM_copyright_vs_copyleft.html)
+- [Meeting opening speech for General Evaluator](speech/meeting_opening_speech_of_GE.html)
+- [Numbers and Social Media](speech/numbers_and_social_media.html)
+- [Meeting opening speech for Toastmaster of the day](speech/meeting_opening_speech_of_TMD.html)

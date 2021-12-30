@@ -9,7 +9,7 @@ Good morning.
 
 Some of you ask me: what do you do for a living?
 
-Normally I answer I am doing software for vehicle systems.
+Normally I answer I am doing software related work for vehicle systems.
 
 Software? The reaction seems that I am talking something mysterious or far
 away from our daily life.
@@ -33,17 +33,48 @@ Today I want to talk to about
 
 You can raise your questions at the end of my talk.
 
+### what is software
+
 As we see, we use software every day, wechat is a software, for example.
 
 For me, software is a program, and it is product. It has different appearances.
 
 Sometimes it is like this (an icon) - how do you run this program?
 
-Sometimes it is like this (binary form) - could you read it? I think this is
-why people think software is mysterious.
+In general, a software is program, and it is a file in your device.
 
-Sometimes it is like this (source code form) - could you read it? Is it still
-mysterious?
+Sometimes it is like this (binary form) - could you read it? Could you understand
+what the program is doing? I think this is why people think software is mysterious.
+
+Sometimes it is like this (source code form) - could you read it? Is it still mysterious?
+
+From the source code to binary you need a compiler, like this. In the past, if you
+can make a good compiler, you would make a good fortune, as least a millionaire.
+
+Binary is for the computer, and source code is for human beings.
+
+One question to you all, what do you get for your program? Is is in binary form, or in
+source code form?
+
+If human beings could not understand binary, why wouldn't we get the source code?
+
+This is not ethical, not justice. Our computing freedom should not be controlled
+by other people.
+
+Here comes free software.
+
+### what is free software
+
+Who can tell us what is the Chinese for Free Software?
+
+Free as an English word has 2 basic meaning:
+
+1. free of charge, like free lunch; we can use gratis instead of free for this meaning.
+
+2. free as in freedom, like free speech; this is the meaning for free software; sometimes
+we also use libre software to refer to the same thing.
+
+The official definition of Free Software is
 
 - Freedom 0: free to run the software as you wish for any purpose.
 - Freedom 1: free to study how the software works and make changes as you wish.
@@ -52,49 +83,39 @@ mysterious?
 
 In short, Free software means user can run, copy, distribute, study, change and improve the software.
 
-Today, I will try to explain why we need free software. Who has a reason?
+The software which is not free software we call it nonfree software, or proprietary software.
+Nonfree software will not give 4 freedoms above.
 
-First of all, let's talk about the copyright system. It grew up with printing—a technology
-for mass-production copying. Copyright fit in well with this technology because it restricted
-only the mass producers of copies. It did not take freedom away from readers of books. An
-ordinary reader, who did not own a printing press, could copy books only with pen and ink,
-and few readers were sued for that.
+### some free software for you and for me
 
-Now we are in the era of digital information technology. It contributes to the world by
-making copy and modification of information easier. Digital technology is more flexible than
-the printing press: when information has digital form, you can easily copy and share it
-with others.
+You deserve free software, but you are not used to having free software.
 
-Not everyone wants it to be easier. The system of copyright gives software programs “owners”,
-most of whom aim to withhold software's potential benefit from the rest of the public. They
-would like to be the only ones who can copy and modify the software that we use.
+Let's check if you can tell if the following programs are free software.
 
-On the other side, what does society need? It needs information that is truly available to
-its citizens—for example, programs that people can read, fix, adapt, and improve, not just
-operate. But what software owners typically deliver is a black box that we can't study or
-change. The users lose freedom to control part of their own lives.
+Wechat
 
-Above all, sharing knowledge make human kind survive and thrive. Human society needs to
-encourage the spirit of voluntary cooperation in its citizens. When software owners tell us
-that helping our neighbors in a natural way is “piracy”, they pollute our society's civic
-spirit, and they prevent knowledge sharing. They leave human kind in danger.
+Microsoft Powerpoint
 
-This is why we say that free software is a matter of freedom, not price.
+Here I have some free software for you to use
 
-As a computer user today, you may find yourself using a proprietary program. If your friend asks
-a copy, it would be wrong to refuse. But if you copy, you voliate the agreement with the
-proprietary software. What should you do? Would you want to be a person living an upright life
-openly with pride? This means saying no to proprietary software.
+Firefox - a web browser
 
-Dear friends, you deserve to be able to cooperate openly and freely with other people who use
-software. You deserve to be able to learn how the software works, and to teach your kids,
-students and friends with it. You deserve to be able to hire your favorite programmer to fix it
-when it breaks.
+Jitsi meeting - a group meeting application
 
-You deserve free software.
+LibreOffice - a suit to replace the nonfree MS Office.
 
-That's the very ethical reason to have free software.
+As a software user, the only way to have control over our computing is
+to use Free Software.
+
+### summary
+
+After this sharing, if I want you to take something with you, I would say
+
+1. use Gratis instead of free when you mean costless
+
+2. use free software instead of proprietary software when possible
+
+A thousand-mile journey starts with a single step, each step towards your
+software freedom is a good step.
 
 Thank you.
-
-reference: [why software should not have owners](https://www.gnu.org/philosophy/why-free.html)
