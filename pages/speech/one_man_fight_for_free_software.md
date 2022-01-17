@@ -1,0 +1,112 @@
+---
+layout: page
+title: One Man's fight for Free Software
+description: On 2022-01-23 I gave this sharing in Yulife Toastmaster Club.
+---
+
+
+Dear Fellow humans,
+
+Good morning.
+
+As human beings, we all grow up with some heros. Right?
+
+The heros could be your parents who help you solve every problem in life.
+
+The hero could be a cartoon figure like Ultraman who has super power and does good deeds.
+
+The hero could be a person who changed our view of the universe, like Einstien.
+
+The hero could be a person who changed our view of human beingv, like Darwin.
+
+Today, I am going to introduce you a living hero, a man from Boston who has
+been fighting for our software freedom almost 40 years.
+
+His name is Richard Stallman, also known as rms.
+
+Who of you had a computer 40 years ago? Or may 30 years ago, or 20 years ago? 10?
+
+What is the operatin system of your computer?
+
+Is it windows? Is it the only operating system you know?
+
+30 years ago, I did not have a computer, but as a student I have an account in our
+Institute's computer system. The operating system was UNIX.
+
+Have you ever heard of UNIX? Ok, I am confident to continue.
+
+When Richard Stallman was a student in MIT, he did not use UNIX but the MIT AI lab's
+own operating system.
+
+I have talked about Free Software twice in our club meeting. Today I want to share more on this topic.
+
+* Let's look at some examples
+
+Questions: which of the following software is free software?
+(show the presentation)
+
+1. Wechat (the message program by Tencent)
+
+2. MS Excel (an office tool for calculation)
+
+3. Firefox (a web browser)
+
+4. GNU Emacs (an extensible text editor and more)
+
+According to the definition of free software:
+
+Freedom 0: free to run the program as you wish
+
+Freedom 1: free to study the program and make changes as you wish
+
+Freedom 2: free to distribute the original program
+
+Freedom 3: free to distribute modified version of the program
+
+We know that program 1 and 2 are not free software, please think about the reason.
+You may not be familiar with program 3 (Firefox) or program 4 (GNU Emacs), but they
+are free software. They give the users the 4 freedoms.
+
+You many noticed that in program 4, there is a "GNU" before Emacs. You may wonder:
+
+* What's GNU?
+
+Does anybody know about Unix? Good.
+
+Unix is an operation system just like Windows. GNU mean GNU's Not Unix!
+Do you see the humor in it? The name of the system, GNU, is a recursive acronym
+—a way of paying tribute to the technical ideas of Unix, while at the same
+time saying that GNU is something different.
+
+GNU was launched by Richard Stallman (rms) in 1983, as an operating system which
+would be put together by people working together for the freedom of all software
+users to control their computing. rms remains the Chief GNUisance today. He is
+still in charge of the GNU project.
+
+The primary and continuing goal of GNU is to offer a Unix-compatible system that
+would be 100% free software. Not 95% free, not 99.5%, but 100%. Technically, GNU
+is like Unix. But unlike Unix, GNU gives its users freedom.
+
+* The birth of GNU means the start of free software movement.
+
+The project to develop GNU system is called GNU project, which started in January 1984.
+The Free Software Foundation was founded in October 1985, initially to raise funds to
+help develop GNU. 2020 is the 35th anniversary of Free Software Foundation.
+
+We know 25th anniversary is called silver, 50th anniversary is called gold. Who knows
+what is the name for 35th anniversary?
+
+Yes. It is called coral. So 2020 is the coral anniversary of FSF.
+
+Today, tens of millions of people now use GNU/Linux systems, a free operating system from
+GNU and free software community. How far can free software go? There are no limits.
+
+After 35 years, in many ways, free software is only just getting started, as the technological
+landscape endlessly shifts and new threats -- and opportunities -- emerge. The free software
+community pledge to match all the commitment, along with all of the hard work, there is
+plenty of joy and fun to be had along the way to the goal: a world where all software is free,
+forever.
+
+Thanks to GNU and thanks to free software.
+
+Thank you.
