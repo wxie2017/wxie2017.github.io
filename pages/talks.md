@@ -17,8 +17,8 @@ description: wxie's speeches
 
 #### 2022
 
-- [Free Softwaare for you and for me](speech/fs_for_you_and_for_me.html)
 - [One Man's Fight for Free Softwaare](speech/one_man_fight_for_free_software.html)
+- [Free Softwaare for you and for me](speech/fs_for_you_and_for_me.html)
 
 #### 2021
 
