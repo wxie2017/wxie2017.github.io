@@ -58,7 +58,7 @@ Don't you agree? Being nice makes my life happier.
 To be nice is to be positive. We all want a relaxed, no-tension environment.
 But sometime there is a conflict and there can be opinions I disagree like in
 the wolves game. To be nice is particularly necessary in these situations.
-For example, in a Toastmasters meetings, an evaluator may use some strong
+For example, in a Toastmasters meeting, my evaluator may use some strong
 words on my speech, I may feel uncomfortable. But I should still give my
 appreciation. Anyway, the evaluator is another human being, just like myself.
 She just intended to help me regardless of which word she uses in her evaluation.
@@ -67,9 +67,9 @@ interests through ongoing conversation, we are all fine.
 
 Being nice and positive helps build a friendly community.
 
-The game continued, and I as a dead player, observed the different behaviors
-from the other players. Finally, I see something there: the long-lived players
-always start the communication from
+The wolf's game continued, and I as a dead player, observed the different
+behaviors from the other players. Finally, I see something there: the
+long-lived players always start the communication from
 
 Being nice!
 
