@@ -18,7 +18,7 @@ Are we allowed to read these books? Do we have the right to read them?
 
 Am I kidding to ask this question?
 
-Of course not, we all have the right to read. It is one of the foundations of a democratic
+No, of course not. We all have the right to read. It is one of the foundations of a democratic
 society. Reading allows us to meet people, to debate philosophies, and to experience events
 far beyond the narrow confines of our own existence. Reading books also gives us a lot of fun,
 and it is particularly important during the time of pandemic when our mouths become privacy
@@ -48,7 +48,7 @@ we call it Digital Restrictions Management (DRM, for short) to forbid the sharin
 The e-books are on-purposely designed like this so that only that particular software
 with that malicious functionality can display them.
 
-How you ever tried this?
+Have you ever tried this?
 
 DRM is the computer-enforced restrictions on lending or reading books. It is a denial to
 the individual's right to read.
@@ -70,12 +70,13 @@ when the reader highlights text, and any notes the reader enters. This is a kind
 of Digital surveillancev, just like your Cell phones can be remotely activated to
 listen to the your conversations without giving any sign of listening.
 
-It has DRM, which is intended to block readers from sharing copies.
+Kindle has DRM, which is intended to block readers from sharing copies as you
+have already known.
 
 It has a back door with which Amazon can remotely erase any book. In 2009, it
 erased thousands of copies of 1984, by George Orwell. Readers experienced that
 the pages magically disappeared just in front of their eyes. Virtual book-burning,
-is that what “Kindle” means? This is a kind of censorship. Not onle have we no
+is that what “Kindle” means? This is a kind of censorship. Not only have we no
 control over our devices and books, but also the devices threats our lives.
 
 If these policies were limited to Amazon, we'd bypass them, but the other e-book
