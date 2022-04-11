@@ -25,18 +25,18 @@ keywords: wxie, free software, freelancer, CTT
 <table class="wide">
 <tr>
   <td class="left">
-    <a href="https://yulifeclub.gitlab.io/"></a>
+    <a href="https://yulifeclub.gitlab.io/">Yu-Life Toastmasters Club</a>
   </td>
   <td class="right">
-    <a href="https://schools-disappeared-in-china.gitlab.io/webpages/schools.html"></a>
+    <a href="https://schools-disappeared-in-china.gitlab.io/webpages/schools.html">Schools Disappeared in China</a>
   </td>
 </tr>
 <tr>
   <td class="left">
-    <a href="https://www.gnu.org/"></a>
+    <a href="https://www.gnu.org/">GNU Home</a>
   </td>
   <td class="right">
-    <a href="https://www.fsf.org/"></a>
+    <a href="https://www.fsf.org/">FSF Frontpage</a>
   </td>
 </tr>
 </table>
