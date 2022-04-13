@@ -23,6 +23,7 @@ None yet!
 
 #### 2022
 
+- [期中考试考前分享](article/midterm-exam-2022.html)
 - [上海 lockdown 亲历（一）](article/上海-lockdown-亲历-1.html)
 - [上海 lockdown 亲历（二）](article/上海-lockdown-亲历-2.html)
 
