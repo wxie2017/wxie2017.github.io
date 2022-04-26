@@ -24,7 +24,7 @@ description: thought on 2022-04-26
 主打文章有一篇是老方人道主义力作——不能解救政府，就来解救人民吧。
 
 就是这篇如何在乱世中求生的指导：
-（奥密克戎将会传遍中国，老百姓要怎么自保？）[https://www.newxys6.com/xys/netters/Fang-Zhouzi/kexueshijie/coronavirus24.txt]
+[奥密克戎将会传遍中国，老百姓要怎么自保？](https://www.newxys6.com/xys/netters/Fang-Zhouzi/kexueshijie/coronavirus24.txt)
 
 我知道你可能看不到，做个储备总结。
 
