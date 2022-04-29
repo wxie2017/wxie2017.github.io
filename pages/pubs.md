@@ -23,6 +23,7 @@ None yet!
 
 #### 2022
 
+- [上海 lockdown 亲历（十九）](article/上海-lockdown-亲历-19.html)
 - [上海 lockdown 亲历（十八）](article/上海-lockdown-亲历-18.html)
 - [上海 lockdown 亲历（十七）](article/上海-lockdown-亲历-17.html)
 - [上海 lockdown 亲历（十六）](article/上海-lockdown-亲历-16.html)
