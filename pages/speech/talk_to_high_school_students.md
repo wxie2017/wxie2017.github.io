@@ -232,3 +232,7 @@ BNT162b2 疫苗最后一共有 120 个 A。
 今天，我们还在封闭之中。将来，你们用你们的智慧让我们不再封闭。
 
 谢谢大家。
+
+
+参考文献
+[Reverse Engineering the source code of the BioNTech/Pfizer SARS-CoV-2 Vaccine](https://berthub.eu/articles/posts/reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/)
