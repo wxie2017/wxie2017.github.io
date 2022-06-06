@@ -25,27 +25,18 @@ keywords: wxie, free software, freelancer, CTT
 <table class="wide">
 <tr>
   <td class="left">
-    <a href="pages/publpics/iplotCorr.html">
-        <img src="assets/publpics/iplotCorr.png" alt="R/qtlcharts example" title="R/qtlcharts example"/>
-    </a>
+    <a href="https://yulifeclub.gitlab.io/">Yu-Life Toastmasters Club</a>
   </td>
   <td class="right">
-    <a href="pages/publpics/mppdiag_fig4.html">
-        <img src="assets/publpics/mppdiag_fig4.png" alt="Broman et
-        al. (2019) Fig 4" title="Broman et al. (2019) Fig 4"/>
-    </a>
+    <a href="https://schools-disappeared-in-china.gitlab.io/webpages/schools.html">Schools Disappeared in China</a>
   </td>
 </tr>
 <tr>
   <td class="left">
-    <a href="pages/publpics/samplemixups_fig7.html">
-        <img src="assets/publpics/samplemixups_fig7.png" alt="Broman et al. (2015) Fig 7" title="Broman et al. (2015) Fig 7"/>
-    </a>
+    <a href="https://www.gnu.org/">GNU Home</a>
   </td>
   <td class="right">
-    <a href="pages/publpics/rqtl2_fig1.html">
-        <img src="assets/publpics/rqtl2_fig1c.png" alt="Broman et al. (2019) Fig 1c" title="Broman et al. (2019) Fig 1c"/>
-    </a>
+    <a href="https://www.fsf.org/">FSF Frontpage</a>
   </td>
 </tr>
 </table>

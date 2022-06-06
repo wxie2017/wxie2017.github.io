@@ -17,7 +17,11 @@ description: wxie's speeches
 
 #### 2022
 
+<<<<<<< HEAD
 - [Run for VPE](speech/run_for_vpe.html)
+=======
+- [和位育中学高二年级的同学探讨生物学习与生活](speech/talk_to_high_school_students.md)
+>>>>>>> origin/master
 - [Right to Read](speech/right_to_read_2.html)
 - [Be Nice](speech/be_nice_2.html)
 - [One Man's Fight for Free Software](speech/one_man_fight_for_free_software.html)
