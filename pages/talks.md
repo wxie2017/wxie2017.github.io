@@ -17,10 +17,11 @@ description: wxie's speeches
 
 #### 2022
 
+- [Run for VPE](speech/run_for_vpe.html)
 - [Right to Read](speech/right_to_read_2.html)
 - [Be Nice](speech/be_nice_2.html)
-- [One Man's Fight for Free Softwaare](speech/one_man_fight_for_free_software.html)
-- [Free Softwaare for you and for me](speech/fs_for_you_and_for_me.html)
+- [One Man's Fight for Free Software](speech/one_man_fight_for_free_software.html)
+- [Free Software for you and for me](speech/fs_for_you_and_for_me.html)
 
 #### 2021
 
