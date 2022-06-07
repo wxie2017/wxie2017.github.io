@@ -17,7 +17,7 @@ As a VPE, I will
 
 1. help the club members grow
 
-2. orgnize high quality club meetings
+2. organize high quality club meetings
 
 To do this, I will
 
@@ -27,12 +27,12 @@ To do this, I will
 
 # a qualified mentor
 
-# a personalized growth plan
+# personal growth awards
 
 
 1. plan 6-month meeting schedule
 
-# meeting theme
+# meeting theme/manager
 
 # Table Topics
 
