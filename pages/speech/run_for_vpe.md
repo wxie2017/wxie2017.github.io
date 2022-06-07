@@ -17,26 +17,26 @@ As a VPE, I will
 
 1. help the club members grow
 
-2. organize high quality club meetings
+1. organize high quality club meetings
 
 To do this, I will
 
-1. present each new member a package
+## present each new member a package
 
-# a Pathway for Toastmasters
+1. a Pathway for Toastmasters
 
-# a qualified mentor
+1. a qualified mentor
 
-# personal growth awards
+1. personal growth awards
 
 
-1. plan 6-month meeting schedule
+## plan 6-month meeting schedule
 
-# meeting theme/manager
+1. meeting theme/manager
 
-# Table Topics
+1. Table Topics
 
-# Prepared speeches
+1. Prepared speeches
 
 To fulfill the seemingly daunting tasks, I will definitely need help and
 advice from each and every one of you: officers, members and guests. Please
