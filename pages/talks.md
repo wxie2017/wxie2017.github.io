@@ -17,6 +17,7 @@ description: wxie's speeches
 
 #### 2022
 
+- [We are here, and we care](speech/we_are_here_care.html)
 - [Run for VPE](speech/run_for_vpe.html)
 - [和位育中学高二年级的同学探讨生物学习与生活](speech/talk_to_high_school_students.md)
 - [Right to Read](speech/right_to_read_2.html)
