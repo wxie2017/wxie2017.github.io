@@ -34,10 +34,16 @@ another individual is a rewarding and challenging experience.
 Grace is one of my proteges.
 
 I still remember on November 14th last year. Grace and I sat down at the
-table here in the club. Grace selected her Pathways. And we set the goal
-and plan that she could finish her level 2 in February.
+table here in the club.
 
-Since then I took this goal seriously.
+"Congratulations, Grace. You have done your Ice Breaker."
+"Thank you, mentor, for the evalution."
+"You can take my evaluation and prepare for your next speech."
+"Alright, mentor."
+
+We set the goal and plan that Grace could finish her level 2 in February.
+
+Since then I care this goal seriously.
 
 Dear fellow members, you know there are various kinds of people.
 Some move fast, some move slowly. Guess what kind Grace is. She was fast
@@ -71,6 +77,6 @@ a fifth value from the mentor program - what is it? Care! Yes, care.
 
 To care means when we tell people Toastmasters is good, and people join,
 we should take care of them. Everybody is part of the mentor program.
-We are all here and we care.
+We are all here and we should all care.
 
 Thank you.
