@@ -23,6 +23,7 @@ None yet!
 
 #### 2022
 
+- [上海 lockdown 之风云突变（四）](article/上海-lockdown-风云突变-4.html)
 - [上海 lockdown 之风云突变（三）](article/上海-lockdown-风云突变-3.html)
 - [上海 lockdown 之风云突变（二）](article/上海-lockdown-风云突变-2.html)
 - [上海 lockdown 之风云突变（一）](article/上海-lockdown-风云突变-1.html)
