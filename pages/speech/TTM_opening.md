@@ -11,10 +11,10 @@ Good morning.
 Today I am glad to host the table topics session. However, I am not the Table Topics Master.
 
 Actually, I don't want to alarm anybody in this room, but it's just come to my attention that the
-person to your right is a master. (Laughter) Also, the person to your left is a master. In fact
-the person sitting in very seats is a Master. You just need come to the stage.
+person to your right is a master. Also, the person to your left is a master. In fact
+the person sitting in every seat is a Master. You just need come to the stage.
 
-There are 8 rules here, a lot but very simple.
+First there are 8 rules here, a lot but very simple.
 
     When you come to the stage, we shake hands first with smiles, of course.
 
@@ -58,7 +58,7 @@ Q9: How would you eat an apple?
 
 Q10: What would you say to the report about your opinion on the covid-19?
 
-I really hear many great openings from you. Thank you.
+I really hear many astonishing openings from you. Thank you.
 
 Great opening lines to a speech get us curious and can set the direction
 for a powerful talk.
