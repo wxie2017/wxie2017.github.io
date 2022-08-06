@@ -17,6 +17,7 @@ description: wxie's speeches
 
 #### 2022
 
+- [TT: Golden Silence](speech/TTM_silence.html)
 - [TT: Astonishing Opening](speech/TTM_opening.html)
 - [We are here, and we care](speech/we_are_here_care.html)
 - [Run for VPE](speech/run_for_vpe.html)
