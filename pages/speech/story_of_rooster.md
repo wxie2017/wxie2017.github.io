@@ -18,7 +18,7 @@ Many many years ago, when I was a little kid, my family lived in a large
 flat building together with 6 other families. We shared a huge front yard.
 
 I still remember that a warm spring morning, the bright sunshine streamed
-over the spacious yard. A young man came into the yard, carrying two large
+over the spacious yard. A young man walked into the yard, carrying two large
 bamboo baskets over his shoulder.
 
 A street vendor, we kids yelled and ran joyfully around him to see what
@@ -29,8 +29,8 @@ Alas! In the basket, there were chickens, all those yellow, hairy, cute
 chickens. We dared to touch the little things, and they even pecked our
 fingers.
 
-We all could not help having some. We brothers somewhat boldly pushed me to
-as our mom to buy some chickens.
+We all could not help having some. We brothers boldly asked our mom to
+buy some chickens.
 
 "Go to ask your dad." Mom said.
 "Dad, could you buy some chickens? Mom wants us to ask you."
@@ -45,7 +45,7 @@ along the way. We have 7 left: 3 roosters and 4 hens. Other neighbors had the
 similar. All the roosters and hens lived in the yard.
 
 The roosters crowed every morning and the hens laid eggs every day. Our 3 roosters
-sometimes fought each other, and one of them became the winner. His name is
+sometimes fought each other, and one of them became the winner. His name was
 little flower（小花）.
 
 Little flower was a very beautiful rooster. He had bright red comb，golden yellow
@@ -55,7 +55,7 @@ bright, and he crowed loudly and proudly.
 We killed the other 2 roosters, and made delicious meals. I insisted on keeping
 little flower because I liked him so much.
 
-Little flower has his kingdom and he ruled with love. When he scratched up something
+Little flower had his kingdom and he ruled with love. When he scratched up something
 good in the yard, he divided with the hens. He cared the family. However, life wasn't
 easy in the open yard. It was a violent time, all the roosters had to fight to conquer
 more territory for their families.
@@ -93,7 +93,7 @@ That weekend, my family had a chicken meal. I didn't eat.
 This ends the story of little follower. However, I cannot get away with him from my
 mind. I sometimes asked myself why I still remember a rooster after so many years,
 and I could not get an answer that satisfied myself. Little flower's golden feature
-and bleeding face deeply printed in my young mind.
+and bleeding face were deeply printed in my young mind.
 
 Today, I am glad that I could give a speech about little follower in Toastmasters
 meeting. It is a great relief for me because I finally got the chance to show my respect
