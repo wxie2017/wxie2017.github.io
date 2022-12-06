@@ -6,20 +6,21 @@ description: This is a speech I prepare for my mentor project.
 
 
 You and I came to Toastmasters clubs like this paper - full of schedule.
-We already have many experience in life, but we still have one thing in
-common - we still fear to speak on the stage.
+We already have much experience in our life, but we still have one thing
+in common - we still fear to speak on the stage.
 
 Dear fellow toastmasters and distinguished guests, have you ever felt
-the fear when you stand on the stage facing 20+ eyes? I had, and I still have.
+the fear when you stand on the stage facing so many eyes? I had, and I
+still have.
 
 That's normal. Many of us have the same feeling, and Toastmasters club has
-already prepared a system for you. It is called mentor. Mentors know your
-fear and will help you free from fear.
+already prepared a system for you. It is called mentoring. Mentors know your
+fear and will help you be free from fear.
 
 I have been mentoring a few club members. And I still remember this spring.
-We had a new member. Because of the lock-down, we had never seen each other
-besides on-line meetings. We have not had a new member for a while, and
-I felt that I should call her and talk her.
+We had a new member. Because of the lock-down, members had never seen each
+other besides on-line meetings. Because we have not had a new member for a
+while, and I felt that I should call her and talk her.
 
 Dear fellow members, when do you want me to call you?
 
@@ -44,7 +45,10 @@ Later, as you know, but surprised me, I became her mentor.
 
 Mentor has one good thing. You communicate with your mentee and may know more
 about her than other club members. I find that Lanlan is a natural public
-speaker. I like her speeches not only because I am her mentor, but because
+speaker. I only need encourage her to follow the Pathways, and she would make
+it.
+
+I like her speeches not only because I am her mentor, but also because
 she always find her own stories in the speeches. She is my mentor in this part.
 This is a great talent. I fear that I could not guide her enough on this.
 However, the fear is useless. Lanlan set her own goals and followed her own
@@ -55,12 +59,13 @@ in our club.
 do not need mentor to help them write speeches, they need mentor to help them
 know the fear of public speaking, they need mentor to encourage them to speak
 more. Once you let them bravely show up on the stage, they will be free from
-fear, they will do great job, they will be the one they want.
+fear, they will do great job, they will be the one they want. As a mentor, I
+should like them know their wish is much bigger than their fear. Just do it.
 
 Lanlan not only reached her own short term goal, she also sets her long term
 goal. She has been taking many meeting roles in our club and other clubs, and
-she volunteered club officers for two terms already. She will go further, and
-reach higher goals.
+she has volunteered club officers for two terms already. She will go further,
+and will reach higher goals.
 
 I as her mentor, should be free from fear.
 

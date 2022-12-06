@@ -17,7 +17,7 @@ description: wxie's speeches
 
 #### 2022
 
-- [TT: Free from Fear](speech/Free_from_Fear.html)
+- [Free from Fear](speech/Free_from_Fear.html)
 - [TT: Golden Silence](speech/TTM_silence.html)
 - [TT: Astonishing Opening](speech/TTM_opening.html)
 - [We are here, and we care](speech/we_are_here_care.html)
