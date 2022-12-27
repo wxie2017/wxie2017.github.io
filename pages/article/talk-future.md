@@ -5,8 +5,6 @@ description: summary of talk in Amaris on 2022-12-26
 ---
 
 
-# An Inspiring talk, a promising future
-
 Recently, I had a few interview talks with Amaris: Julien, Cahe, and Sebastian.
 The whole process is very open and candid. We talked about some of the important
 elements in a job interview, for example, position understanding and KPI. This
@@ -17,7 +15,7 @@ The summary has four parts as the following.
 ## What do I understand about the position in Amaris
 
 Julien, Cahe and Sebastian all discussed some directions of the position in Amaris,
-from different perspectives in a service provider. The position matches my expectation:
+from different perspectives as a service provider. The position matches my expectation:
 a position combined with program/project management, team management, customer service,
 and inter-company cooperation.
 
