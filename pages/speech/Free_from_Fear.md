@@ -60,7 +60,7 @@ do not need mentor to help them write speeches, they need mentor to help them
 know the fear of public speaking, they need mentor to encourage them to speak
 more. Once you let them bravely show up on the stage, they will be free from
 fear, they will do great job, they will be the one they want. As a mentor, I
-should like them know their wish is much bigger than their fear. Just do it.
+should let them know their wish is much bigger than their fear. Just do it.
 
 Lanlan not only reached her own short term goal, she also sets her long term
 goal. She has been taking many meeting roles in our club and other clubs, and
