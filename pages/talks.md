@@ -15,6 +15,10 @@ description: wxie's speeches
 
 ### <a name="speeches"></a>speeches
 
+#### 2023
+
+- [Right to Share](speech/right_to_share.html)
+
 #### 2022
 
 - [Free from Fear](speech/Free_from_Fear.html)
