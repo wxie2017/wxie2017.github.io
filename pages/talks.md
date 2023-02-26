@@ -17,6 +17,7 @@ description: wxie's speeches
 
 #### 2023
 
+- [Free from Fear](speech/Free_from_Fear_2.html)
 - [TTM: expectation](speech/TTM_expectation.html)
 - [Right to Share](speech/right_to_share.html)
 
