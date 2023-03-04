@@ -17,80 +17,80 @@ I had, and I still have.
 When I joined Yu-Life Club in 2020, I was invited to the new member orientation
 to give a speech.
 
-Raise your hands if you have attended such a meeting.
+Raise your hands if you ever attended such a meeting.
 
-At that time, I thought I was sophisticated and confident enough to do this.
-Of course, I practiced a lot before the meeting.
+There would be many new faces in the meeting. At that time, I thought I was old,
+sophisticated and confident enough to do the speech.
 
-On that day, the meeting started, I spoke. Audience applauded. The meeting ended.
+I practiced a lot and went on to the stage.
 
-Everything sounded wonderful, except that I had so much fear that I lost my words
-for more than 10 seconds during my speech. I felt that all the effort was wasted.
+The meeting started, I spoke. I heard applauses. The meeting ended.
 
-As soon as the meeting finished, one person came to me and said,
+Everything sounded wonderful, except that I had so much fear on the stage that
+I lost my words for more than 10 seconds during my speech.
 
-"That's normal. Many of us have the same feeling."
+Terrible moment!
 
-That person is my Mentor.
+As soon as the meeting finished, a beautiful lady came to me and said,
+
+"That's normal. Many people have the same feeling."
+
+These little words of wisdom made me feel better.
+
+That lady is my Mentor.
 
 Raise your hands if you have a mentor.
 
-Ladies and Gentlemen, Toastmasters club has already prepared a system for you.
-It is called mentoring. Mentors know your fear and will help you be free from fear.
+My mentor always encourages me to get on the stage, and this helps me to be
+free from fear.
 
-Now I have been mentoring a few members in our club. I still remember last spring.
-We had a new member. Because of the lock-down, members had never seen each
-other besides on-line meetings. Because we have not had a new member for a
-while, and I felt that I should call her and talk her.
+Now, I have been mentoring a few members in our club. I still remember last
+spring. We had a new member. Because of the pandemic, members hadn't seen each
+other in person for a while, and our club hadn't had a new member for a long
+time. I thought that I should call the new member and talk her.
 
 "Hi, is this Lanlan?" My voice was a little trembling.
 "Yes", a very soft female voice from the other side, making me free from fear.
 "I am Laoxie. Welcome to join Yu-Life Club. How are you?" I said.
-"Thanks, Laoxie. I am ok. Just stay at home." Lanlan said.
+"Thanks, Laoxie. I am OK. Just stay at home." Lanlan said.
 "How do you know our club?" The conversation continued.
 
-That talk was not 5- to 7-minute, but over 30 minutes. We talked
-about Toastmasters, Pathways, English, and career. The last thing we talked
-was about choosing a mentor. I told her who were the qualified as mentors in our
-club, I was on the list, and she said she would consider.
+It was not a talk of 5- to 7-minute long. It was over 30 minutes. We talked
+about Toastmasters. We talked about Yu-Life. We talked about career, and we
+talked about family. At last we talked about mentoring. I gave her a list of
+qualified mentors in our club including myself, she said she would consider.
 
-In a moment, I feared that she would choose me. In another moment, I feared
-that she would not choose me. This was fear for unknown. Sounds familiar to
-you, right?
+In one moment, I feared that she would choose me. In another moment, I feared
+that she would not choose me. The feeling sounds familiar to you, right?
 
-Later, as you know, but surprised me, I became her mentor.
+Later, I became her mentor.
 
-Mentor has one good thing. You communicate with your mentee and may know more
-about her than other club members. I find that Lanlan is a natural public
-speaker. I only need encourage her to follow the Pathways, and she would make
-it.
+Being a mentor has one good thing. When Lanlan told me she was busy and had no
+time to prepare a speech. I knew that she had fear so I insisted she get on to
+the stage.
 
-She always find her own stories in the speeches. This is a great talent.
-Her Icebreaker was about stories connected with the number of her member ID.
-Her speech contest was about tension ans relaxation between herself and her
-children. Each time she brings in vivid stories like what we all knew but ignored.
+Each time Lanlan shows her great talent as a natural public speaker. Her
+Icebreaker talks about stories connected with the number of her member ID.
+Her speech contest talks about the tension and relaxation between herself
+and her children. She always brings in vivid life stories in the speeches.
+She has no fear.
 
-She is my mentor. I fear that I could not guide her enough on this.
-However, the fear is useless. Lanlan set her own goals and followed her own
-pace. She moves forward in her Pathways and Now she is a qualified mentor
-in our club.
+As her mentor, I fear that I could not guide her enough. However, the fear
+is useless. Lanlan set her own goals and followed her own pace. Now she is
+a qualified mentor in our club.
 
-I learned many things during this mentorship. New members do not need mentor
-to help them write speeches, they need mentor to help them know the fear of
-public speaking is normal, they need mentor to encourage them to speak more.
-Once you let them bravely show up on the stage, they will be free from fear,
-they will do great job, they will be the one they want. As a mentor, I should
-let them know their wish is much bigger than their fear. Just do it.
+Ladies and Gentlemen, you were all new members like Lanlan and me at some
+time. Mentors will help you understand that it is normal to have fear on
+the stage, and encourage you to speak more.
 
-Lanlan she will go further, and will reach higher goals.
+Once you bravely show up on the stage, you will be free from fear; you will
+do a great job; you will be the one you want to be. I know your wish is much
+bigger than the fear. Just do it.
 
-I as her mentor, should be free from fear because it is normal to have fear.
-
-Dear ladies and gentlemen, the whole process is just like this paper, not the
-paper full of schedule, but a white paper. When you have fear, you can hardly
-write anything on it. When you are free from fear, you will draw your own
-picture on it, you will shine your star on it, and you will be great on your
-Pathways.
+The whole process is just like this paper, not the paper full of schedule,
+but a white paper. When you have fear, you can hardly write anything on it.
+When you are free from fear, you will draw your own picture on it, you will
+shine your star on it, and you will be great on your Pathways.
 
 Raise your paper, and be free from fear.
 
