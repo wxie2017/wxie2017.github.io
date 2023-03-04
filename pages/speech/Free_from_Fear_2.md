@@ -6,7 +6,7 @@ description: This is a speech I prepare for my area contest 2023
 
 
 You and I came to Toastmasters clubs like this paper - full of schedule.
-We already have much experience in our life, but we still have one thing
+We already have much experience in our life, yet we still have one thing
 in common - we still fear to speak on the stage.
 
 Dear contest chair, ladies and gentlemen, have you ever felt
@@ -14,10 +14,12 @@ the fear when you stand on the stage facing so many eyes?
 
 I had, and I still have.
 
-When I joined Yu-Life Club in 2000, I was invited to the new member orientation
-to give a speech. Raise your hands if you have attended such a meeting.
+When I joined Yu-Life Club in 2020, I was invited to the new member orientation
+to give a speech.
 
-Yes. I thought I was sophisiticated and confident enough to do this.
+Raise your hands if you have attended such a meeting.
+
+At that time, I thought I was sophisticated and confident enough to do this.
 Of course, I practiced a lot before the meeting.
 
 On that day, the meeting started, I spoke. Audience applauded. The meeting ended.
@@ -65,7 +67,7 @@ it.
 
 She always find her own stories in the speeches. This is a great talent.
 Her Icebreaker was about stories connected with the number of her member ID.
-Her speech contest was about tension ans relaxition between herself and her
+Her speech contest was about tension ans relaxation between herself and her
 children. Each time she brings in vivid stories like what we all knew but ignored.
 
 She is my mentor. I fear that I could not guide her enough on this.
