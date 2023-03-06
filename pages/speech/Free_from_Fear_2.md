@@ -19,7 +19,7 @@ to give a speech.
 
 Raise your hands if you ever attended such a meeting.
 
-There would be many new faces in the meeting. At that time, I thought I was old,
+You would expect many new faces in the meeting. At that time, I thought I was old,
 sophisticated and confident enough to do the speech.
 
 I practiced a lot and went on to the stage.
@@ -33,7 +33,7 @@ Terrible moment!
 
 As soon as the meeting finished, a beautiful lady came to me and said,
 
-"That's normal. Many people have the same feeling."
+"That's normal to have fear. Many people have the same feeling."
 
 These little words of wisdom made me feel better.
 
@@ -57,40 +57,33 @@ time. I thought that I should call the new member and talk her.
 
 It was not a talk of 5- to 7-minute long. It was over 30 minutes. We talked
 about Toastmasters. We talked about Yu-Life. We talked about career, and we
-talked about family. At last we talked about mentoring. I gave her a list of
-qualified mentors in our club including myself, she said she would consider.
-
-In one moment, I feared that she would choose me. In another moment, I feared
-that she would not choose me. The feeling sounds familiar to you, right?
+talked about family.
 
 Later, I became her mentor.
 
-Being a mentor has one good thing. When Lanlan told me she was busy and had no
-time to prepare a speech. I knew that she had fear so I insisted she get on to
-the stage.
+When you had a long talk with somebody, you feel it is easier to give her
+feedback. It is even more so between mentors and proteges. When Lanlan told
+me she was busy and had no time to prepare a speech. I knew that she had
+fear, and I insisted she get on to the stage.
 
-Each time Lanlan shows her great talent as a natural public speaker. Her
+Gradually, Lanlan begins to show her great talent as a public speaker. Her
 Icebreaker talks about stories connected with the number of her member ID.
 Her speech contest talks about the tension and relaxation between herself
-and her children. She always brings in vivid life stories in the speeches.
-She has no fear.
-
-As her mentor, I fear that I could not guide her enough. However, the fear
-is useless. Lanlan set her own goals and followed her own pace. Now she is
-a qualified mentor in our club.
+and her children. She starts to bring in vivid life stories in the speeches.
+She has no fear, and now she is a qualified mentor in our club.
 
 Ladies and Gentlemen, you were all new members like Lanlan and me at some
-time. Mentors will help you understand that it is normal to have fear on
-the stage, and encourage you to speak more.
+time. Your mentors will help you understand that it is normal to have fear
+on the stage, and encourage you to speak more.
 
 Once you bravely show up on the stage, you will be free from fear; you will
-do a great job; you will be the one you want to be. I know your wish is much
-bigger than the fear. Just do it.
+do a great job; you will be the one you want to be. You will know that your
+wish is much bigger than the fear. Just go for it.
 
-The whole process is just like this paper, not the paper full of schedule,
-but a white paper. When you have fear, you can hardly write anything on it.
-When you are free from fear, you will draw your own picture on it, you will
-shine your star on it, and you will be great on your Pathways.
+The whole process is like this paper, not the paper full of schedule, but
+a white paper. When you have fear, you can hardly write anything on it.
+When you are free from fear, you will draw your own pictures on it, you will
+shine your stars on it, and you will be great on your Pathways.
 
 Raise your paper, and be free from fear.
 
