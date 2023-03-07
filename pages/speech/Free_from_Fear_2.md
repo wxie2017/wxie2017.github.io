@@ -33,7 +33,7 @@ Terrible moment!
 
 As soon as the meeting finished, a beautiful lady came to me and said,
 
-"That's normal to have fear. Many people have the same feeling."
+"It's normal to have fear. Many people have the same feeling."
 
 These little words of wisdom made me feel better.
 
@@ -41,7 +41,7 @@ That lady is my Mentor.
 
 Raise your hands if you have a mentor.
 
-My mentor always encourages me to get on the stage, and this helps me to be
+My mentor always encourages me to get on to the stage, and this helps me to be
 free from fear.
 
 Now, I have been mentoring a few members in our club. I still remember last
@@ -61,16 +61,17 @@ talked about family.
 
 Later, I became her mentor.
 
-When you had a long talk with somebody, you feel it is easier to give her
-feedback. It is even more so between mentors and proteges. When Lanlan told
-me she was busy and had no time to prepare a speech. I knew that she had
-fear, and I insisted she get on to the stage.
+After this long talk, you feel it is easier to give her feedback. When
+Lanlan told me she was busy and had no time to prepare a speech. I knew
+that she had fear and insisted she get on to the stage.
 
 Gradually, Lanlan begins to show her great talent as a public speaker. Her
 Icebreaker talks about stories connected with the number of her member ID.
 Her speech contest talks about the tension and relaxation between herself
-and her children. She starts to bring in vivid life stories in the speeches.
-She has no fear, and now she is a qualified mentor in our club.
+and her children. Each time she brings in vivid life stories in the speeches.
+She has no fear and moves forward.
+
+Now she is a qualified mentor in our club.
 
 Ladies and Gentlemen, you were all new members like Lanlan and me at some
 time. Your mentors will help you understand that it is normal to have fear
@@ -78,10 +79,10 @@ on the stage, and encourage you to speak more.
 
 Once you bravely show up on the stage, you will be free from fear; you will
 do a great job; you will be the one you want to be. You will know that your
-wish is much bigger than the fear. Just go for it.
+wishes are much bigger than the fear. You just do it.
 
-The whole process is like this paper, not the paper full of schedule, but
-a white paper. When you have fear, you can hardly write anything on it.
+The whole process is like a piece of paper, not the paper full of schedule,
+but this white paper. When you have fear, you can hardly write anything on it.
 When you are free from fear, you will draw your own pictures on it, you will
 shine your stars on it, and you will be great on your Pathways.
 
