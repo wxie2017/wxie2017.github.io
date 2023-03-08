@@ -59,11 +59,10 @@ It was not a talk of 5- to 7-minute long. It was over 30 minutes. We talked
 about Toastmasters. We talked about Yu-Life. We talked about career, and we
 talked about family.
 
-Later, I became her mentor.
-
-After this long talk, you feel it is easier to give her feedback. When
-Lanlan told me she was busy and had no time to prepare a speech. I knew
-that she had fear and insisted she get on to the stage.
+After this long talk, I became her mentor, and I find it is easier to give
+her feedback. When Lanlan told me she was busy and had no time to prepare
+a speech. I knew that she had fear and insisted she get on to the stage
+anyway.
 
 Gradually, Lanlan begins to show her great talent as a public speaker. Her
 Icebreaker talks about stories connected with the number of her member ID.
