@@ -6,6 +6,8 @@ keywords: wxie, free software, freelancer, CTT
 ---
 
 
+<a href="https://www.gnu.org/gnu40"><img src="GNU40_badge.png" alt="[ Celebrate 40 years of GNU! ]" /></a>
+
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
