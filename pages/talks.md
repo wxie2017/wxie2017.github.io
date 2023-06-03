@@ -17,6 +17,7 @@ description: wxie's speeches
 
 #### 2023
 
+- [TTM: The Special Date](speech/special_date.html)
 - [TTM: science](speech/TTM_science.html)
 - [The story of a rooster](speech/story_of_rooster_2.html)
 - [TTM: talking about cooking](speech/TTM_cooking.html)
