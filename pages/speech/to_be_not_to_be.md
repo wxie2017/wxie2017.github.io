@@ -51,18 +51,24 @@ Raise your hands if you like today's warm up game.
 
 Thank you. I could also play some games in the future. Stay tuned.
 
-To be, or not to be. This is a question.
+To be, or not to be. This was a question.
 
 Now I begin to realize that it is the "to be" not the "not to be"
 that makes me here today. If I had ever chosen the "not to be" I
 would be one of you sitting there, there and there.
 
 Today I am here to call for your action. I started a project of
-SAA. There is job description, and there are on-stage scripts, and
+SAA. This is a projec to make it easy for you to act as the SAA.
+There is job description, and there are on-stage scripts, and
 there are many fun games. Any of you can choose the "to be" to
-practice the role of SAA in this club, in other clubs, in your
-family, in your school, in your work, and most importantly in your
-life.
+practice the role of SAA in this club. You can follow the script,
+you can play the game, you can add your own script, and you can
+innovate your own games. I am expecting that after a few months you
+can act this role in other clubs, in your family, in your school,
+in your work, and most importantly in your life.
+
+I already have Peter and Joker as project members. They are the
+mentors of this role. All you need is the "to be".
 
 To be, or not to be. It is not a problem because I see something
 in your eyes.
