@@ -30,10 +30,10 @@ SAA had the benefit to be the first speaker on the stage in each
 meeting. Sounds great. Right?
 
 I looked up in toastmasters website and found the script to say
-on the stage, and also found that SAA needed clean up the meeting
+on the stage, and also found that SAA needed to clean up the meeting
 room after the meeting as well. No big deal.
 
-Gradually, I began to like this role. Came early and leave late.
+Gradually, I began to like this role. Came early and left late.
 At least I can say the script loudly and fluently:
 
 Welcome to Yu-Life club, Toastmasters is a non-profit educational
@@ -47,7 +47,7 @@ this role. Until Peter became the SAA, until he played the infamous
 one-yuan-and-wu-jiao game, I didn't know that SAA should play the
 warm up game. What a pity!
 
-Raise your hands if you like today's warm up game.
+Raise your hands if you enjoyed today's warm up game.
 
 Thank you. I could also play some games in the future. Stay tuned.
 
