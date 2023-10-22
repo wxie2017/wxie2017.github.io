@@ -21,6 +21,10 @@ None yet!
 
 ### <a name="articles"></a>articles
 
+#### 2023
+
+- [my-evaluation-20230814](article/evaluation-speech-campaign-20230814.html)
+
 #### 2022
 
 - [An Inspiring talk, a promising future](article/talk-future.html)
