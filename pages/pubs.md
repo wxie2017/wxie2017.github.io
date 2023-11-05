@@ -23,6 +23,7 @@ None yet!
 
 #### 2023
 
+- [my-evaluation-20231105](article/evaluation-speech-campaign-20231105.html)
 - [my-evaluation-20230814](article/evaluation-speech-campaign-20230814.html)
 
 #### 2022
