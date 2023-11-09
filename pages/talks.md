@@ -17,6 +17,7 @@ description: wxie's speeches
 
 #### 2023
 
+- [PS: Close Relationship](speech/close_relationship.html)
 - [PS: Warm your body, warmup your mind](speech/warmup_your_body_mind.html)
 - [TTM: Ethic](speech/TTM_ethic.html)
 - [PS: To be, not to be](speech/to_be_not_to_be.html)
