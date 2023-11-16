@@ -6,7 +6,10 @@ keywords: wxie, free software, freelancer, CTT
 ---
 
 
-<a href="https://www.gnu.org/gnu40"><img src="https://www.gnu.org/gnu40/GNU40_badge.png" alt="[ Celebrate 40 years of GNU! ]" /></a>
+<iframe title="FSF Fundraiser Banner"
+  src="//static.fsf.org/nosvn/banners/202311fundraiser/" scrolling="no"
+  style="width: 100%; height: 150px; display: block; margin: 0; border: 0 none; overflow: hidden;">
+</iframe>
 
 <div class="navbar">
   <div class="navbar-inner">
