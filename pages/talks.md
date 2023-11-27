@@ -17,8 +17,8 @@ description: wxie's speeches
 
 #### 2023
 
-- [PS: Feel Art](feel_art.html)
-- [PS: Fruitful journey](Kiwi_fruitful_journey.html)
+- [PS: Feel Art](speech/feel_art.html)
+- [PS: Fruitful journey](speech/Kiwi_fruitful_journey.html)
 - [PS: Close Relationship](speech/close_relationship.html)
 - [PS: Warm your body, warmup your mind](speech/warmup_your_body_mind.html)
 - [TTM: Ethic](speech/TTM_ethic.html)
