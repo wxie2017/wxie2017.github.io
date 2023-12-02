@@ -28,15 +28,15 @@ and was late at home. My mom was there waiting for me.
 
 I slowly opened my bag.
 
-"Give it to me." She pulled the bag from me and powered out everything down
-on the ground. She picked out the empty notebook and looked at me.
+"Give it to me." She pulled the bag from me and poured out everything down
+on the floor. She picked out the empty notebook and looked at me.
 
 "Where is your homework?"
 
 I stood there silently and you know there is going to be some close relationship.
 I did not like that close relationship. That was painful.
 
-But life was not always painful. Sometimes it was tasty.
+But the close relationship was not always painful. Sometimes it was tasty.
 
 Once mom took my younger brother and me to the town. My younger brother sat at
 the front side of the bicycle, mom rode in the middle, and my father put me at
