@@ -17,6 +17,7 @@ description: wxie's speeches
 
 #### 2023
 
+- [PS: Appreciation and a movie](speech/appreciation_movie.html)
 - [PS: Feel Art](speech/feel_art.html)
 - [PS: Fruitful journey](speech/Kiwi_fruitful_journey.html)
 - [PS: Close Relationship](speech/close_relationship.html)
