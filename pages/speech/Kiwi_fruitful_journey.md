@@ -5,14 +5,19 @@ description: This a speech I write after 2023-11-12 club Table Topics.
 ---
 
 
+Recently, in a Table Topics session, the Topic Master asked me to pick a fruit
+from her bag. I touched a small but not smooth round ball and I took it.
+
+It was like this.
+
 Dear fellow members and distinguished guests:
 
 This is a strange fruit, isn't it?
 
-It has strange name - kiwi. Its Chinese name is even stranger, right?
+It has strange name - kiwi. Its Chinese name is even stranger? Who knows?
 
-When I first had this fruit, I didn't know how to eat it. It looks like a simple
-fruit: small, nestled within a fuzzy skin.
+Long long time ago, when I first had this fruit, I didn't know how to eat it.
+It looks like a simple fruit: small, nestled within a fuzzy skin.
 
 I touched it. It felt hairy. I bite the skin, and it tasted sour. But it started
 to burst with bright green flesh. I sucked juicy liquid from its fleesh. Wow, I
@@ -33,22 +38,20 @@ invites us to explore the unknown. At first glance, a kiwi is unassuming, its
 fuzzy brown exterior concealing the vibrant life within. I, as the first-time
 consumer might be wary, unsure of how to approach it. The exploration begins here.
 
-When you bravely start the first bite, it is a rush of flavors – sweet, sour, and
+When I bravely start the first bite, it is a rush of flavors – sweet, sour, and
 incredibly refreshing. It's an exploration of taste, a journey into the unknown that
 rewards you with a delightful sensory experience.
 
 Eating a kiwi is much like exploring the unknown - it involves curiosity, the willingness
 to try something new, and the joy of discovery. It shows us that the unknown is not
 something to fear but to embrace, for it holds the promise of new experiences, flavors,
-and understandings.
+and understandings. It encourages us to venture into the unknown, to welcome change, to
+adapt, and to grow. Just as the kiwi transformed from an obscure Chinese berry into a
+globally celebrated fruit, we too can emerge from the realms of the unknown, stronger,
+more resilient, and more successful.
 
-The narrative of the kiwi serves as an allegory for our own lives. It encourages us to
-venture into the unknown, to welcome change, to adapt, and to grow. Just as the kiwi
-transformed from an obscure Chinese berry into a globally celebrated fruit, we too can
-emerge from the realms of the unknown, stronger, more resilient, and more successful.
-
-So, let's take a leaf from the kiwi's book. Let's embrace the unknown, venture out of
-our comfort zones, and savor the sweet taste of discovery. After all, exploration is the
-engine of progress, and every step into the unknown is a step towards growth.
+So, let's take a leaf from the kiwi. Let's embrace the unknown, venture out of our comfort
+zones, and savor the sweet taste of discovery. After all, exploration is the engine of
+progress, and every step into the unknown is a step towards growth.
 
 Thank you.
