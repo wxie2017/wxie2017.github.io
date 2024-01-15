@@ -15,6 +15,12 @@ description: wxie's speeches
 
 ### <a name="speeches"></a>speeches
 
+
+#### 2024
+
+- [PS: 一些不那么熟悉的名字](speech/some-unfamiliar-names.html)
+- [PS: Speeches and Evaluation in the 7th D85-N-Division Speech Workshop](speech/7th-opening-self-introdution.html)
+
 #### 2023
 
 - [PS: Appreciation and a movie](speech/appreciation_movie.html)
