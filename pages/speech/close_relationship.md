@@ -5,19 +5,21 @@ description: This a speech I write after 2023-11-05 club Table Topics.
 ---
 
 
-Two score and fifteen years ago, after ten months of a close relationship, I
-parted ways with my dear mom and entered this crazy world.
-
 Dear contest chair, fellow Toastmasters, and honored guests,
 
-Take a deep breath if you think that this world is crazy.
+Have you ever had a close relationship?
+
+Do you still have it?
+
+Two score and fifteen years ago, after ten months of a close relationship, I
+broke with my dear mom and entered this crazy world.
 
 The world is so crazy that I had to go to school and do homework. I wasn't
-afraid of the teachers; they were kind and let me go home anyway. But there
-was one person I was very afraid of. You know who she was—my dear mom.
+afraid of the teachers; they were all kind and let me go home anyway. But
+there was one person I was very afraid of. You know who she was—my dear mom.
 
-I still remember one day I was playing cards with classmates after school and
-got home late. My mom was right there waiting for me.
+One sunny afternoon I had my happy hours after school playing cards with
+classmates and got home late. My mom was right there waiting for me.
 
 "Why are you so late?" I could hear the anger in her voice.
 
@@ -43,14 +45,14 @@ the end. We were all happy in town.
 
 When it was time to come back, there was a problem: my brother sat at the
 front, mom was in the middle, but I couldn't get on the moving bicycle. If mom
-stopped to put me on, she couldn't start pedaling again. The road was empty.
+stopped to put me on, she couldn't start pedaling again.
 
-After several attempts, mom said, "I'll take your brother, and you walk home."
-I could clearly see the tears in her eyes. At that moment, I felt the close
-relationship between mom and me. I nodded, and mom rode away.
+After several attempts, mom looked at me and said, "I'll take your brother,
+and you walk home." I could clearly see the tears in her eyes. At that moment,
+I felt the close relationship between mom and me. I nodded, and mom rode away.
 
-I walked and walked. The road seemed endless, and the fading light is my only
-companion. Raise your hands if you know the feeling of hopelessness.
+I walked and walked. The road seemed endless, and the fading light was my only
+companion. Take a deep breath if you know the feeling of hopelessness.
 
 Time passed by. Suddenly, in the twilight, I saw a familiar figure coming
 towards me. It was my mother, her face etched with determination and love.
@@ -81,7 +83,7 @@ times, and joy in moments of triumph.
 However, like any other aspect of life, close relationships are not always
 comfortable, and they can be easy to lose, too.
 
-Dear friends, When was the last time you picked up the phone to tighten
+Dear friends, when was the last time you picked up the phone to tighten
 the strings that bind you to your loved ones? Many of us have been working
 and living far away from our homes. While distance is no longer a barrier
 to a close relationship, I urge you, don't wait. Reach out. Reconnect.
