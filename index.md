@@ -6,10 +6,12 @@ keywords: wxie, free software, freelancer, CTT
 ---
 
 
-<iframe title="FSF Fundraiser Banner"
-  src="//static.fsf.org/nosvn/banners/202311fundraiser/" scrolling="no"
-  style="width: 100%; height: 150px; display: block; margin: 0; border: 0 none; overflow: hidden;">
-</iframe>
+    <iframe
+      title="FSF Fundraiser Banner"
+      src="//static.fsf.org/nosvn/banners/202406fundraiser/"
+      scrolling="no"
+      style="width: 100%; height: 300px; display: block; margin: 0; border: 0 none; overflow: hidden;">
+    </iframe>
 
 <div class="navbar">
   <div class="navbar-inner">
